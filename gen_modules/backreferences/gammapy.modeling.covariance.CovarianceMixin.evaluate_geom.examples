@@ -1,0 +1,42 @@
+
+
+Examples using ``gammapy.modeling.covariance.CovarianceMixin.evaluate_geom``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. start-sphx-glr-thumbnails
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbnails">
+
+.. thumbnail-parent-div-open
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="This is a spatial model parametrising a generalized Gaussian function.">
+
+.. only:: html
+
+  .. image:: /user-guide/model-gallery/spatial/images/thumb/sphx_glr_plot_gen_gauss_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_user-guide_model-gallery_spatial_plot_gen_gauss.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Generalized gaussian spatial model</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_user-guide_model-gallery_spatial_plot_gen_gauss.py`
+
+.. thumbnail-parent-div-close
+
+.. raw:: html
+
+    </div>
+

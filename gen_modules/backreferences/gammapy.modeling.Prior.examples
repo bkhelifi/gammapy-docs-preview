@@ -1,0 +1,63 @@
+
+
+Examples using ``gammapy.modeling.Prior``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. start-sphx-glr-thumbnails
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbnails">
+
+.. thumbnail-parent-div-open
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Gamma rays emitted from extra-galactic objects, eg blazars, interact with the photons of the Extragalactic Background Light (EBL) through pair production and are attenuated, thus modifying the intrinsic spectrum.">
+
+.. only:: html
+
+  .. image:: /tutorials/analysis-1d/images/thumb/sphx_glr_ebl_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_analysis-1d_ebl.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Account for spectral absorption due to the EBL</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_analysis-1d_ebl.py`
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Learn how you can include prior knowledge into the fitting by setting priors on single parameters.">
+
+.. only:: html
+
+  .. image:: /tutorials/api/images/thumb/sphx_glr_priors_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_api_priors.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Priors</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_api_priors.py`
+
+.. thumbnail-parent-div-close
+
+.. raw:: html
+
+    </div>
+

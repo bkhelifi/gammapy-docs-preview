@@ -1,0 +1,148 @@
+{
+ "DataStore.from_dir": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.data.data_store",
+   "module_short": "gammapy.data",
+   "name": "DataStore.from_dir"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.data",
+   "module_short": "gammapy.data",
+   "name": "DataStore.from_dir"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "DataStore.from_dir"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data.DataStore",
+   "module_short": "gammapy.data.DataStore",
+   "name": "from_dir"
+  }
+ ],
+ "Map.create": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "create"
+  }
+ ],
+ "__name__": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "str"
+  }
+ ],
+ "https://www.mpi-hd.mpg.de/hfm/HESS/pages/dl3-dr1/": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "https://www.mpi-hd.mpg",
+   "module_short": "https://www.mpi-hd.mpg",
+   "name": "de/hfm/HESS/pages/dl3-dr1/"
+  }
+ ],
+ "log": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "logging",
+   "module_short": "logging",
+   "name": "Logger"
+  }
+ ],
+ "log.info": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "logging",
+   "module_short": "logging",
+   "name": "Logger.info"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "logging",
+   "module_short": "logging",
+   "name": "Filterer.info"
+  }
+ ],
+ "logging.INFO": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "int"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "logging",
+   "module_short": "logging",
+   "name": "INFO"
+  }
+ ],
+ "logging.basicConfig": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "logging",
+   "module_short": "logging",
+   "name": "basicConfig"
+  }
+ ],
+ "logging.getLogger": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "logging",
+   "module_short": "logging",
+   "name": "getLogger"
+  }
+ ],
+ "main": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  }
+ ]
+}

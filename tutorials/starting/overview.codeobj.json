@@ -1,0 +1,2525 @@
+{
+ "/tutorials/api/maps": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "/tutorials/api/maps"
+  }
+ ],
+ "EventList.read": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.data.event_list",
+   "module_short": "gammapy.data",
+   "name": "EventList.read"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.data",
+   "module_short": "gammapy.data",
+   "name": "EventList.read"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "EventList.read"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data.EventList",
+   "module_short": "gammapy.data.EventList",
+   "name": "read"
+  }
+ ],
+ "Map.read": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "read"
+  }
+ ],
+ "SkyCoord": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "astropy.coordinates.sky_coordinate",
+   "module_short": "astropy.coordinates",
+   "name": "SkyCoord"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "astropy.coordinates",
+   "module_short": "astropy.coordinates",
+   "name": "SkyCoord"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "SkyCoord"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "astropy.utils.shapes",
+   "module_short": "astropy.utils",
+   "name": "ShapedLikeNDArray"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "astropy.utils",
+   "module_short": "astropy.utils",
+   "name": "ShapedLikeNDArray"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "ShapedLikeNDArray"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "astropy.utils.shapes",
+   "module_short": "astropy.utils",
+   "name": "NDArrayShapeMethods"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "astropy.utils",
+   "module_short": "astropy.utils",
+   "name": "NDArrayShapeMethods"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "NDArrayShapeMethods"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.coordinates",
+   "module_short": "astropy.coordinates",
+   "name": "SkyCoord"
+  }
+ ],
+ "SourceCatalog3FHL": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.catalog.fermi",
+   "module_short": "gammapy.catalog",
+   "name": "SourceCatalog3FHL"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.catalog",
+   "module_short": "gammapy.catalog",
+   "name": "SourceCatalog3FHL"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SourceCatalog3FHL"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.catalog.core",
+   "module_short": "gammapy.catalog",
+   "name": "SourceCatalog"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.catalog",
+   "module_short": "gammapy.catalog",
+   "name": "SourceCatalog"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SourceCatalog"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.catalog",
+   "module_short": "gammapy.catalog",
+   "name": "SourceCatalog3FHL"
+  }
+ ],
+ "SphericalCircleSkyRegion": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.utils.regions",
+   "module_short": "gammapy.utils.regions",
+   "name": "SphericalCircleSkyRegion"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.utils",
+   "module_short": "gammapy.utils",
+   "name": "SphericalCircleSkyRegion"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SphericalCircleSkyRegion"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "regions.shapes.circle",
+   "module_short": "regions",
+   "name": "CircleSkyRegion"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "regions.shapes",
+   "module_short": "regions",
+   "name": "CircleSkyRegion"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "regions",
+   "module_short": "regions",
+   "name": "CircleSkyRegion"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "regions.core.core",
+   "module_short": "regions",
+   "name": "SkyRegion"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "regions.core",
+   "module_short": "regions",
+   "name": "SkyRegion"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "regions",
+   "module_short": "regions",
+   "name": "SkyRegion"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "regions.core.core",
+   "module_short": "regions",
+   "name": "Region"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "regions.core",
+   "module_short": "regions",
+   "name": "Region"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "regions",
+   "module_short": "regions",
+   "name": "Region"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.utils.regions",
+   "module_short": "gammapy.utils.regions",
+   "name": "SphericalCircleSkyRegion"
+  }
+ ],
+ "astropy.coordinates.SkyCoord": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "astropy.coordinates",
+   "module_short": "astropy.coordinates",
+   "name": "SkyCoord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "astropy.coordinates",
+   "module_short": "astropy.coordinates",
+   "name": "SkyCoord"
+  }
+ ],
+ "astropy.table.Table": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "astropy.table",
+   "module_short": "astropy.table",
+   "name": "Table"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "astropy.table",
+   "module_short": "astropy.table",
+   "name": "Table"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "astropy.table",
+   "module_short": "astropy.table",
+   "name": "Table"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "astropy.table",
+   "module_short": "astropy.table",
+   "name": "Table"
+  }
+ ],
+ "astropy.time.Time": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "astropy.time",
+   "module_short": "astropy.time",
+   "name": "Time"
+  }
+ ],
+ "astropy.units.Quantity": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "Quantity"
+  }
+ ],
+ "ax": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.axes._axes",
+   "module_short": "matplotlib.axes",
+   "name": "Axes"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.axes",
+   "module_short": "matplotlib.axes",
+   "name": "Axes"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib",
+   "module_short": "matplotlib",
+   "name": "Axes"
+  }
+ ],
+ "ax_crab_3fhl": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.axes._axes",
+   "module_short": "matplotlib.axes",
+   "name": "Axes"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.axes",
+   "module_short": "matplotlib.axes",
+   "name": "Axes"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib",
+   "module_short": "matplotlib",
+   "name": "Axes"
+  }
+ ],
+ "center": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.coordinates.sky_coordinate",
+   "module_short": "astropy.coordinates",
+   "name": "SkyCoord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.coordinates",
+   "module_short": "astropy.coordinates",
+   "name": "SkyCoord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "SkyCoord"
+  }
+ ],
+ "check_tutorials_setup": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.utils.check",
+   "module_short": "gammapy.utils.check",
+   "name": "check_tutorials_setup"
+  }
+ ],
+ "crab_3fhl": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.catalog.fermi",
+   "module_short": "gammapy.catalog",
+   "name": "SourceCatalogObject3FHL"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.catalog",
+   "module_short": "gammapy.catalog",
+   "name": "SourceCatalogObject3FHL"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SourceCatalogObject3FHL"
+  }
+ ],
+ "crab_3fhl.data": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.catalog.core",
+   "module_short": "gammapy.catalog.core",
+   "name": "Bunch"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.catalog",
+   "module_short": "gammapy.catalog",
+   "name": "Bunch"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Bunch"
+  }
+ ],
+ "crab_3fhl.flux_points": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.catalog.fermi",
+   "module_short": "gammapy.catalog",
+   "name": "SourceCatalogObject3FHL.flux_points"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.catalog",
+   "module_short": "gammapy.catalog",
+   "name": "SourceCatalogObject3FHL.flux_points"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SourceCatalogObject3FHL.flux_points"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.catalog.fermi",
+   "module_short": "gammapy.catalog.fermi",
+   "name": "SourceCatalogObjectFermiBase.flux_points"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.catalog",
+   "module_short": "gammapy.catalog",
+   "name": "SourceCatalogObjectFermiBase.flux_points"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SourceCatalogObjectFermiBase.flux_points"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.catalog.core",
+   "module_short": "gammapy.catalog.core",
+   "name": "SourceCatalogObject.flux_points"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.catalog",
+   "module_short": "gammapy.catalog",
+   "name": "SourceCatalogObject.flux_points"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SourceCatalogObject.flux_points"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.flux_points"
+  }
+ ],
+ "crab_3fhl.flux_points.plot": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.catalog.fermi",
+   "module_short": "gammapy.catalog",
+   "name": "SourceCatalogObject3FHL.flux_points"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.catalog",
+   "module_short": "gammapy.catalog",
+   "name": "SourceCatalogObject3FHL.flux_points"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SourceCatalogObject3FHL.flux_points"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.catalog.fermi",
+   "module_short": "gammapy.catalog.fermi",
+   "name": "SourceCatalogObjectFermiBase.flux_points"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.catalog",
+   "module_short": "gammapy.catalog",
+   "name": "SourceCatalogObjectFermiBase.flux_points"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SourceCatalogObjectFermiBase.flux_points"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.catalog.core",
+   "module_short": "gammapy.catalog.core",
+   "name": "SourceCatalogObject.flux_points"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.catalog",
+   "module_short": "gammapy.catalog",
+   "name": "SourceCatalogObject.flux_points"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SourceCatalogObject.flux_points"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.flux_points"
+  }
+ ],
+ "crab_3fhl.flux_points.to_table": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.catalog.fermi",
+   "module_short": "gammapy.catalog",
+   "name": "SourceCatalogObject3FHL.flux_points"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.catalog",
+   "module_short": "gammapy.catalog",
+   "name": "SourceCatalogObject3FHL.flux_points"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SourceCatalogObject3FHL.flux_points"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.catalog.fermi",
+   "module_short": "gammapy.catalog.fermi",
+   "name": "SourceCatalogObjectFermiBase.flux_points"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.catalog",
+   "module_short": "gammapy.catalog",
+   "name": "SourceCatalogObjectFermiBase.flux_points"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SourceCatalogObjectFermiBase.flux_points"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.catalog.core",
+   "module_short": "gammapy.catalog.core",
+   "name": "SourceCatalogObject.flux_points"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.catalog",
+   "module_short": "gammapy.catalog",
+   "name": "SourceCatalogObject.flux_points"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SourceCatalogObject.flux_points"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.flux_points"
+  }
+ ],
+ "crab_3fhl.spectral_model": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.catalog.fermi",
+   "module_short": "gammapy.catalog",
+   "name": "SourceCatalogObject3FHL.spectral_model"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.catalog",
+   "module_short": "gammapy.catalog",
+   "name": "SourceCatalogObject3FHL.spectral_model"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SourceCatalogObject3FHL.spectral_model"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.catalog.fermi",
+   "module_short": "gammapy.catalog.fermi",
+   "name": "SourceCatalogObjectFermiBase.spectral_model"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.catalog",
+   "module_short": "gammapy.catalog",
+   "name": "SourceCatalogObjectFermiBase.spectral_model"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SourceCatalogObjectFermiBase.spectral_model"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.catalog.core",
+   "module_short": "gammapy.catalog.core",
+   "name": "SourceCatalogObject.spectral_model"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.catalog",
+   "module_short": "gammapy.catalog",
+   "name": "SourceCatalogObject.spectral_model"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SourceCatalogObject.spectral_model"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.spectral_model"
+  }
+ ],
+ "crab_3fhl_spec": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.spectral",
+   "module_short": "gammapy.modeling.models",
+   "name": "PowerLawSpectralModel"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "PowerLawSpectralModel"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "PowerLawSpectralModel"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "PowerLawSpectralModel"
+  }
+ ],
+ "crab_3fhl_spec.energy_flux": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.spectral",
+   "module_short": "gammapy.modeling.models",
+   "name": "PowerLawSpectralModel.energy_flux"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "PowerLawSpectralModel.energy_flux"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "PowerLawSpectralModel.energy_flux"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "PowerLawSpectralModel.energy_flux"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.spectral",
+   "module_short": "gammapy.modeling.models",
+   "name": "SpectralModel.energy_flux"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "SpectralModel.energy_flux"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "SpectralModel.energy_flux"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SpectralModel.energy_flux"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.core",
+   "module_short": "gammapy.modeling.models.core",
+   "name": "ModelBase.energy_flux"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase.energy_flux"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "ModelBase.energy_flux"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "ModelBase.energy_flux"
+  }
+ ],
+ "crab_3fhl_spec.integral": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.spectral",
+   "module_short": "gammapy.modeling.models",
+   "name": "PowerLawSpectralModel.integral"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "PowerLawSpectralModel.integral"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "PowerLawSpectralModel.integral"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "PowerLawSpectralModel.integral"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.spectral",
+   "module_short": "gammapy.modeling.models",
+   "name": "SpectralModel.integral"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "SpectralModel.integral"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "SpectralModel.integral"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SpectralModel.integral"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.core",
+   "module_short": "gammapy.modeling.models.core",
+   "name": "ModelBase.integral"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase.integral"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "ModelBase.integral"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "ModelBase.integral"
+  }
+ ],
+ "crab_3fhl_spec.plot": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.spectral",
+   "module_short": "gammapy.modeling.models",
+   "name": "PowerLawSpectralModel.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "PowerLawSpectralModel.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "PowerLawSpectralModel.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "PowerLawSpectralModel.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.spectral",
+   "module_short": "gammapy.modeling.models",
+   "name": "SpectralModel.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "SpectralModel.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "SpectralModel.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SpectralModel.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.core",
+   "module_short": "gammapy.modeling.models.core",
+   "name": "ModelBase.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "ModelBase.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "ModelBase.plot"
+  }
+ ],
+ "events_3fhl": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data.event_list",
+   "module_short": "gammapy.data",
+   "name": "EventList"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data",
+   "module_short": "gammapy.data",
+   "name": "EventList"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "EventList"
+  }
+ ],
+ "events_3fhl.energy.to": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data.event_list",
+   "module_short": "gammapy.data",
+   "name": "EventList.energy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data",
+   "module_short": "gammapy.data",
+   "name": "EventList.energy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "EventList.energy"
+  }
+ ],
+ "events_3fhl.galactic": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data.event_list",
+   "module_short": "gammapy.data",
+   "name": "EventList.galactic"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data",
+   "module_short": "gammapy.data",
+   "name": "EventList.galactic"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "EventList.galactic"
+  }
+ ],
+ "events_3fhl.select_region": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data.event_list",
+   "module_short": "gammapy.data",
+   "name": "EventList.select_region"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data",
+   "module_short": "gammapy.data",
+   "name": "EventList.select_region"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "EventList.select_region"
+  }
+ ],
+ "events_3fhl.table": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.table.table",
+   "module_short": "astropy.table",
+   "name": "Table"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.table",
+   "module_short": "astropy.table",
+   "name": "Table"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "Table"
+  }
+ ],
+ "events_3fhl.table.colnames": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.table.table",
+   "module_short": "astropy.table",
+   "name": "Table.colnames"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.table",
+   "module_short": "astropy.table",
+   "name": "Table.colnames"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "Table.colnames"
+  }
+ ],
+ "events_3fhl.time": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data.event_list",
+   "module_short": "gammapy.data",
+   "name": "EventList.time"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data",
+   "module_short": "gammapy.data",
+   "name": "EventList.time"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "EventList.time"
+  }
+ ],
+ "events_gc_3fhl": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data.event_list",
+   "module_short": "gammapy.data",
+   "name": "EventList"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data",
+   "module_short": "gammapy.data",
+   "name": "EventList"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "EventList"
+  }
+ ],
+ "events_gc_3fhl.energy": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data.event_list",
+   "module_short": "gammapy.data",
+   "name": "EventList.energy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data",
+   "module_short": "gammapy.data",
+   "name": "EventList.energy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "EventList.energy"
+  }
+ ],
+ "events_gc_3fhl.table.sort": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.table.table",
+   "module_short": "astropy.table",
+   "name": "Table.sort"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.table",
+   "module_short": "astropy.table",
+   "name": "Table.sort"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "Table.sort"
+  }
+ ],
+ "fermi_3fhl": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.catalog.fermi",
+   "module_short": "gammapy.catalog",
+   "name": "SourceCatalog3FHL"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.catalog",
+   "module_short": "gammapy.catalog",
+   "name": "SourceCatalog3FHL"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SourceCatalog3FHL"
+  }
+ ],
+ "fermi_3fhl.table": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.table.table",
+   "module_short": "astropy.table",
+   "name": "Table"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.table",
+   "module_short": "astropy.table",
+   "name": "Table"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "Table"
+  }
+ ],
+ "fermi_3fhl.table.sort": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.table.table",
+   "module_short": "astropy.table",
+   "name": "Table.sort"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.table",
+   "module_short": "astropy.table",
+   "name": "Table.sort"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "Table.sort"
+  }
+ ],
+ "gammapy.catalog": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "catalog"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "catalog"
+  }
+ ],
+ "gammapy.catalog.SourceCatalog": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.catalog",
+   "module_short": "gammapy.catalog",
+   "name": "SourceCatalog"
+  }
+ ],
+ "gammapy.catalog.SourceCatalog.positions": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.catalog.SourceCatalog",
+   "module_short": "gammapy.catalog.SourceCatalog",
+   "name": "positions"
+  }
+ ],
+ "gammapy.catalog.SourceCatalog3FHL": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.catalog",
+   "module_short": "gammapy.catalog",
+   "name": "SourceCatalog3FHL"
+  }
+ ],
+ "gammapy.data": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "data"
+  }
+ ],
+ "gammapy.data.EventList": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.data",
+   "module_short": "gammapy.data",
+   "name": "EventList"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.data",
+   "module_short": "gammapy.data",
+   "name": "EventList"
+  }
+ ],
+ "gammapy.data.EventList.read()": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.data.EventList",
+   "module_short": "gammapy.data.EventList",
+   "name": "read()"
+  }
+ ],
+ "gammapy.estimators.FluxPoints": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.estimators",
+   "module_short": "gammapy.estimators",
+   "name": "FluxPoints"
+  }
+ ],
+ "gammapy.maps": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "maps"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "maps"
+  }
+ ],
+ "gammapy.maps.Map.cutout": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "cutout"
+  }
+ ],
+ "gammapy.maps.WcsGeom": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsGeom"
+  }
+ ],
+ "gammapy.maps.WcsGeom.contains()": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.WcsGeom",
+   "module_short": "gammapy.maps.WcsGeom",
+   "name": "contains()"
+  }
+ ],
+ "gammapy.maps.WcsNDMap": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  }
+ ],
+ "gammapy.modeling.models.PowerLaw2SpectralModel": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "PowerLaw2SpectralModel"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "PowerLaw2SpectralModel"
+  }
+ ],
+ "gammapy.modeling.models.SpectralModel": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "SpectralModel"
+  }
+ ],
+ "gc_3fhl": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap"
+  }
+ ],
+ "gc_3fhl.data": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.data"
+  }
+ ],
+ "gc_3fhl.data.sum": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.data"
+  }
+ ],
+ "gc_3fhl.geom": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.geom"
+  }
+ ],
+ "gc_3fhl.plot": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps.wcs.core",
+   "name": "WcsMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps.wcs",
+   "name": "WcsMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps.core",
+   "name": "Map.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.plot"
+  }
+ ],
+ "gc_3fhl.smooth": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.smooth"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.smooth"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.smooth"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.smooth"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps.wcs.core",
+   "name": "WcsMap.smooth"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps.wcs",
+   "name": "WcsMap.smooth"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.smooth"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.smooth"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps.core",
+   "name": "Map.smooth"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.smooth"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.smooth"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.smooth"
+  }
+ ],
+ "gc_3fhl_cutout": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap"
+  }
+ ],
+ "gc_3fhl_cutout.plot": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps.wcs.core",
+   "name": "WcsMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps.wcs",
+   "name": "WcsMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps.core",
+   "name": "Map.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.plot"
+  }
+ ],
+ "gc_3fhl_smoothed": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap"
+  }
+ ],
+ "gc_3fhl_smoothed.cutout": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.cutout"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.cutout"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.cutout"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.cutout"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps.wcs.core",
+   "name": "WcsMap.cutout"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps.wcs",
+   "name": "WcsMap.cutout"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.cutout"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.cutout"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps.core",
+   "name": "Map.cutout"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.cutout"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.cutout"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.cutout"
+  }
+ ],
+ "gc_3fhl_smoothed.plot": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps.wcs.core",
+   "name": "WcsMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps.wcs",
+   "name": "WcsMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps.core",
+   "name": "Map.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.plot"
+  }
+ ],
+ "http://fermi.gsfc.nasa.gov/ssc/data/access/lat/3FHL/": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "http://fermi.gsfc.nasa",
+   "module_short": "http://fermi.gsfc.nasa",
+   "name": "gov/ssc/data/access/lat/3FHL/"
+  }
+ ],
+ "https://docs.astropy.org/en/stable/visualization/wcsaxes/": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "https://docs.astropy",
+   "module_short": "https://docs.astropy",
+   "name": "org/en/stable/visualization/wcsaxes/"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "https://docs.astropy",
+   "module_short": "https://docs.astropy",
+   "name": "org/en/stable/visualization/wcsaxes/"
+  }
+ ],
+ "https://gamma-astro-data-formats.readthedocs.io/en/latest/spectra/flux_points/index.html": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "https://gamma-astro-data-formats.readthedocs.io/en/latest/spectra/flux_points/index",
+   "module_short": "https://gamma-astro-data-formats.readthedocs.io/en/latest/spectra/flux_points/index",
+   "name": "html"
+  }
+ ],
+ "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.imshow.html": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.imshow",
+   "module_short": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.imshow",
+   "name": "html"
+  }
+ ],
+ "mkn_421_3fhl": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.catalog.fermi",
+   "module_short": "gammapy.catalog",
+   "name": "SourceCatalogObject3FHL"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.catalog",
+   "module_short": "gammapy.catalog",
+   "name": "SourceCatalogObject3FHL"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SourceCatalogObject3FHL"
+  }
+ ],
+ "mkn_421_3fhl.data": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.catalog.core",
+   "module_short": "gammapy.catalog.core",
+   "name": "Bunch"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.catalog",
+   "module_short": "gammapy.catalog",
+   "name": "Bunch"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Bunch"
+  }
+ ],
+ "numpy.ndarray": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "numpy",
+   "module_short": "numpy",
+   "name": "ndarray"
+  }
+ ],
+ "plt.show": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.pyplot",
+   "module_short": "matplotlib.pyplot",
+   "name": "show"
+  }
+ ],
+ "region": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.utils.regions",
+   "module_short": "gammapy.utils.regions",
+   "name": "SphericalCircleSkyRegion"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.utils",
+   "module_short": "gammapy.utils",
+   "name": "SphericalCircleSkyRegion"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SphericalCircleSkyRegion"
+  }
+ ],
+ "top_five_TS_3fhl": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.table.table",
+   "module_short": "astropy.table",
+   "name": "Table"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.table",
+   "module_short": "astropy.table",
+   "name": "Table"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "Table"
+  }
+ ],
+ "u.GeV": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units.core",
+   "module_short": "astropy.units",
+   "name": "PrefixUnit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "PrefixUnit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "PrefixUnit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "GeV"
+  }
+ ],
+ "u.deg": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units.core",
+   "module_short": "astropy.units",
+   "name": "Unit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "Unit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "Unit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "deg"
+  }
+ ]
+}

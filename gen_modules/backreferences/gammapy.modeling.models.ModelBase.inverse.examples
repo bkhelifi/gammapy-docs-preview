@@ -1,0 +1,42 @@
+
+
+Examples using ``gammapy.modeling.models.ModelBase.inverse``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. start-sphx-glr-thumbnails
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbnails">
+
+.. thumbnail-parent-div-open
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="The sub-package modeling contains all the functionality related to modeling and fitting data. This includes spectral, spatial and temporal model classes, as well as the fit and parameter API.The models follow a naming scheme which contains the category as a suffix to the class name. An overview of all the available models can be found in the model-gallery.">
+
+.. only:: html
+
+  .. image:: /tutorials/api/images/thumb/sphx_glr_models_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_api_models.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Models</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_api_models.py`
+
+.. thumbnail-parent-div-close
+
+.. raw:: html
+
+    </div>
+

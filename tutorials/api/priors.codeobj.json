@@ -1,0 +1,4826 @@
+{
+ "-53.91": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "-53",
+   "module_short": "-53",
+   "name": "91"
+  }
+ ],
+ "-55.03": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "-55",
+   "module_short": "-55",
+   "name": "03"
+  }
+ ],
+ "/tutorials/analysis-1d/spectral_analysis": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "/tutorials/analysis-1d/spectral_analysis"
+  }
+ ],
+ "/tutorials/api/fitting": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "/tutorials/api/fitting"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "/tutorials/api/fitting"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "/tutorials/api/fitting"
+  }
+ ],
+ "/user-guide/stats/fit_statistics": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "/user-guide/stats/fit_statistics"
+  }
+ ],
+ "0.1": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "0",
+   "module_short": "0",
+   "name": "1"
+  }
+ ],
+ "100": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "100"
+  }
+ ],
+ "1\\sigma": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "1\\sigma"
+  }
+ ],
+ "2.1": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "2",
+   "module_short": "2",
+   "name": "1"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "2",
+   "module_short": "2",
+   "name": "1"
+  }
+ ],
+ "2.16": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "2",
+   "module_short": "2",
+   "name": "16"
+  }
+ ],
+ "2.3": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "2",
+   "module_short": "2",
+   "name": "3"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "2",
+   "module_short": "2",
+   "name": "3"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "2",
+   "module_short": "2",
+   "name": "3"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "2",
+   "module_short": "2",
+   "name": "3"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "2",
+   "module_short": "2",
+   "name": "3"
+  }
+ ],
+ "Fit": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.fit",
+   "module_short": "gammapy.modeling",
+   "name": "Fit"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "Fit"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Fit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "Fit"
+  }
+ ],
+ "GaussianPrior": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.prior",
+   "module_short": "gammapy.modeling.models",
+   "name": "GaussianPrior"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "GaussianPrior"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "GaussianPrior"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "GaussianPrior"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.prior",
+   "module_short": "gammapy.modeling.models",
+   "name": "Prior"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "Prior"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "Prior"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Prior"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.core",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "ModelBase"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "ModelBase"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "GaussianPrior"
+  }
+ ],
+ "L": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "L"
+  }
+ ],
+ "Model.from_dict": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.Model",
+   "module_short": "gammapy.modeling.models.Model",
+   "name": "from_dict"
+  }
+ ],
+ "MyCustomPrior": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "__main__",
+   "module_short": "__main__",
+   "name": "MyCustomPrior"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.prior",
+   "module_short": "gammapy.modeling.models",
+   "name": "Prior"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "Prior"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "Prior"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Prior"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.core",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "ModelBase"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "ModelBase"
+  }
+ ],
+ "N": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "int"
+  }
+ ],
+ "PRIOR_REGISTRY.append": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "builtin_function_or_method"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.PRIOR_REGISTRY",
+   "module_short": "gammapy.modeling.models.PRIOR_REGISTRY",
+   "name": "append"
+  }
+ ],
+ "PowerLawSpectralModel": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.spectral",
+   "module_short": "gammapy.modeling.models",
+   "name": "PowerLawSpectralModel"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "PowerLawSpectralModel"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "PowerLawSpectralModel"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "PowerLawSpectralModel"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.spectral",
+   "module_short": "gammapy.modeling.models",
+   "name": "SpectralModel"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "SpectralModel"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "SpectralModel"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SpectralModel"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.core",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "ModelBase"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "ModelBase"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "PowerLawSpectralModel"
+  }
+ ],
+ "Prior": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.prior",
+   "module_short": "gammapy.modeling.models",
+   "name": "Prior"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "Prior"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "Prior"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Prior"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.core",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "ModelBase"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "ModelBase"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "Prior"
+  }
+ ],
+ "PriorParameter": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.parameter",
+   "module_short": "gammapy.modeling",
+   "name": "PriorParameter"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "PriorParameter"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "PriorParameter"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.parameter",
+   "module_short": "gammapy.modeling",
+   "name": "Parameter"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "Parameter"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Parameter"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "PriorParameter"
+  }
+ ],
+ "SkyModel": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.cube",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "SkyModel"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SkyModel"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.covariance",
+   "module_short": "gammapy.modeling.covariance",
+   "name": "CovarianceMixin"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "CovarianceMixin"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "CovarianceMixin"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.core",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "ModelBase"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "ModelBase"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel"
+  }
+ ],
+ "SpectrumDatasetOnOff.read": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.datasets.spectrum",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDatasetOnOff.read"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDatasetOnOff.read"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SpectrumDatasetOnOff.read"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.datasets.spectrum",
+   "module_short": "gammapy.datasets.spectrum",
+   "name": "PlotMixin.read"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "PlotMixin.read"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "PlotMixin.read"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.datasets.map",
+   "module_short": "gammapy.datasets",
+   "name": "MapDatasetOnOff.read"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "MapDatasetOnOff.read"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "MapDatasetOnOff.read"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.datasets.map",
+   "module_short": "gammapy.datasets",
+   "name": "MapDataset.read"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "MapDataset.read"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "MapDataset.read"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.datasets.core",
+   "module_short": "gammapy.datasets.core",
+   "name": "Dataset.read"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "Dataset.read"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Dataset.read"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.read"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.SpectrumDatasetOnOff",
+   "module_short": "gammapy.datasets.SpectrumDatasetOnOff",
+   "name": "read"
+  }
+ ],
+ "UniformPrior": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.prior",
+   "module_short": "gammapy.modeling.models",
+   "name": "UniformPrior"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "UniformPrior"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "UniformPrior"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "UniformPrior"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.prior",
+   "module_short": "gammapy.modeling.models",
+   "name": "Prior"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "Prior"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "Prior"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Prior"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.core",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "ModelBase"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "ModelBase"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "UniformPrior"
+  }
+ ],
+ "\\Delta": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "\\Delta"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "\\Delta"
+  }
+ ],
+ "\\sigma": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "\\sigma"
+  }
+ ],
+ "_": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.container",
+   "module_short": "matplotlib.container",
+   "name": "BarContainer"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib",
+   "module_short": "matplotlib",
+   "name": "BarContainer"
+  }
+ ],
+ "a": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "numpy",
+   "module_short": "numpy",
+   "name": "float64"
+  }
+ ],
+ "a_scan": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "numpy",
+   "module_short": "numpy",
+   "name": "ndarray"
+  }
+ ],
+ "axs": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "numpy",
+   "module_short": "numpy",
+   "name": "ndarray"
+  }
+ ],
+ "bins": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "numpy",
+   "module_short": "numpy",
+   "name": "ndarray"
+  }
+ ],
+ "c": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "numpy",
+   "module_short": "numpy",
+   "name": "ndarray"
+  }
+ ],
+ "check_tutorials_setup": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.utils.check",
+   "module_short": "gammapy.utils.check",
+   "name": "check_tutorials_setup"
+  }
+ ],
+ "customprior": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "__main__",
+   "module_short": "__main__",
+   "name": "MyCustomPrior"
+  }
+ ],
+ "dataset": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.spectrum",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SpectrumDataset"
+  }
+ ],
+ "dataset.copy": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.spectrum",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SpectrumDataset.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.spectrum",
+   "module_short": "gammapy.datasets.spectrum",
+   "name": "PlotMixin.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "PlotMixin.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "PlotMixin.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.map",
+   "module_short": "gammapy.datasets",
+   "name": "MapDataset.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "MapDataset.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "MapDataset.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.core",
+   "module_short": "gammapy.datasets",
+   "name": "Dataset.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "Dataset.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Dataset.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.copy"
+  }
+ ],
+ "dataset.counts.geom.energy_mask": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.region.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "RegionNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.region",
+   "module_short": "gammapy.maps",
+   "name": "RegionNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "RegionNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "RegionNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.geom"
+  }
+ ],
+ "dataset.mask_fit": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.region.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "RegionNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.region",
+   "module_short": "gammapy.maps",
+   "name": "RegionNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "RegionNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "RegionNDMap"
+  }
+ ],
+ "dataset.to_spectrum_dataset": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.spectrum",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset.to_spectrum_dataset"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset.to_spectrum_dataset"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SpectrumDataset.to_spectrum_dataset"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.spectrum",
+   "module_short": "gammapy.datasets.spectrum",
+   "name": "PlotMixin.to_spectrum_dataset"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "PlotMixin.to_spectrum_dataset"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "PlotMixin.to_spectrum_dataset"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.map",
+   "module_short": "gammapy.datasets",
+   "name": "MapDataset.to_spectrum_dataset"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "MapDataset.to_spectrum_dataset"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "MapDataset.to_spectrum_dataset"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.core",
+   "module_short": "gammapy.datasets.core",
+   "name": "Dataset.to_spectrum_dataset"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "Dataset.to_spectrum_dataset"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Dataset.to_spectrum_dataset"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.to_spectrum_dataset"
+  }
+ ],
+ "dataset1": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.spectrum",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SpectrumDataset"
+  }
+ ],
+ "dataset1.copy": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.spectrum",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SpectrumDataset.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.spectrum",
+   "module_short": "gammapy.datasets.spectrum",
+   "name": "PlotMixin.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "PlotMixin.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "PlotMixin.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.map",
+   "module_short": "gammapy.datasets",
+   "name": "MapDataset.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "MapDataset.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "MapDataset.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.core",
+   "module_short": "gammapy.datasets",
+   "name": "Dataset.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "Dataset.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Dataset.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.copy"
+  }
+ ],
+ "dataset1.counts": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.region.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "RegionNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.region",
+   "module_short": "gammapy.maps",
+   "name": "RegionNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "RegionNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "RegionNDMap"
+  }
+ ],
+ "dataset1.fake": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.spectrum",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset.fake"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset.fake"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SpectrumDataset.fake"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.spectrum",
+   "module_short": "gammapy.datasets.spectrum",
+   "name": "PlotMixin.fake"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "PlotMixin.fake"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "PlotMixin.fake"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.map",
+   "module_short": "gammapy.datasets",
+   "name": "MapDataset.fake"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "MapDataset.fake"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "MapDataset.fake"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.core",
+   "module_short": "gammapy.datasets.core",
+   "name": "Dataset.fake"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "Dataset.fake"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Dataset.fake"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.fake"
+  }
+ ],
+ "dataset1.models": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.spectrum",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SpectrumDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.spectrum",
+   "module_short": "gammapy.datasets.spectrum",
+   "name": "PlotMixin.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "PlotMixin.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "PlotMixin.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.map",
+   "module_short": "gammapy.datasets",
+   "name": "MapDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "MapDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "MapDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.core",
+   "module_short": "gammapy.datasets.core",
+   "name": "Dataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "Dataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Dataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.models"
+  }
+ ],
+ "dataset1.models.parameters": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.spectrum",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SpectrumDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.spectrum",
+   "module_short": "gammapy.datasets.spectrum",
+   "name": "PlotMixin.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "PlotMixin.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "PlotMixin.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.map",
+   "module_short": "gammapy.datasets",
+   "name": "MapDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "MapDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "MapDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.core",
+   "module_short": "gammapy.datasets.core",
+   "name": "Dataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "Dataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Dataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.models"
+  }
+ ],
+ "dataset1.npred": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.spectrum",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset.npred"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset.npred"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SpectrumDataset.npred"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.spectrum",
+   "module_short": "gammapy.datasets.spectrum",
+   "name": "PlotMixin.npred"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "PlotMixin.npred"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "PlotMixin.npred"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.map",
+   "module_short": "gammapy.datasets",
+   "name": "MapDataset.npred"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "MapDataset.npred"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "MapDataset.npred"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.core",
+   "module_short": "gammapy.datasets.core",
+   "name": "Dataset.npred"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "Dataset.npred"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Dataset.npred"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.npred"
+  }
+ ],
+ "dataset1_prior": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.spectrum",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SpectrumDataset"
+  }
+ ],
+ "dataset1_prior.models": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.spectrum",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SpectrumDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.spectrum",
+   "module_short": "gammapy.datasets.spectrum",
+   "name": "PlotMixin.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "PlotMixin.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "PlotMixin.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.map",
+   "module_short": "gammapy.datasets",
+   "name": "MapDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "MapDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "MapDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.core",
+   "module_short": "gammapy.datasets.core",
+   "name": "Dataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "Dataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Dataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.models"
+  }
+ ],
+ "dataset1_prior.models.parameters": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.spectrum",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SpectrumDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.spectrum",
+   "module_short": "gammapy.datasets.spectrum",
+   "name": "PlotMixin.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "PlotMixin.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "PlotMixin.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.map",
+   "module_short": "gammapy.datasets",
+   "name": "MapDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "MapDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "MapDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.core",
+   "module_short": "gammapy.datasets.core",
+   "name": "Dataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "Dataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Dataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.models"
+  }
+ ],
+ "dataset2": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.spectrum",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SpectrumDataset"
+  }
+ ],
+ "dataset2.copy": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.spectrum",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SpectrumDataset.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.spectrum",
+   "module_short": "gammapy.datasets.spectrum",
+   "name": "PlotMixin.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "PlotMixin.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "PlotMixin.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.map",
+   "module_short": "gammapy.datasets",
+   "name": "MapDataset.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "MapDataset.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "MapDataset.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.core",
+   "module_short": "gammapy.datasets",
+   "name": "Dataset.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "Dataset.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Dataset.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.copy"
+  }
+ ],
+ "dataset2.fake": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.spectrum",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset.fake"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset.fake"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SpectrumDataset.fake"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.spectrum",
+   "module_short": "gammapy.datasets.spectrum",
+   "name": "PlotMixin.fake"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "PlotMixin.fake"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "PlotMixin.fake"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.map",
+   "module_short": "gammapy.datasets",
+   "name": "MapDataset.fake"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "MapDataset.fake"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "MapDataset.fake"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.core",
+   "module_short": "gammapy.datasets.core",
+   "name": "Dataset.fake"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "Dataset.fake"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Dataset.fake"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.fake"
+  }
+ ],
+ "dataset2.models": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.spectrum",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SpectrumDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.spectrum",
+   "module_short": "gammapy.datasets.spectrum",
+   "name": "PlotMixin.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "PlotMixin.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "PlotMixin.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.map",
+   "module_short": "gammapy.datasets",
+   "name": "MapDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "MapDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "MapDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.core",
+   "module_short": "gammapy.datasets.core",
+   "name": "Dataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "Dataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Dataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.models"
+  }
+ ],
+ "dataset2_prior": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.spectrum",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SpectrumDataset"
+  }
+ ],
+ "dataset2_prior.models": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.spectrum",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SpectrumDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.spectrum",
+   "module_short": "gammapy.datasets.spectrum",
+   "name": "PlotMixin.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "PlotMixin.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "PlotMixin.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.map",
+   "module_short": "gammapy.datasets",
+   "name": "MapDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "MapDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "MapDataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.core",
+   "module_short": "gammapy.datasets.core",
+   "name": "Dataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "Dataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Dataset.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.models"
+  }
+ ],
+ "e_max": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units.quantity",
+   "module_short": "astropy.units",
+   "name": "Quantity"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "Quantity"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "Quantity"
+  }
+ ],
+ "e_min": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units.quantity",
+   "module_short": "astropy.units",
+   "name": "Quantity"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "Quantity"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "Quantity"
+  }
+ ],
+ "fig": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.figure",
+   "module_short": "matplotlib.figure",
+   "name": "Figure"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib",
+   "module_short": "matplotlib",
+   "name": "Figure"
+  }
+ ],
+ "fit": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.fit",
+   "module_short": "gammapy.modeling",
+   "name": "Fit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "Fit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Fit"
+  }
+ ],
+ "fit.optimize": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.fit",
+   "module_short": "gammapy.modeling",
+   "name": "Fit.optimize"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "Fit.optimize"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Fit.optimize"
+  }
+ ],
+ "fit.run": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.fit",
+   "module_short": "gammapy.modeling",
+   "name": "Fit.run"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "Fit.run"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Fit.run"
+  }
+ ],
+ "fit.stat_profile": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.fit",
+   "module_short": "gammapy.modeling",
+   "name": "Fit.stat_profile"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "Fit.stat_profile"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Fit.stat_profile"
+  }
+ ],
+ "fit_prior": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.fit",
+   "module_short": "gammapy.modeling",
+   "name": "Fit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "Fit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Fit"
+  }
+ ],
+ "fit_prior.optimize": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.fit",
+   "module_short": "gammapy.modeling",
+   "name": "Fit.optimize"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "Fit.optimize"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Fit.optimize"
+  }
+ ],
+ "gammapy.datasets.SpectrumDataset": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "SpectrumDataset"
+  }
+ ],
+ "gaussianprior": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.prior",
+   "module_short": "gammapy.modeling.models",
+   "name": "GaussianPrior"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "GaussianPrior"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "GaussianPrior"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "GaussianPrior"
+  }
+ ],
+ "gaussianprior.mu.value": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.parameter",
+   "module_short": "gammapy.modeling",
+   "name": "PriorParameter.value"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "PriorParameter.value"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "PriorParameter.value"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.parameter",
+   "module_short": "gammapy.modeling",
+   "name": "Parameter.value"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "Parameter.value"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Parameter.value"
+  }
+ ],
+ "gaussianprior.sigma.value": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.parameter",
+   "module_short": "gammapy.modeling",
+   "name": "PriorParameter.value"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "PriorParameter.value"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "PriorParameter.value"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.parameter",
+   "module_short": "gammapy.modeling",
+   "name": "Parameter.value"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "Parameter.value"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Parameter.value"
+  }
+ ],
+ "i": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "int"
+  }
+ ],
+ "i_scan": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "numpy",
+   "module_short": "numpy",
+   "name": "ndarray"
+  }
+ ],
+ "model": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.cube",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "SkyModel"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SkyModel"
+  }
+ ],
+ "model.copy": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.cube",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "SkyModel.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SkyModel.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.covariance",
+   "module_short": "gammapy.modeling.covariance",
+   "name": "CovarianceMixin.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "CovarianceMixin.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "CovarianceMixin.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.core",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "ModelBase.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "ModelBase.copy"
+  }
+ ],
+ "model_prior": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.cube",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "SkyModel"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SkyModel"
+  }
+ ],
+ "model_prior.copy": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.cube",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "SkyModel.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SkyModel.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.covariance",
+   "module_short": "gammapy.modeling.covariance",
+   "name": "CovarianceMixin.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "CovarianceMixin.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "CovarianceMixin.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.core",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "ModelBase.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "ModelBase.copy"
+  }
+ ],
+ "model_prior.parameters": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.cube",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "SkyModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SkyModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.covariance",
+   "module_short": "gammapy.modeling.covariance",
+   "name": "CovarianceMixin.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "CovarianceMixin.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "CovarianceMixin.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.core",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "ModelBase.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "ModelBase.parameters"
+  }
+ ],
+ "model_prior.parameters.prior_stat_sum": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.cube",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "SkyModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SkyModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.covariance",
+   "module_short": "gammapy.modeling.covariance",
+   "name": "CovarianceMixin.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "CovarianceMixin.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "CovarianceMixin.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.core",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "ModelBase.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "ModelBase.parameters"
+  }
+ ],
+ "model_prior.parameters.restore_status": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.cube",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "SkyModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SkyModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.covariance",
+   "module_short": "gammapy.modeling.covariance",
+   "name": "CovarianceMixin.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "CovarianceMixin.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "CovarianceMixin.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.core",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "ModelBase.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "ModelBase.parameters"
+  }
+ ],
+ "model_read": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.spectral",
+   "module_short": "gammapy.modeling.models",
+   "name": "PowerLawSpectralModel"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "PowerLawSpectralModel"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "PowerLawSpectralModel"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "PowerLawSpectralModel"
+  }
+ ],
+ "model_read.parameters.prior": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.spectral",
+   "module_short": "gammapy.modeling.models",
+   "name": "PowerLawSpectralModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "PowerLawSpectralModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "PowerLawSpectralModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "PowerLawSpectralModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.spectral",
+   "module_short": "gammapy.modeling.models",
+   "name": "SpectralModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "SpectralModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "SpectralModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SpectralModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.core",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "ModelBase.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "ModelBase.parameters"
+  }
+ ],
+ "model_weak": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.cube",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "SkyModel"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SkyModel"
+  }
+ ],
+ "model_weak.copy": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.cube",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "SkyModel.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SkyModel.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.covariance",
+   "module_short": "gammapy.modeling.covariance",
+   "name": "CovarianceMixin.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "CovarianceMixin.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "CovarianceMixin.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.core",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "ModelBase.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "ModelBase.copy"
+  }
+ ],
+ "model_weak.parameters": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.cube",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "SkyModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SkyModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.covariance",
+   "module_short": "gammapy.modeling.covariance",
+   "name": "CovarianceMixin.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "CovarianceMixin.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "CovarianceMixin.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.core",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "ModelBase.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "ModelBase.parameters"
+  }
+ ],
+ "model_weak_prior": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.cube",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "SkyModel"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SkyModel"
+  }
+ ],
+ "model_weak_prior.copy": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.cube",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "SkyModel.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SkyModel.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.covariance",
+   "module_short": "gammapy.modeling.covariance",
+   "name": "CovarianceMixin.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "CovarianceMixin.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "CovarianceMixin.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.core",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "ModelBase.copy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "ModelBase.copy"
+  }
+ ],
+ "model_weak_prior.parameters": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.cube",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "SkyModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SkyModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.covariance",
+   "module_short": "gammapy.modeling.covariance",
+   "name": "CovarianceMixin.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "CovarianceMixin.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "CovarianceMixin.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.core",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "ModelBase.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "ModelBase.parameters"
+  }
+ ],
+ "model_weak_prior.parameters.prior_stat_sum": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.cube",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "SkyModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SkyModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.covariance",
+   "module_short": "gammapy.modeling.covariance",
+   "name": "CovarianceMixin.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "CovarianceMixin.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "CovarianceMixin.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.core",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "ModelBase.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "ModelBase.parameters"
+  }
+ ],
+ "model_weak_prior.parameters.restore_status": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.cube",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "SkyModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SkyModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.covariance",
+   "module_short": "gammapy.modeling.covariance",
+   "name": "CovarianceMixin.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "CovarianceMixin.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "CovarianceMixin.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.core",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "ModelBase.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "ModelBase.parameters"
+  }
+ ],
+ "n": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "int"
+  }
+ ],
+ "np.array": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "builtin_function_or_method"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "numpy",
+   "module_short": "numpy",
+   "name": "array"
+  }
+ ],
+ "np.linspace": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "numpy",
+   "module_short": "numpy",
+   "name": "_ArrayFunctionDispatcher"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "numpy",
+   "module_short": "numpy",
+   "name": "linspace"
+  }
+ ],
+ "np.min": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "numpy",
+   "module_short": "numpy",
+   "name": "_ArrayFunctionDispatcher"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "numpy",
+   "module_short": "numpy",
+   "name": "min"
+  }
+ ],
+ "par": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "numpy",
+   "module_short": "numpy",
+   "name": "ndarray"
+  }
+ ],
+ "par.error": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "numpy",
+   "module_short": "numpy",
+   "name": "ndarray"
+  }
+ ],
+ "par.value": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "numpy",
+   "module_short": "numpy",
+   "name": "ndarray"
+  }
+ ],
+ "parname": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "str"
+  }
+ ],
+ "pl_spectrum": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.spectral",
+   "module_short": "gammapy.modeling.models",
+   "name": "PowerLawSpectralModel"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "PowerLawSpectralModel"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "PowerLawSpectralModel"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "PowerLawSpectralModel"
+  }
+ ],
+ "plt.axvline": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.pyplot",
+   "module_short": "matplotlib.pyplot",
+   "name": "axvline"
+  }
+ ],
+ "plt.errorbar": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.pyplot",
+   "module_short": "matplotlib.pyplot",
+   "name": "errorbar"
+  }
+ ],
+ "plt.legend": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.pyplot",
+   "module_short": "matplotlib.pyplot",
+   "name": "legend"
+  }
+ ],
+ "plt.plot": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.pyplot",
+   "module_short": "matplotlib.pyplot",
+   "name": "plot"
+  }
+ ],
+ "plt.show": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.pyplot",
+   "module_short": "matplotlib.pyplot",
+   "name": "show"
+  }
+ ],
+ "plt.subplots": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.pyplot",
+   "module_short": "matplotlib.pyplot",
+   "name": "subplots"
+  }
+ ],
+ "plt.tight_layout": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.pyplot",
+   "module_short": "matplotlib.pyplot",
+   "name": "tight_layout"
+  }
+ ],
+ "plt.xlabel": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.pyplot",
+   "module_short": "matplotlib.pyplot",
+   "name": "xlabel"
+  }
+ ],
+ "plt.xlim": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.pyplot",
+   "module_short": "matplotlib.pyplot",
+   "name": "xlim"
+  }
+ ],
+ "plt.ylabel": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.pyplot",
+   "module_short": "matplotlib.pyplot",
+   "name": "ylabel"
+  }
+ ],
+ "plt.ylim": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.pyplot",
+   "module_short": "matplotlib.pyplot",
+   "name": "ylim"
+  }
+ ],
+ "prior_stat_sums": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "list"
+  }
+ ],
+ "prior_stat_sums.append": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "builtin_function_or_method"
+  }
+ ],
+ "pwl": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.spectral",
+   "module_short": "gammapy.modeling.models",
+   "name": "PowerLawSpectralModel"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "PowerLawSpectralModel"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "PowerLawSpectralModel"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "PowerLawSpectralModel"
+  }
+ ],
+ "pwl.parameters": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.spectral",
+   "module_short": "gammapy.modeling.models",
+   "name": "PowerLawSpectralModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "PowerLawSpectralModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "PowerLawSpectralModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "PowerLawSpectralModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.spectral",
+   "module_short": "gammapy.modeling.models",
+   "name": "SpectralModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "SpectralModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "SpectralModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SpectralModel.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.core",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "ModelBase.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "ModelBase.parameters"
+  }
+ ],
+ "pwl.to_dict": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.spectral",
+   "module_short": "gammapy.modeling.models",
+   "name": "PowerLawSpectralModel.to_dict"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "PowerLawSpectralModel.to_dict"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "PowerLawSpectralModel.to_dict"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "PowerLawSpectralModel.to_dict"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.spectral",
+   "module_short": "gammapy.modeling.models",
+   "name": "SpectralModel.to_dict"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "SpectralModel.to_dict"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "SpectralModel.to_dict"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SpectralModel.to_dict"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.core",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase.to_dict"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase.to_dict"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "ModelBase.to_dict"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "ModelBase.to_dict"
+  }
+ ],
+ "result": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.fit",
+   "module_short": "gammapy.modeling",
+   "name": "OptimizeResult"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "OptimizeResult"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "OptimizeResult"
+  }
+ ],
+ "result.parameters": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.fit",
+   "module_short": "gammapy.modeling",
+   "name": "OptimizeResult.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "OptimizeResult.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "OptimizeResult.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.fit",
+   "module_short": "gammapy.modeling.fit",
+   "name": "FitStepResult.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "FitStepResult.parameters"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "FitStepResult.parameters"
+  }
+ ],
+ "results": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "list"
+  }
+ ],
+ "results.append": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "builtin_function_or_method"
+  }
+ ],
+ "results_prior": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "list"
+  }
+ ],
+ "results_prior.append": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "builtin_function_or_method"
+  }
+ ],
+ "results_prior.models.parameters": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "list"
+  }
+ ],
+ "results_prior.models.to_parameters_table": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "list"
+  }
+ ],
+ "scan": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "dict"
+  }
+ ],
+ "scan_prior": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "dict"
+  }
+ ],
+ "u.TeV": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units.core",
+   "module_short": "astropy.units",
+   "name": "PrefixUnit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "PrefixUnit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "PrefixUnit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "TeV"
+  }
+ ],
+ "u.cm": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units.core",
+   "module_short": "astropy.units",
+   "name": "Unit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "Unit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "Unit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "cm"
+  }
+ ],
+ "u.s": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units.core",
+   "module_short": "astropy.units",
+   "name": "IrreducibleUnit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "IrreducibleUnit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "IrreducibleUnit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "s"
+  }
+ ],
+ "uni_prior_stat_sums": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "list"
+  }
+ ],
+ "uni_prior_stat_sums.append": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "builtin_function_or_method"
+  }
+ ],
+ "uniform": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.prior",
+   "module_short": "gammapy.modeling.models",
+   "name": "UniformPrior"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "UniformPrior"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "UniformPrior"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "UniformPrior"
+  }
+ ],
+ "uniform.min.value": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.parameter",
+   "module_short": "gammapy.modeling",
+   "name": "PriorParameter.value"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "PriorParameter.value"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "PriorParameter.value"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.parameter",
+   "module_short": "gammapy.modeling",
+   "name": "Parameter.value"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "Parameter.value"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Parameter.value"
+  }
+ ],
+ "uniform.weight": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.prior",
+   "module_short": "gammapy.modeling.models",
+   "name": "UniformPrior.weight"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "UniformPrior.weight"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "UniformPrior.weight"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "UniformPrior.weight"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.prior",
+   "module_short": "gammapy.modeling.models",
+   "name": "Prior.weight"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "Prior.weight"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "Prior.weight"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Prior.weight"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.core",
+   "module_short": "gammapy.modeling.models.core",
+   "name": "ModelBase.weight"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase.weight"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "ModelBase.weight"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "ModelBase.weight"
+  }
+ ]
+}

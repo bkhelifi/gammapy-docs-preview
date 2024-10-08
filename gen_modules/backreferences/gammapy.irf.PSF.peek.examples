@@ -1,0 +1,42 @@
+
+
+Examples using ``gammapy.irf.PSF.peek``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. start-sphx-glr-thumbnails
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbnails">
+
+.. thumbnail-parent-div-open
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="H.E.S.S. is an array of gamma-ray telescopes located in Namibia. Gammapy is regularly used and fully supports H.E.S.S. high level data analysis, after export to the current open data level 3 format.">
+
+.. only:: html
+
+  .. image:: /tutorials/data/images/thumb/sphx_glr_hess_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_data_hess.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">H.E.S.S. with Gammapy</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_data_hess.py`
+
+.. thumbnail-parent-div-close
+
+.. raw:: html
+
+    </div>
+

@@ -1,0 +1,2504 @@
+{
+ "/tutorials/analysis-2d/modeling_2D": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "/tutorials/analysis-2d/modeling_2D"
+  }
+ ],
+ "/tutorials/analysis-3d/analysis_3d": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "/tutorials/analysis-3d/analysis_3d"
+  }
+ ],
+ "/tutorials/analysis-3d/analysis_mwl": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "/tutorials/analysis-3d/analysis_mwl"
+  }
+ ],
+ "/tutorials/data/fermi_lat": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "/tutorials/data/fermi_lat"
+  }
+ ],
+ "/tutorials/starting/analysis_1": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "/tutorials/starting/analysis_1"
+  }
+ ],
+ "/tutorials/starting/analysis_2": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "/tutorials/starting/analysis_2"
+  }
+ ],
+ "ASmoothMapEstimator": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.estimators.map.asmooth",
+   "module_short": "gammapy.estimators",
+   "name": "ASmoothMapEstimator"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.estimators.map",
+   "module_short": "gammapy.estimators",
+   "name": "ASmoothMapEstimator"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.estimators",
+   "module_short": "gammapy.estimators",
+   "name": "ASmoothMapEstimator"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "ASmoothMapEstimator"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.estimators.core",
+   "module_short": "gammapy.estimators",
+   "name": "Estimator"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.estimators",
+   "module_short": "gammapy.estimators",
+   "name": "Estimator"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Estimator"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.estimators",
+   "module_short": "gammapy.estimators",
+   "name": "ASmoothMapEstimator"
+  }
+ ],
+ "ASmoothMapEstimator.threshold": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "ASmoothMapEstimator",
+   "module_short": "ASmoothMapEstimator",
+   "name": "threshold"
+  }
+ ],
+ "EDispKernelMap.from_diagonal_response": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.irf.edisp.map",
+   "module_short": "gammapy.irf",
+   "name": "EDispKernelMap.from_diagonal_response"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.irf.edisp",
+   "module_short": "gammapy.irf",
+   "name": "EDispKernelMap.from_diagonal_response"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.irf",
+   "module_short": "gammapy.irf",
+   "name": "EDispKernelMap.from_diagonal_response"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "EDispKernelMap.from_diagonal_response"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.irf.core",
+   "module_short": "gammapy.irf.core",
+   "name": "IRFMap.from_diagonal_response"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.irf",
+   "module_short": "gammapy.irf",
+   "name": "IRFMap.from_diagonal_response"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "IRFMap.from_diagonal_response"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.irf.EDispKernelMap",
+   "module_short": "gammapy.irf.EDispKernelMap",
+   "name": "from_diagonal_response"
+  }
+ ],
+ "L": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "L"
+  }
+ ],
+ "Map.read": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "read"
+  }
+ ],
+ "MapDataset": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.datasets.map",
+   "module_short": "gammapy.datasets",
+   "name": "MapDataset"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "MapDataset"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "MapDataset"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.datasets.core",
+   "module_short": "gammapy.datasets",
+   "name": "Dataset"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "Dataset"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Dataset"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "MapDataset"
+  }
+ ],
+ "PSFMap.read": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.irf.psf.map",
+   "module_short": "gammapy.irf",
+   "name": "PSFMap.read"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.irf.psf",
+   "module_short": "gammapy.irf",
+   "name": "PSFMap.read"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.irf",
+   "module_short": "gammapy.irf",
+   "name": "PSFMap.read"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "PSFMap.read"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.irf.core",
+   "module_short": "gammapy.irf",
+   "name": "IRFMap.read"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.irf",
+   "module_short": "gammapy.irf",
+   "name": "IRFMap.read"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "IRFMap.read"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.irf.PSFMap",
+   "module_short": "gammapy.irf.PSFMap",
+   "name": "read"
+  }
+ ],
+ "PointSpatialModel": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.spatial",
+   "module_short": "gammapy.modeling.models",
+   "name": "PointSpatialModel"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "PointSpatialModel"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "PointSpatialModel"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "PointSpatialModel"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.spatial",
+   "module_short": "gammapy.modeling.models",
+   "name": "SpatialModel"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "SpatialModel"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "SpatialModel"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SpatialModel"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.core",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "ModelBase"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "ModelBase"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "PointSpatialModel"
+  }
+ ],
+ "PowerLawSpectralModel": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.spectral",
+   "module_short": "gammapy.modeling.models",
+   "name": "PowerLawSpectralModel"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "PowerLawSpectralModel"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "PowerLawSpectralModel"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "PowerLawSpectralModel"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.spectral",
+   "module_short": "gammapy.modeling.models",
+   "name": "SpectralModel"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "SpectralModel"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "SpectralModel"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SpectralModel"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.core",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "ModelBase"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "ModelBase"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "PowerLawSpectralModel"
+  }
+ ],
+ "SkyModel": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.cube",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "SkyModel"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SkyModel"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.covariance",
+   "module_short": "gammapy.modeling.covariance",
+   "name": "CovarianceMixin"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "CovarianceMixin"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "CovarianceMixin"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.core",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "ModelBase"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "ModelBase"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "ModelBase"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel"
+  }
+ ],
+ "TSMapEstimator": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.estimators.map.ts",
+   "module_short": "gammapy.estimators",
+   "name": "TSMapEstimator"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.estimators.map",
+   "module_short": "gammapy.estimators",
+   "name": "TSMapEstimator"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.estimators",
+   "module_short": "gammapy.estimators",
+   "name": "TSMapEstimator"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "TSMapEstimator"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.estimators.core",
+   "module_short": "gammapy.estimators",
+   "name": "Estimator"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.estimators",
+   "module_short": "gammapy.estimators",
+   "name": "Estimator"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Estimator"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.utils.parallel",
+   "module_short": "gammapy.utils.parallel",
+   "name": "ParallelMixin"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.utils",
+   "module_short": "gammapy.utils",
+   "name": "ParallelMixin"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "ParallelMixin"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.estimators",
+   "module_short": "gammapy.estimators",
+   "name": "TSMapEstimator"
+  }
+ ],
+ "ax": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.visualization.wcsaxes.core",
+   "module_short": "astropy.visualization.wcsaxes",
+   "name": "WCSAxes"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.visualization.wcsaxes",
+   "module_short": "astropy.visualization.wcsaxes",
+   "name": "WCSAxes"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.visualization",
+   "module_short": "astropy.visualization",
+   "name": "WCSAxes"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "WCSAxes"
+  }
+ ],
+ "ax.get_transform": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.visualization.wcsaxes.core",
+   "module_short": "astropy.visualization.wcsaxes",
+   "name": "WCSAxes.get_transform"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.visualization.wcsaxes",
+   "module_short": "astropy.visualization.wcsaxes",
+   "name": "WCSAxes.get_transform"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.visualization",
+   "module_short": "astropy.visualization",
+   "name": "WCSAxes.get_transform"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "WCSAxes.get_transform"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.axes._axes",
+   "module_short": "matplotlib.axes",
+   "name": "Axes.get_transform"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.axes",
+   "module_short": "matplotlib.axes",
+   "name": "Axes.get_transform"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib",
+   "module_short": "matplotlib",
+   "name": "Axes.get_transform"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.axes._base",
+   "module_short": "matplotlib.axes._base",
+   "name": "_AxesBase.get_transform"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.axes",
+   "module_short": "matplotlib.axes",
+   "name": "_AxesBase.get_transform"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib",
+   "module_short": "matplotlib",
+   "name": "_AxesBase.get_transform"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.artist",
+   "module_short": "matplotlib.artist",
+   "name": "Artist.get_transform"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib",
+   "module_short": "matplotlib",
+   "name": "Artist.get_transform"
+  }
+ ],
+ "ax.scatter": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.visualization.wcsaxes.core",
+   "module_short": "astropy.visualization.wcsaxes",
+   "name": "WCSAxes.scatter"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.visualization.wcsaxes",
+   "module_short": "astropy.visualization.wcsaxes",
+   "name": "WCSAxes.scatter"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.visualization",
+   "module_short": "astropy.visualization",
+   "name": "WCSAxes.scatter"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "WCSAxes.scatter"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.axes._axes",
+   "module_short": "matplotlib.axes",
+   "name": "Axes.scatter"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.axes",
+   "module_short": "matplotlib.axes",
+   "name": "Axes.scatter"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib",
+   "module_short": "matplotlib",
+   "name": "Axes.scatter"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.axes._base",
+   "module_short": "matplotlib.axes._base",
+   "name": "_AxesBase.scatter"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.axes",
+   "module_short": "matplotlib.axes",
+   "name": "_AxesBase.scatter"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib",
+   "module_short": "matplotlib",
+   "name": "_AxesBase.scatter"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.artist",
+   "module_short": "matplotlib.artist",
+   "name": "Artist.scatter"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib",
+   "module_short": "matplotlib",
+   "name": "Artist.scatter"
+  }
+ ],
+ "ax1": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.visualization.wcsaxes.core",
+   "module_short": "astropy.visualization.wcsaxes",
+   "name": "WCSAxes"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.visualization.wcsaxes",
+   "module_short": "astropy.visualization.wcsaxes",
+   "name": "WCSAxes"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.visualization",
+   "module_short": "astropy.visualization",
+   "name": "WCSAxes"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "WCSAxes"
+  }
+ ],
+ "ax1.set_title": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.visualization.wcsaxes.core",
+   "module_short": "astropy.visualization.wcsaxes",
+   "name": "WCSAxes.set_title"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.visualization.wcsaxes",
+   "module_short": "astropy.visualization.wcsaxes",
+   "name": "WCSAxes.set_title"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.visualization",
+   "module_short": "astropy.visualization",
+   "name": "WCSAxes.set_title"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "WCSAxes.set_title"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.axes._axes",
+   "module_short": "matplotlib.axes",
+   "name": "Axes.set_title"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.axes",
+   "module_short": "matplotlib.axes",
+   "name": "Axes.set_title"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib",
+   "module_short": "matplotlib",
+   "name": "Axes.set_title"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.axes._base",
+   "module_short": "matplotlib.axes._base",
+   "name": "_AxesBase.set_title"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.axes",
+   "module_short": "matplotlib.axes",
+   "name": "_AxesBase.set_title"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib",
+   "module_short": "matplotlib",
+   "name": "_AxesBase.set_title"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.artist",
+   "module_short": "matplotlib.artist",
+   "name": "Artist.set_title"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib",
+   "module_short": "matplotlib",
+   "name": "Artist.set_title"
+  }
+ ],
+ "ax2": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.visualization.wcsaxes.core",
+   "module_short": "astropy.visualization.wcsaxes",
+   "name": "WCSAxes"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.visualization.wcsaxes",
+   "module_short": "astropy.visualization.wcsaxes",
+   "name": "WCSAxes"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.visualization",
+   "module_short": "astropy.visualization",
+   "name": "WCSAxes"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "WCSAxes"
+  }
+ ],
+ "ax2.set_title": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.visualization.wcsaxes.core",
+   "module_short": "astropy.visualization.wcsaxes",
+   "name": "WCSAxes.set_title"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.visualization.wcsaxes",
+   "module_short": "astropy.visualization.wcsaxes",
+   "name": "WCSAxes.set_title"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.visualization",
+   "module_short": "astropy.visualization",
+   "name": "WCSAxes.set_title"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "WCSAxes.set_title"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.axes._axes",
+   "module_short": "matplotlib.axes",
+   "name": "Axes.set_title"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.axes",
+   "module_short": "matplotlib.axes",
+   "name": "Axes.set_title"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib",
+   "module_short": "matplotlib",
+   "name": "Axes.set_title"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.axes._base",
+   "module_short": "matplotlib.axes._base",
+   "name": "_AxesBase.set_title"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.axes",
+   "module_short": "matplotlib.axes",
+   "name": "_AxesBase.set_title"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib",
+   "module_short": "matplotlib",
+   "name": "_AxesBase.set_title"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.artist",
+   "module_short": "matplotlib.artist",
+   "name": "Artist.set_title"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib",
+   "module_short": "matplotlib",
+   "name": "Artist.set_title"
+  }
+ ],
+ "ax3": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.visualization.wcsaxes.core",
+   "module_short": "astropy.visualization.wcsaxes",
+   "name": "WCSAxes"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.visualization.wcsaxes",
+   "module_short": "astropy.visualization.wcsaxes",
+   "name": "WCSAxes"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.visualization",
+   "module_short": "astropy.visualization",
+   "name": "WCSAxes"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "WCSAxes"
+  }
+ ],
+ "ax3.set_title": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.visualization.wcsaxes.core",
+   "module_short": "astropy.visualization.wcsaxes",
+   "name": "WCSAxes.set_title"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.visualization.wcsaxes",
+   "module_short": "astropy.visualization.wcsaxes",
+   "name": "WCSAxes.set_title"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.visualization",
+   "module_short": "astropy.visualization",
+   "name": "WCSAxes.set_title"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "WCSAxes.set_title"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.axes._axes",
+   "module_short": "matplotlib.axes",
+   "name": "Axes.set_title"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.axes",
+   "module_short": "matplotlib.axes",
+   "name": "Axes.set_title"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib",
+   "module_short": "matplotlib",
+   "name": "Axes.set_title"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.axes._base",
+   "module_short": "matplotlib.axes._base",
+   "name": "_AxesBase.set_title"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.axes",
+   "module_short": "matplotlib.axes",
+   "name": "_AxesBase.set_title"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib",
+   "module_short": "matplotlib",
+   "name": "_AxesBase.set_title"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.artist",
+   "module_short": "matplotlib.artist",
+   "name": "Artist.set_title"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib",
+   "module_short": "matplotlib",
+   "name": "Artist.set_title"
+  }
+ ],
+ "background": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap"
+  }
+ ],
+ "check_tutorials_setup": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.utils.check",
+   "module_short": "gammapy.utils.check",
+   "name": "check_tutorials_setup"
+  }
+ ],
+ "counts": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap"
+  }
+ ],
+ "counts.geom.axes": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.geom"
+  }
+ ],
+ "counts.geom.wcs": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.geom"
+  }
+ ],
+ "dataset": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.map",
+   "module_short": "gammapy.datasets",
+   "name": "MapDataset"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "MapDataset"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "MapDataset"
+  }
+ ],
+ "display": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "IPython.display",
+   "module_short": "IPython.display",
+   "name": "display"
+  }
+ ],
+ "edisp": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.irf.edisp.map",
+   "module_short": "gammapy.irf",
+   "name": "EDispKernelMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.irf.edisp",
+   "module_short": "gammapy.irf",
+   "name": "EDispKernelMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.irf",
+   "module_short": "gammapy.irf",
+   "name": "EDispKernelMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "EDispKernelMap"
+  }
+ ],
+ "estimator": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.estimators.map.ts",
+   "module_short": "gammapy.estimators",
+   "name": "TSMapEstimator"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.estimators.map",
+   "module_short": "gammapy.estimators",
+   "name": "TSMapEstimator"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.estimators",
+   "module_short": "gammapy.estimators",
+   "name": "TSMapEstimator"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "TSMapEstimator"
+  }
+ ],
+ "estimator.run": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.estimators.map.ts",
+   "module_short": "gammapy.estimators",
+   "name": "TSMapEstimator.run"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.estimators.map",
+   "module_short": "gammapy.estimators",
+   "name": "TSMapEstimator.run"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.estimators",
+   "module_short": "gammapy.estimators",
+   "name": "TSMapEstimator.run"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "TSMapEstimator.run"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.estimators.core",
+   "module_short": "gammapy.estimators",
+   "name": "Estimator.run"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.estimators",
+   "module_short": "gammapy.estimators",
+   "name": "Estimator.run"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Estimator.run"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.utils.parallel",
+   "module_short": "gammapy.utils.parallel",
+   "name": "ParallelMixin.run"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.utils",
+   "module_short": "gammapy.utils",
+   "name": "ParallelMixin.run"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "ParallelMixin.run"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.run"
+  }
+ ],
+ "exposure": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap"
+  }
+ ],
+ "exposure.geom.axes": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.geom"
+  }
+ ],
+ "fig": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.figure",
+   "module_short": "matplotlib.figure",
+   "name": "Figure"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib",
+   "module_short": "matplotlib",
+   "name": "Figure"
+  }
+ ],
+ "find_peaks": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.estimators.utils",
+   "module_short": "gammapy.estimators.utils",
+   "name": "find_peaks"
+  }
+ ],
+ "find_peaks_in_flux_map": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.estimators.utils",
+   "module_short": "gammapy.estimators.utils",
+   "name": "find_peaks_in_flux_map"
+  }
+ ],
+ "gammapy.estimators": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "estimators"
+  }
+ ],
+ "gammapy.estimators.ASmoothMapEstimator": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.estimators",
+   "module_short": "gammapy.estimators",
+   "name": "ASmoothMapEstimator"
+  }
+ ],
+ "gammapy.estimators.TSMapEstimator": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.estimators",
+   "module_short": "gammapy.estimators",
+   "name": "TSMapEstimator"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.estimators",
+   "module_short": "gammapy.estimators",
+   "name": "TSMapEstimator"
+  }
+ ],
+ "gammapy.estimators.utils.find_peaks": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.estimators.utils",
+   "module_short": "gammapy.estimators.utils",
+   "name": "find_peaks"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.estimators.utils",
+   "module_short": "gammapy.estimators.utils",
+   "name": "find_peaks"
+  }
+ ],
+ "gammapy.estimators.utils.find_peaks_in_flux_map": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.estimators.utils",
+   "module_short": "gammapy.estimators.utils",
+   "name": "find_peaks_in_flux_map"
+  }
+ ],
+ "gammapy.maps.WcsNDMap": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  }
+ ],
+ "gammapy.modeling.models.SkyModel": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel"
+  }
+ ],
+ "https://en.wikipedia.org/wiki/Brent%27s_method": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "https://en.wikipedia",
+   "module_short": "https://en.wikipedia",
+   "name": "org/wiki/Brent%27s_method"
+  }
+ ],
+ "https://ui.adsabs.harvard.edu/abs/1996ApJ...461..396M/abstract": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "https://ui.adsabs.harvard.edu/abs/1996ApJ...461.",
+   "module_short": "https://ui.adsabs.harvard.edu/abs/1996ApJ...461.",
+   "name": "396M/abstract"
+  }
+ ],
+ "https://ui.adsabs.harvard.edu/abs/2006MNRAS.368...65E/abstract": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "https://ui.adsabs.harvard.edu/abs/2006MNRAS.368..",
+   "module_short": "https://ui.adsabs.harvard.edu/abs/2006MNRAS.368..",
+   "name": "65E/abstract"
+  }
+ ],
+ "https://ui.adsabs.harvard.edu/abs/2009A%26A...495..989S/abstract": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "https://ui.adsabs.harvard.edu/abs/2009A%26A...495.",
+   "module_short": "https://ui.adsabs.harvard.edu/abs/2009A%26A...495.",
+   "name": "989S/abstract"
+  }
+ ],
+ "images": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.maps",
+   "module_short": "gammapy.maps",
+   "name": "Maps"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Maps"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Maps"
+  }
+ ],
+ "maps": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.estimators.map.core",
+   "module_short": "gammapy.estimators",
+   "name": "FluxMaps"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.estimators.map",
+   "module_short": "gammapy.estimators",
+   "name": "FluxMaps"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.estimators",
+   "module_short": "gammapy.estimators",
+   "name": "FluxMaps"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "FluxMaps"
+  }
+ ],
+ "maps.norm.plot": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.estimators.map.core",
+   "module_short": "gammapy.estimators",
+   "name": "FluxMaps.norm"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.estimators.map",
+   "module_short": "gammapy.estimators",
+   "name": "FluxMaps.norm"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.estimators",
+   "module_short": "gammapy.estimators",
+   "name": "FluxMaps.norm"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "FluxMaps.norm"
+  }
+ ],
+ "maps.reference_model": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.estimators.map.core",
+   "module_short": "gammapy.estimators",
+   "name": "FluxMaps.reference_model"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.estimators.map",
+   "module_short": "gammapy.estimators",
+   "name": "FluxMaps.reference_model"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.estimators",
+   "module_short": "gammapy.estimators",
+   "name": "FluxMaps.reference_model"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "FluxMaps.reference_model"
+  }
+ ],
+ "min_distance": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "min_distance"
+  }
+ ],
+ "model": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.cube",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "SkyModel"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "SkyModel"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SkyModel"
+  }
+ ],
+ "norm": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "norm"
+  }
+ ],
+ "np.arange": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "builtin_function_or_method"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "numpy",
+   "module_short": "numpy",
+   "name": "arange"
+  }
+ ],
+ "nsou": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "int"
+  }
+ ],
+ "plt.figure": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.pyplot",
+   "module_short": "matplotlib.pyplot",
+   "name": "figure"
+  }
+ ],
+ "plt.show": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.pyplot",
+   "module_short": "matplotlib.pyplot",
+   "name": "show"
+  }
+ ],
+ "plt.subplots": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.pyplot",
+   "module_short": "matplotlib.pyplot",
+   "name": "subplots"
+  }
+ ],
+ "psfmap": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.irf.psf.map",
+   "module_short": "gammapy.irf",
+   "name": "PSFMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.irf.psf",
+   "module_short": "gammapy.irf",
+   "name": "PSFMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.irf",
+   "module_short": "gammapy.irf",
+   "name": "PSFMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "PSFMap"
+  }
+ ],
+ "scales": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units.quantity",
+   "module_short": "astropy.units",
+   "name": "Quantity"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "Quantity"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "Quantity"
+  }
+ ],
+ "smooth": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.estimators.map.asmooth",
+   "module_short": "gammapy.estimators",
+   "name": "ASmoothMapEstimator"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.estimators.map",
+   "module_short": "gammapy.estimators",
+   "name": "ASmoothMapEstimator"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.estimators",
+   "module_short": "gammapy.estimators",
+   "name": "ASmoothMapEstimator"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "ASmoothMapEstimator"
+  }
+ ],
+ "smooth.run": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.estimators.map.asmooth",
+   "module_short": "gammapy.estimators",
+   "name": "ASmoothMapEstimator.run"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.estimators.map",
+   "module_short": "gammapy.estimators",
+   "name": "ASmoothMapEstimator.run"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.estimators",
+   "module_short": "gammapy.estimators",
+   "name": "ASmoothMapEstimator.run"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "ASmoothMapEstimator.run"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.estimators.core",
+   "module_short": "gammapy.estimators",
+   "name": "Estimator.run"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.estimators",
+   "module_short": "gammapy.estimators",
+   "name": "Estimator.run"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Estimator.run"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.run"
+  }
+ ],
+ "sources": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.table.table",
+   "module_short": "astropy.table",
+   "name": "Table"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.table",
+   "module_short": "astropy.table",
+   "name": "Table"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "Table"
+  }
+ ],
+ "sources_flux_map": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.table.table",
+   "module_short": "astropy.table",
+   "name": "Table"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.table",
+   "module_short": "astropy.table",
+   "name": "Table"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "Table"
+  }
+ ],
+ "spatial_model": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.spatial",
+   "module_short": "gammapy.modeling.models",
+   "name": "PointSpatialModel"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "PointSpatialModel"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "PointSpatialModel"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "PointSpatialModel"
+  }
+ ],
+ "spectral_model": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models.spectral",
+   "module_short": "gammapy.modeling.models",
+   "name": "PowerLawSpectralModel"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling.models",
+   "module_short": "gammapy.modeling.models",
+   "name": "PowerLawSpectralModel"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.modeling",
+   "module_short": "gammapy.modeling",
+   "name": "PowerLawSpectralModel"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "PowerLawSpectralModel"
+  }
+ ],
+ "sqrt_ts": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "sqrt_ts"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "sqrt_ts"
+  }
+ ],
+ "u.GeV": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units.core",
+   "module_short": "astropy.units",
+   "name": "PrefixUnit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "PrefixUnit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "PrefixUnit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "GeV"
+  }
+ ],
+ "u.Quantity": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "astropy.units.quantity",
+   "module_short": "astropy.units",
+   "name": "Quantity"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "Quantity"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "Quantity"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "numpy",
+   "module_short": "numpy",
+   "name": "ndarray"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "Quantity"
+  }
+ ]
+}

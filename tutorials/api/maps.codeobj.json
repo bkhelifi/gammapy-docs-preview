@@ -1,0 +1,7675 @@
+{
+ "*": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "*"
+  }
+ ],
+ "+": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "+"
+  }
+ ],
+ "-": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "-"
+  }
+ ],
+ "/": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "/"
+  }
+ ],
+ "/tutorials/starting/overview": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "/tutorials/starting/overview"
+  }
+ ],
+ "BinTableHDU": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "BinTableHDU"
+  }
+ ],
+ "EventList.read": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.data.event_list",
+   "module_short": "gammapy.data",
+   "name": "EventList.read"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.data",
+   "module_short": "gammapy.data",
+   "name": "EventList.read"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "EventList.read"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data.EventList",
+   "module_short": "gammapy.data.EventList",
+   "name": "read"
+  }
+ ],
+ "Geom": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "Geom"
+  }
+ ],
+ "HDUList": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "HDUList"
+  }
+ ],
+ "LabelMapAxis": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.maps.axes",
+   "module_short": "gammapy.maps",
+   "name": "LabelMapAxis"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "LabelMapAxis"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "LabelMapAxis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "LabelMapAxis"
+  }
+ ],
+ "Map": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "Map"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "Map"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "Map"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "Map"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "Map"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "Map"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "Map"
+  }
+ ],
+ "Map.create": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "create"
+  }
+ ],
+ "Map.create()": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "Map",
+   "module_short": "Map",
+   "name": "create()"
+  }
+ ],
+ "Map.from_geom": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "from_geom"
+  }
+ ],
+ "Map.from_hdulist": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "from_hdulist"
+  }
+ ],
+ "Map.from_hdulist()": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "Map",
+   "module_short": "Map",
+   "name": "from_hdulist()"
+  }
+ ],
+ "Map.read": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "read"
+  }
+ ],
+ "Map.read()": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "Map",
+   "module_short": "Map",
+   "name": "read()"
+  }
+ ],
+ "Map.to_hdulist()": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "Map",
+   "module_short": "Map",
+   "name": "to_hdulist()"
+  }
+ ],
+ "Map.write()": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "Map",
+   "module_short": "Map",
+   "name": "write()"
+  }
+ ],
+ "MapAxes": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.maps.axes",
+   "module_short": "gammapy.maps",
+   "name": "MapAxes"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "MapAxes"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "MapAxes"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "collections.abc",
+   "module_short": "collections.abc",
+   "name": "Sequence"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "collections",
+   "module_short": "collections",
+   "name": "Sequence"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "collections.abc",
+   "module_short": "collections.abc",
+   "name": "Reversible"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "collections",
+   "module_short": "collections",
+   "name": "Reversible"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "collections.abc",
+   "module_short": "collections.abc",
+   "name": "Collection"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "collections",
+   "module_short": "collections",
+   "name": "Collection"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "collections.abc",
+   "module_short": "collections.abc",
+   "name": "Iterable"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "collections",
+   "module_short": "collections",
+   "name": "Iterable"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "collections.abc",
+   "module_short": "collections.abc",
+   "name": "Sized"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "collections",
+   "module_short": "collections",
+   "name": "Sized"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "collections.abc",
+   "module_short": "collections.abc",
+   "name": "Container"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "collections",
+   "module_short": "collections",
+   "name": "Container"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "MapAxes"
+  }
+ ],
+ "MapAxis": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.maps.axes",
+   "module_short": "gammapy.maps",
+   "name": "MapAxis"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "MapAxis"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "MapAxis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "MapAxis"
+  }
+ ],
+ "MapAxis.from_bounds": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.maps.axes",
+   "module_short": "gammapy.maps",
+   "name": "MapAxis.from_bounds"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "MapAxis.from_bounds"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "MapAxis.from_bounds"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.MapAxis",
+   "module_short": "gammapy.maps.MapAxis",
+   "name": "from_bounds"
+  }
+ ],
+ "MapCoord": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "MapCoord"
+  }
+ ],
+ "NaN": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "NaN"
+  }
+ ],
+ "PRIMARY": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "PRIMARY"
+  }
+ ],
+ "PRIMARY_BANDS": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "PRIMARY_BANDS"
+  }
+ ],
+ "Quantity": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "Quantity"
+  }
+ ],
+ "SkyCoord": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "astropy.coordinates.sky_coordinate",
+   "module_short": "astropy.coordinates",
+   "name": "SkyCoord"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "astropy.coordinates",
+   "module_short": "astropy.coordinates",
+   "name": "SkyCoord"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "SkyCoord"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "astropy.utils.shapes",
+   "module_short": "astropy.utils",
+   "name": "ShapedLikeNDArray"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "astropy.utils",
+   "module_short": "astropy.utils",
+   "name": "ShapedLikeNDArray"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "ShapedLikeNDArray"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "astropy.utils.shapes",
+   "module_short": "astropy.utils",
+   "name": "NDArrayShapeMethods"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "astropy.utils",
+   "module_short": "astropy.utils",
+   "name": "NDArrayShapeMethods"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "NDArrayShapeMethods"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.coordinates",
+   "module_short": "astropy.coordinates",
+   "name": "SkyCoord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "SkyCoord"
+  }
+ ],
+ "Table.read": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.table.connect",
+   "module_short": "astropy.table.connect",
+   "name": "TableRead"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.table",
+   "module_short": "astropy.table",
+   "name": "TableRead"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "TableRead"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.table.Table",
+   "module_short": "astropy.table.Table",
+   "name": "read"
+  }
+ ],
+ "Time": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "astropy.time.core",
+   "module_short": "astropy.time",
+   "name": "Time"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "astropy.time",
+   "module_short": "astropy.time",
+   "name": "Time"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "Time"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "astropy.time.core",
+   "module_short": "astropy.time",
+   "name": "TimeBase"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "astropy.time",
+   "module_short": "astropy.time",
+   "name": "TimeBase"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "TimeBase"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "astropy.utils.shapes",
+   "module_short": "astropy.utils",
+   "name": "ShapedLikeNDArray"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "astropy.utils",
+   "module_short": "astropy.utils",
+   "name": "ShapedLikeNDArray"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "ShapedLikeNDArray"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "astropy.utils.shapes",
+   "module_short": "astropy.utils",
+   "name": "NDArrayShapeMethods"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "astropy.utils",
+   "module_short": "astropy.utils",
+   "name": "NDArrayShapeMethods"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "NDArrayShapeMethods"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.time",
+   "module_short": "astropy.time",
+   "name": "Time"
+  }
+ ],
+ "TimeMapAxis": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.maps.axes",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "TimeMapAxis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis"
+  }
+ ],
+ "True": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "True"
+  }
+ ],
+ "WCSNDMap": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "WCSNDMap"
+  }
+ ],
+ "WcsGeom.create": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.geom",
+   "module_short": "gammapy.maps",
+   "name": "WcsGeom.create"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsGeom.create"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsGeom.create"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsGeom.create"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.maps.geom",
+   "module_short": "gammapy.maps.geom",
+   "name": "Geom.create"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Geom.create"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Geom.create"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.create"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.WcsGeom",
+   "module_short": "gammapy.maps.WcsGeom",
+   "name": "create"
+  }
+ ],
+ "WcsNDMap.create": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.create"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.create"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.create"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.create"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.create"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.create"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.create"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.create"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.create"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.create"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.create"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.create"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.WcsNDMap",
+   "module_short": "gammapy.maps.WcsNDMap",
+   "name": "create"
+  }
+ ],
+ "astropy.convolution.convolve": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "astropy.convolution",
+   "module_short": "astropy.convolution",
+   "name": "convolve"
+  }
+ ],
+ "astropy.coordinates.SkyCoord": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "astropy.coordinates",
+   "module_short": "astropy.coordinates",
+   "name": "SkyCoord"
+  }
+ ],
+ "astropy.io.fits": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "astropy.io",
+   "module_short": "astropy.io",
+   "name": "fits"
+  }
+ ],
+ "astropy.table.Table": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "astropy.table",
+   "module_short": "astropy.table",
+   "name": "Table"
+  }
+ ],
+ "astropy.time.Time": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "astropy.time",
+   "module_short": "astropy.time",
+   "name": "Time"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "astropy.time",
+   "module_short": "astropy.time",
+   "name": "Time"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "astropy.time",
+   "module_short": "astropy.time",
+   "name": "Time"
+  }
+ ],
+ "astropy.units.Quantity": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "Quantity"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "Quantity"
+  }
+ ],
+ "astropy.wcs.WCS": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "astropy.wcs",
+   "module_short": "astropy.wcs",
+   "name": "WCS"
+  }
+ ],
+ "axes": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.axes",
+   "module_short": "gammapy.maps",
+   "name": "MapAxes"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "MapAxes"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "MapAxes"
+  }
+ ],
+ "axes.to_table_hdu": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.axes",
+   "module_short": "gammapy.maps",
+   "name": "MapAxes.to_table_hdu"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "MapAxes.to_table_hdu"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "MapAxes.to_table_hdu"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "collections.abc",
+   "module_short": "collections.abc",
+   "name": "Sequence.to_table_hdu"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "collections",
+   "module_short": "collections",
+   "name": "Sequence.to_table_hdu"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "collections.abc",
+   "module_short": "collections.abc",
+   "name": "Reversible.to_table_hdu"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "collections",
+   "module_short": "collections",
+   "name": "Reversible.to_table_hdu"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "collections.abc",
+   "module_short": "collections.abc",
+   "name": "Collection.to_table_hdu"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "collections",
+   "module_short": "collections",
+   "name": "Collection.to_table_hdu"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "collections.abc",
+   "module_short": "collections.abc",
+   "name": "Iterable.to_table_hdu"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "collections",
+   "module_short": "collections",
+   "name": "Iterable.to_table_hdu"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "collections.abc",
+   "module_short": "collections.abc",
+   "name": "Sized.to_table_hdu"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "collections",
+   "module_short": "collections",
+   "name": "Sized.to_table_hdu"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "collections.abc",
+   "module_short": "collections.abc",
+   "name": "Container.to_table_hdu"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "collections",
+   "module_short": "collections",
+   "name": "Container.to_table_hdu"
+  }
+ ],
+ "axis1": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.axes",
+   "module_short": "gammapy.maps",
+   "name": "MapAxis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "MapAxis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "MapAxis"
+  }
+ ],
+ "axis2": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.axes",
+   "module_short": "gammapy.maps",
+   "name": "MapAxis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "MapAxis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "MapAxis"
+  }
+ ],
+ "check_tutorials_setup": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.utils.check",
+   "module_short": "gammapy.utils.check",
+   "name": "check_tutorials_setup"
+  }
+ ],
+ "convolve": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.convolution",
+   "module_short": "astropy.convolution",
+   "name": "convolve"
+  }
+ ],
+ "coords": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.coord",
+   "module_short": "gammapy.maps",
+   "name": "MapCoord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "MapCoord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "MapCoord"
+  }
+ ],
+ "coords.skycoord": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.coord",
+   "module_short": "gammapy.maps",
+   "name": "MapCoord.skycoord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "MapCoord.skycoord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "MapCoord.skycoord"
+  }
+ ],
+ "counts": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap"
+  }
+ ],
+ "counts.fill_events": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.fill_events"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.fill_events"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.fill_events"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.fill_events"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.fill_events"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.fill_events"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.fill_events"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.fill_events"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.fill_events"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.fill_events"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.fill_events"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.fill_events"
+  }
+ ],
+ "counts_3d": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap"
+  }
+ ],
+ "counts_3d.fill_by_coord": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.fill_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.fill_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.fill_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.fill_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.fill_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.fill_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.fill_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.fill_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.fill_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.fill_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.fill_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.fill_by_coord"
+  }
+ ],
+ "counts_3d.fill_events": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.fill_events"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.fill_events"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.fill_events"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.fill_events"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.fill_events"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.fill_events"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.fill_events"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.fill_events"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.fill_events"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.fill_events"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.fill_events"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.fill_events"
+  }
+ ],
+ "counts_3d.plot_grid": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.plot_grid"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.plot_grid"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.plot_grid"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.plot_grid"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.plot_grid"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.plot_grid"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.plot_grid"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.plot_grid"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.plot_grid"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.plot_grid"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.plot_grid"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.plot_grid"
+  }
+ ],
+ "counts_3d.write": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.write"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.write"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.write"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.write"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.write"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.write"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.write"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.write"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.write"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.write"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.write"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.write"
+  }
+ ],
+ "cubic": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "cubic"
+  }
+ ],
+ "dict": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "dict"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "dict"
+  }
+ ],
+ "display": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "IPython.display",
+   "module_short": "IPython.display",
+   "name": "display"
+  }
+ ],
+ "energy_axis": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.axes",
+   "module_short": "gammapy.maps",
+   "name": "MapAxis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "MapAxis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "MapAxis"
+  }
+ ],
+ "energy_axis.center": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.axes",
+   "module_short": "gammapy.maps",
+   "name": "MapAxis.center"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "MapAxis.center"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "MapAxis.center"
+  }
+ ],
+ "energy_axis.edges": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.axes",
+   "module_short": "gammapy.maps",
+   "name": "MapAxis.edges"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "MapAxis.edges"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "MapAxis.edges"
+  }
+ ],
+ "energy_axis.unit": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.axes",
+   "module_short": "gammapy.maps",
+   "name": "MapAxis.unit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "MapAxis.unit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "MapAxis.unit"
+  }
+ ],
+ "events": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data.event_list",
+   "module_short": "gammapy.data",
+   "name": "EventList"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data",
+   "module_short": "gammapy.data",
+   "name": "EventList"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "EventList"
+  }
+ ],
+ "events.energy": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data.event_list",
+   "module_short": "gammapy.data",
+   "name": "EventList.energy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data",
+   "module_short": "gammapy.data",
+   "name": "EventList.energy"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "EventList.energy"
+  }
+ ],
+ "events.radec": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data.event_list",
+   "module_short": "gammapy.data",
+   "name": "EventList.radec"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data",
+   "module_short": "gammapy.data",
+   "name": "EventList.radec"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "EventList.radec"
+  }
+ ],
+ "filename": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "str"
+  }
+ ],
+ "fits.open": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.io.fits",
+   "module_short": "astropy.io.fits",
+   "name": "open"
+  }
+ ],
+ "gadf": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "gadf"
+  }
+ ],
+ "gammapy.maps": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "maps"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "maps"
+  }
+ ],
+ "gammapy.maps.Geom": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Geom"
+  }
+ ],
+ "gammapy.maps.LabelMapAxis": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "LabelMapAxis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "LabelMapAxis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "LabelMapAxis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "LabelMapAxis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "LabelMapAxis"
+  }
+ ],
+ "gammapy.maps.LabelMapAxis.center": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.LabelMapAxis",
+   "module_short": "gammapy.maps.LabelMapAxis",
+   "name": "center"
+  }
+ ],
+ "gammapy.maps.LabelMapAxis.concatenate": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.LabelMapAxis",
+   "module_short": "gammapy.maps.LabelMapAxis",
+   "name": "concatenate"
+  }
+ ],
+ "gammapy.maps.LabelMapAxis.coord_to_pix": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.LabelMapAxis",
+   "module_short": "gammapy.maps.LabelMapAxis",
+   "name": "coord_to_pix"
+  }
+ ],
+ "gammapy.maps.LabelMapAxis.slice": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.LabelMapAxis",
+   "module_short": "gammapy.maps.LabelMapAxis",
+   "name": "slice"
+  }
+ ],
+ "gammapy.maps.LabelMapAxis.squash": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.LabelMapAxis",
+   "module_short": "gammapy.maps.LabelMapAxis",
+   "name": "squash"
+  }
+ ],
+ "gammapy.maps.Map": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map"
+  }
+ ],
+ "gammapy.maps.Map.create": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "create"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "create"
+  }
+ ],
+ "gammapy.maps.Map.create()": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "create()"
+  }
+ ],
+ "gammapy.maps.Map.cutout()": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "cutout()"
+  }
+ ],
+ "gammapy.maps.Map.fill_events": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "fill_events"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "fill_events"
+  }
+ ],
+ "gammapy.maps.Map.geom": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "geom"
+  }
+ ],
+ "gammapy.maps.Map.get_by_coord()": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "get_by_coord()"
+  }
+ ],
+ "gammapy.maps.Map.get_by_idx()": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "get_by_idx()"
+  }
+ ],
+ "gammapy.maps.Map.get_image_by_coord()": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "get_image_by_coord()"
+  }
+ ],
+ "gammapy.maps.Map.interp_by_coord": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "interp_by_coord"
+  }
+ ],
+ "gammapy.maps.Map.interp_by_pix": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "interp_by_pix"
+  }
+ ],
+ "gammapy.maps.Map.interp_to_geom()": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "interp_to_geom()"
+  }
+ ],
+ "gammapy.maps.Map.iter_by_image_data": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "iter_by_image_data"
+  }
+ ],
+ "gammapy.maps.Map.plot": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "plot"
+  }
+ ],
+ "gammapy.maps.Map.plot()": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "plot()"
+  }
+ ],
+ "gammapy.maps.Map.plot_grid()": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "plot_grid()"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "plot_grid()"
+  }
+ ],
+ "gammapy.maps.Map.plot_interactive()": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "plot_interactive()"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "plot_interactive()"
+  }
+ ],
+ "gammapy.maps.Map.read()": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "read()"
+  }
+ ],
+ "gammapy.maps.Map.set_by_coord()": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "set_by_coord()"
+  }
+ ],
+ "gammapy.maps.Map.set_by_idx()": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "set_by_idx()"
+  }
+ ],
+ "gammapy.maps.Map.slice_by_idx()": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "slice_by_idx()"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "slice_by_idx()"
+  }
+ ],
+ "gammapy.maps.Map.smooth()": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.Map",
+   "module_short": "gammapy.maps.Map",
+   "name": "smooth()"
+  }
+ ],
+ "gammapy.maps.MapAxis": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "MapAxis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "MapAxis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "MapAxis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "MapAxis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "MapAxis"
+  }
+ ],
+ "gammapy.maps.MapAxis.center": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.MapAxis",
+   "module_short": "gammapy.maps.MapAxis",
+   "name": "center"
+  }
+ ],
+ "gammapy.maps.MapAxis.edges": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.MapAxis",
+   "module_short": "gammapy.maps.MapAxis",
+   "name": "edges"
+  }
+ ],
+ "gammapy.maps.TimeMapAxis": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis"
+  }
+ ],
+ "gammapy.maps.TimeMapAxis.coord_to_idx": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.TimeMapAxis",
+   "module_short": "gammapy.maps.TimeMapAxis",
+   "name": "coord_to_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.TimeMapAxis",
+   "module_short": "gammapy.maps.TimeMapAxis",
+   "name": "coord_to_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.TimeMapAxis",
+   "module_short": "gammapy.maps.TimeMapAxis",
+   "name": "coord_to_idx"
+  }
+ ],
+ "gammapy.maps.TimeMapAxis.coord_to_pix": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.TimeMapAxis",
+   "module_short": "gammapy.maps.TimeMapAxis",
+   "name": "coord_to_pix"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.TimeMapAxis",
+   "module_short": "gammapy.maps.TimeMapAxis",
+   "name": "coord_to_pix"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.TimeMapAxis",
+   "module_short": "gammapy.maps.TimeMapAxis",
+   "name": "coord_to_pix"
+  }
+ ],
+ "gammapy.maps.TimeMapAxis.edges": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.TimeMapAxis",
+   "module_short": "gammapy.maps.TimeMapAxis",
+   "name": "edges"
+  }
+ ],
+ "gammapy.maps.TimeMapAxis.edges_max": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.TimeMapAxis",
+   "module_short": "gammapy.maps.TimeMapAxis",
+   "name": "edges_max"
+  }
+ ],
+ "gammapy.maps.TimeMapAxis.edges_min": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.TimeMapAxis",
+   "module_short": "gammapy.maps.TimeMapAxis",
+   "name": "edges_min"
+  }
+ ],
+ "gammapy.maps.TimeMapAxis.is_contiguous": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.TimeMapAxis",
+   "module_short": "gammapy.maps.TimeMapAxis",
+   "name": "is_contiguous"
+  }
+ ],
+ "gammapy.maps.TimeMapAxis.slice": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.TimeMapAxis",
+   "module_short": "gammapy.maps.TimeMapAxis",
+   "name": "slice"
+  }
+ ],
+ "gammapy.maps.TimeMapAxis.squash": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.TimeMapAxis",
+   "module_short": "gammapy.maps.TimeMapAxis",
+   "name": "squash"
+  }
+ ],
+ "gammapy.maps.TimeMapAxis.time_edges": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.TimeMapAxis",
+   "module_short": "gammapy.maps.TimeMapAxis",
+   "name": "time_edges"
+  }
+ ],
+ "gammapy.maps.TimeMapAxis.to_contiguous": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.maps.TimeMapAxis",
+   "module_short": "gammapy.maps.TimeMapAxis",
+   "name": "to_contiguous"
+  }
+ ],
+ "hdu": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.io.fits.hdu.table",
+   "module_short": "astropy.io.fits",
+   "name": "BinTableHDU"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.io.fits.hdu",
+   "module_short": "astropy.io.fits",
+   "name": "BinTableHDU"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.io.fits",
+   "module_short": "astropy.io.fits",
+   "name": "BinTableHDU"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.io",
+   "module_short": "astropy.io",
+   "name": "BinTableHDU"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "BinTableHDU"
+  }
+ ],
+ "hdu=": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "hdu="
+  }
+ ],
+ "hdulist": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.io.fits.hdu.hdulist",
+   "module_short": "astropy.io.fits",
+   "name": "HDUList"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.io.fits.hdu",
+   "module_short": "astropy.io.fits",
+   "name": "HDUList"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.io.fits",
+   "module_short": "astropy.io.fits",
+   "name": "HDUList"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.io",
+   "module_short": "astropy.io",
+   "name": "HDUList"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "HDUList"
+  }
+ ],
+ "hdulist.info": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.io.fits.hdu.hdulist",
+   "module_short": "astropy.io.fits",
+   "name": "HDUList.info"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.io.fits.hdu",
+   "module_short": "astropy.io.fits",
+   "name": "HDUList.info"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.io.fits",
+   "module_short": "astropy.io.fits",
+   "name": "HDUList.info"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.io",
+   "module_short": "astropy.io",
+   "name": "HDUList.info"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "HDUList.info"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "list.info"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.io.fits.verify",
+   "module_short": "astropy.io.fits.verify",
+   "name": "_Verify.info"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.io.fits",
+   "module_short": "astropy.io.fits",
+   "name": "_Verify.info"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.io",
+   "module_short": "astropy.io",
+   "name": "_Verify.info"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "_Verify.info"
+  }
+ ],
+ "http://www.numpy.org/": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "http://www.numpy",
+   "module_short": "http://www.numpy",
+   "name": "org/"
+  }
+ ],
+ "https://en.wikipedia.org/wiki/HEALPix": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "https://en.wikipedia",
+   "module_short": "https://en.wikipedia",
+   "name": "org/wiki/HEALPix"
+  }
+ ],
+ "https://fits.gsfc.nasa.gov/fits_wcs.html": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "https://fits.gsfc.nasa.gov/fits_wcs",
+   "module_short": "https://fits.gsfc.nasa.gov/fits_wcs",
+   "name": "html"
+  }
+ ],
+ "https://gamma-astro-data-formats.readthedocs.io/en/latest/skymaps/index.html": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "https://gamma-astro-data-formats.readthedocs.io/en/latest/skymaps/index",
+   "module_short": "https://gamma-astro-data-formats.readthedocs.io/en/latest/skymaps/index",
+   "name": "html"
+  }
+ ],
+ "https://jakevdp.github.io/PythonDataScienceHandbook/02.05-computation-on-arrays-broadcasting.html": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "https://jakevdp.github.io/PythonDataScienceHandbook/02.05-computation-on-arrays-broadcasting",
+   "module_short": "https://jakevdp.github.io/PythonDataScienceHandbook/02.05-computation-on-arrays-broadcasting",
+   "name": "html"
+  }
+ ],
+ "https://matplotlib.org/api/_as_gen/matplotlib.pyplot.imshow.html": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "https://matplotlib.org/api/_as_gen/matplotlib.pyplot.imshow",
+   "module_short": "https://matplotlib.org/api/_as_gen/matplotlib.pyplot.imshow",
+   "name": "html"
+  }
+ ],
+ "https://matplotlib.org/api/_as_gen/matplotlib.pyplot.rc_context.html": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "https://matplotlib.org/api/_as_gen/matplotlib.pyplot.rc_context",
+   "module_short": "https://matplotlib.org/api/_as_gen/matplotlib.pyplot.rc_context",
+   "name": "html"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "https://matplotlib.org/api/_as_gen/matplotlib.pyplot.rc_context",
+   "module_short": "https://matplotlib.org/api/_as_gen/matplotlib.pyplot.rc_context",
+   "name": "html"
+  }
+ ],
+ "idx": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "tuple"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "idx"
+  }
+ ],
+ "iem_minus_iem": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap"
+  }
+ ],
+ "iem_plus_iem": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap"
+  }
+ ],
+ "iem_times_two": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap"
+  }
+ ],
+ "image": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap"
+  }
+ ],
+ "image.geom": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.geom"
+  }
+ ],
+ "img": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "numpy",
+   "module_short": "numpy",
+   "name": "ndarray"
+  }
+ ],
+ "ipywidgets": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "ipywidgets"
+  }
+ ],
+ "is_null": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap"
+  }
+ ],
+ "is_null.data": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.data"
+  }
+ ],
+ "kernel": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "numpy",
+   "module_short": "numpy",
+   "name": "ndarray"
+  }
+ ],
+ "label_axis": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.axes",
+   "module_short": "gammapy.maps",
+   "name": "LabelMapAxis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "LabelMapAxis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "LabelMapAxis"
+  }
+ ],
+ "label_axis.center": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.axes",
+   "module_short": "gammapy.maps",
+   "name": "LabelMapAxis.center"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "LabelMapAxis.center"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "LabelMapAxis.center"
+  }
+ ],
+ "label_axis.concatenate": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.axes",
+   "module_short": "gammapy.maps",
+   "name": "LabelMapAxis.concatenate"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "LabelMapAxis.concatenate"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "LabelMapAxis.concatenate"
+  }
+ ],
+ "label_axis.coord_to_pix": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.axes",
+   "module_short": "gammapy.maps",
+   "name": "LabelMapAxis.coord_to_pix"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "LabelMapAxis.coord_to_pix"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "LabelMapAxis.coord_to_pix"
+  }
+ ],
+ "label_axis.slice": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.axes",
+   "module_short": "gammapy.maps",
+   "name": "LabelMapAxis.slice"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "LabelMapAxis.slice"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "LabelMapAxis.slice"
+  }
+ ],
+ "label_axis.squash": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.axes",
+   "module_short": "gammapy.maps",
+   "name": "LabelMapAxis.squash"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "LabelMapAxis.squash"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "LabelMapAxis.squash"
+  }
+ ],
+ "label_axis2": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.axes",
+   "module_short": "gammapy.maps",
+   "name": "LabelMapAxis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "LabelMapAxis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "LabelMapAxis"
+  }
+ ],
+ "lat": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "lat"
+  }
+ ],
+ "lat)": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "lat)"
+  }
+ ],
+ "lats": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "numpy",
+   "module_short": "numpy",
+   "name": "ndarray"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "lats"
+  }
+ ],
+ "list": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "list"
+  }
+ ],
+ "lon": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "lon"
+  }
+ ],
+ "lons": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "numpy",
+   "module_short": "numpy",
+   "name": "ndarray"
+  }
+ ],
+ "m": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap"
+  }
+ ],
+ "m.data": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.data"
+  }
+ ],
+ "m.iter_by_image_data": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.iter_by_image_data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.iter_by_image_data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.iter_by_image_data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.iter_by_image_data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.iter_by_image_data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.iter_by_image_data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.iter_by_image_data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.iter_by_image_data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.iter_by_image_data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.iter_by_image_data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.iter_by_image_data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.iter_by_image_data"
+  }
+ ],
+ "m.write": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.write"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.write"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.write"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.write"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.write"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.write"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.write"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.write"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.write"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.write"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.write"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.write"
+  }
+ ],
+ "m_3fhl_gc": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap"
+  }
+ ],
+ "m_3fhl_gc.plot": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps.wcs.core",
+   "name": "WcsMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps.wcs",
+   "name": "WcsMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps.core",
+   "name": "Map.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.plot"
+  }
+ ],
+ "m_3fhl_gc.smooth": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.smooth"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.smooth"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.smooth"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.smooth"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps.wcs.core",
+   "name": "WcsMap.smooth"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps.wcs",
+   "name": "WcsMap.smooth"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.smooth"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.smooth"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps.core",
+   "name": "Map.smooth"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.smooth"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.smooth"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.smooth"
+  }
+ ],
+ "m_4d": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap"
+  }
+ ],
+ "m_4d.geom": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.geom"
+  }
+ ],
+ "m_4d.get_image_by_coord": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.get_image_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.get_image_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.get_image_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.get_image_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.get_image_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.get_image_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.get_image_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.get_image_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.get_image_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.get_image_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.get_image_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.get_image_by_coord"
+  }
+ ],
+ "m_4d.slice_by_idx": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.slice_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.slice_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.slice_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.slice_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.slice_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.slice_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.slice_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.slice_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.slice_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.slice_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.slice_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.slice_by_idx"
+  }
+ ],
+ "m_4d.to_hdulist": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.to_hdulist"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.to_hdulist"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.to_hdulist"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.to_hdulist"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.to_hdulist"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.to_hdulist"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.to_hdulist"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.to_hdulist"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps.core",
+   "name": "Map.to_hdulist"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.to_hdulist"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.to_hdulist"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.to_hdulist"
+  }
+ ],
+ "m_allsky": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap"
+  }
+ ],
+ "m_allsky.data": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.data"
+  }
+ ],
+ "m_allsky.geom": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.geom"
+  }
+ ],
+ "m_cube": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap"
+  }
+ ],
+ "m_cube.geom": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.geom"
+  }
+ ],
+ "m_cube.get_by_idx": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.get_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.get_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.get_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.get_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.get_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.get_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.get_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.get_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.get_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.get_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.get_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.get_by_idx"
+  }
+ ],
+ "m_cube.set_by_coord": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.set_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.set_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.set_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.set_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.set_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.set_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.set_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.set_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.set_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.set_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.set_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.set_by_coord"
+  }
+ ],
+ "m_cube.set_by_idx": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.set_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.set_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.set_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.set_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.set_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.set_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.set_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.set_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.set_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.set_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.set_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.set_by_idx"
+  }
+ ],
+ "m_cube.slice_by_idx": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.slice_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.slice_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.slice_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.slice_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.slice_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.slice_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.slice_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.slice_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.slice_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.slice_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.slice_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.slice_by_idx"
+  }
+ ],
+ "m_cube.write": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.write"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.write"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.write"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.write"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.write"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.write"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.write"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.write"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.write"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.write"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.write"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.write"
+  }
+ ],
+ "m_gc": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap"
+  }
+ ],
+ "m_gc.data": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.data"
+  }
+ ],
+ "m_gc.geom": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.geom"
+  }
+ ],
+ "m_gc.get_by_coord": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.get_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.get_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.get_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.get_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.get_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.get_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.get_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.get_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.get_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.get_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.get_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.get_by_coord"
+  }
+ ],
+ "m_gc.get_by_idx": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.get_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.get_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.get_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.get_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.get_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.get_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.get_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.get_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.get_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.get_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.get_by_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.get_by_idx"
+  }
+ ],
+ "m_hpx": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.hpx.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "HpxNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.hpx",
+   "module_short": "gammapy.maps",
+   "name": "HpxNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "HpxNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "HpxNDMap"
+  }
+ ],
+ "m_iem_10GeV": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap"
+  }
+ ],
+ "m_iem_10GeV.data": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.data"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.data"
+  }
+ ],
+ "m_iem_10GeV.geom.get_coord": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.geom"
+  }
+ ],
+ "m_iem_cutout": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap"
+  }
+ ],
+ "m_iem_gc": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap"
+  }
+ ],
+ "m_iem_gc.cutout": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.cutout"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.cutout"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.cutout"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.cutout"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps.wcs.core",
+   "name": "WcsMap.cutout"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps.wcs",
+   "name": "WcsMap.cutout"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.cutout"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.cutout"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps.core",
+   "name": "Map.cutout"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.cutout"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.cutout"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.cutout"
+  }
+ ],
+ "m_iem_gc.interp_by_coord": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.interp_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.interp_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.interp_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.interp_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.interp_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.interp_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.interp_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.interp_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.interp_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.interp_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.interp_by_coord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.interp_by_coord"
+  }
+ ],
+ "m_iem_gc.interp_to_geom": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.interp_to_geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.interp_to_geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.interp_to_geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.interp_to_geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.interp_to_geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.interp_to_geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.interp_to_geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.interp_to_geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.interp_to_geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.interp_to_geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.interp_to_geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.interp_to_geom"
+  }
+ ],
+ "m_iem_gc.plot_interactive": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.plot_interactive"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.plot_interactive"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.plot_interactive"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.plot_interactive"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.plot_interactive"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.plot_interactive"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.plot_interactive"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.plot_interactive"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.plot_interactive"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.plot_interactive"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.plot_interactive"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.plot_interactive"
+  }
+ ],
+ "m_iem_interp": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap"
+  }
+ ],
+ "m_sub": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap"
+  }
+ ],
+ "m_wcs": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap"
+  }
+ ],
+ "map_4d": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap"
+  }
+ ],
+ "map_4d.geom": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.geom"
+  }
+ ],
+ "maps": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "dict"
+  }
+ ],
+ "name": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "str"
+  }
+ ],
+ "np.all": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "numpy",
+   "module_short": "numpy",
+   "name": "_ArrayFunctionDispatcher"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "numpy",
+   "module_short": "numpy",
+   "name": "all"
+  }
+ ],
+ "np.isnan": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "numpy",
+   "module_short": "numpy",
+   "name": "ufunc"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "numpy",
+   "module_short": "numpy",
+   "name": "isnan"
+  }
+ ],
+ "np.linspace": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "numpy",
+   "module_short": "numpy",
+   "name": "_ArrayFunctionDispatcher"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "numpy",
+   "module_short": "numpy",
+   "name": "linspace"
+  }
+ ],
+ "np.nan": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "float"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "numpy",
+   "module_short": "numpy",
+   "name": "nan"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "np",
+   "module_short": "np",
+   "name": "nan"
+  }
+ ],
+ "np.ones": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "numpy",
+   "module_short": "numpy",
+   "name": "ones"
+  }
+ ],
+ "numpy.ndarray": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "numpy",
+   "module_short": "numpy",
+   "name": "ndarray"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "numpy",
+   "module_short": "numpy",
+   "name": "ndarray"
+  }
+ ],
+ "os.environ": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "os",
+   "module_short": "os",
+   "name": "_Environ"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "os",
+   "module_short": "os",
+   "name": "environ"
+  }
+ ],
+ "overwrite=True": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "overwrite=True"
+  }
+ ],
+ "plt.rc_context": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.pyplot",
+   "module_short": "matplotlib.pyplot",
+   "name": "rc_context"
+  }
+ ],
+ "plt.show": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.pyplot",
+   "module_short": "matplotlib.pyplot",
+   "name": "show"
+  }
+ ],
+ "position": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.coordinates.sky_coordinate",
+   "module_short": "astropy.coordinates",
+   "name": "SkyCoord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.coordinates",
+   "module_short": "astropy.coordinates",
+   "name": "SkyCoord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "SkyCoord"
+  }
+ ],
+ "positions": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.coordinates.sky_coordinate",
+   "module_short": "astropy.coordinates",
+   "name": "SkyCoord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.coordinates",
+   "module_short": "astropy.coordinates",
+   "name": "SkyCoord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "SkyCoord"
+  }
+ ],
+ "quadratic": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "quadratic"
+  }
+ ],
+ "rc_params": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "dict"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "rc_params"
+  }
+ ],
+ "reference_map": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap"
+  }
+ ],
+ "reference_map.geom": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.geom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.geom"
+  }
+ ],
+ "skycoords": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.coordinates.sky_coordinate",
+   "module_short": "astropy.coordinates",
+   "name": "SkyCoord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.coordinates",
+   "module_short": "astropy.coordinates",
+   "name": "SkyCoord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "SkyCoord"
+  }
+ ],
+ "skydir": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.coordinates.sky_coordinate",
+   "module_short": "astropy.coordinates",
+   "name": "SkyCoord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.coordinates",
+   "module_short": "astropy.coordinates",
+   "name": "SkyCoord"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "SkyCoord"
+  }
+ ],
+ "smoothed": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap"
+  }
+ ],
+ "smoothed.plot": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.ndmap",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsNDMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsNDMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.core",
+   "module_short": "gammapy.maps.wcs.core",
+   "name": "WcsMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps.wcs",
+   "name": "WcsMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsMap.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.core",
+   "module_short": "gammapy.maps.core",
+   "name": "Map.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Map.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Map.plot"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.plot"
+  }
+ ],
+ "sparse=True": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "sparse=True"
+  }
+ ],
+ "table": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.table.table",
+   "module_short": "astropy.table",
+   "name": "Table"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.table",
+   "module_short": "astropy.table",
+   "name": "Table"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "Table"
+  }
+ ],
+ "time": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.time.core",
+   "module_short": "astropy.time",
+   "name": "Time"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.time",
+   "module_short": "astropy.time",
+   "name": "Time"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "Time"
+  }
+ ],
+ "time.mjd": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "numpy",
+   "module_short": "numpy",
+   "name": "float64"
+  }
+ ],
+ "time_axis": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.axes",
+   "module_short": "gammapy.maps",
+   "name": "MapAxis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "MapAxis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "MapAxis"
+  }
+ ],
+ "time_map_axis": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.axes",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "TimeMapAxis"
+  }
+ ],
+ "time_map_axis.coord_to_idx": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.axes",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis.coord_to_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis.coord_to_idx"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "TimeMapAxis.coord_to_idx"
+  }
+ ],
+ "time_map_axis.coord_to_pix": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.axes",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis.coord_to_pix"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis.coord_to_pix"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "TimeMapAxis.coord_to_pix"
+  }
+ ],
+ "time_map_axis.edges_max": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.axes",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis.edges_max"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis.edges_max"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "TimeMapAxis.edges_max"
+  }
+ ],
+ "time_map_axis.edges_min": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.axes",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis.edges_min"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis.edges_min"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "TimeMapAxis.edges_min"
+  }
+ ],
+ "time_map_axis.is_contiguous": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.axes",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis.is_contiguous"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis.is_contiguous"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "TimeMapAxis.is_contiguous"
+  }
+ ],
+ "time_map_axis.slice": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.axes",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis.slice"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis.slice"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "TimeMapAxis.slice"
+  }
+ ],
+ "time_map_axis.squash": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.axes",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis.squash"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis.squash"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "TimeMapAxis.squash"
+  }
+ ],
+ "time_map_axis.time_max.mjd": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.axes",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis.time_max"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis.time_max"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "TimeMapAxis.time_max"
+  }
+ ],
+ "time_map_axis.to_contiguous": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.axes",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis.to_contiguous"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis.to_contiguous"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "TimeMapAxis.to_contiguous"
+  }
+ ],
+ "time_map_axis_contiguous": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.axes",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "TimeMapAxis"
+  }
+ ],
+ "time_map_axis_contiguous.edges": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.axes",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis.edges"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis.edges"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "TimeMapAxis.edges"
+  }
+ ],
+ "time_map_axis_contiguous.is_contiguous": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.axes",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis.is_contiguous"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis.is_contiguous"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "TimeMapAxis.is_contiguous"
+  }
+ ],
+ "time_map_axis_contiguous.time_edges": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.axes",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis.time_edges"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "TimeMapAxis.time_edges"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "TimeMapAxis.time_edges"
+  }
+ ],
+ "times": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.time.core",
+   "module_short": "astropy.time",
+   "name": "Time"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.time",
+   "module_short": "astropy.time",
+   "name": "Time"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "Time"
+  }
+ ],
+ "tuple": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "tuple"
+  }
+ ],
+ "u.GeV": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units.core",
+   "module_short": "astropy.units",
+   "name": "PrefixUnit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "PrefixUnit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "PrefixUnit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "GeV"
+  }
+ ],
+ "u.TeV": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units.core",
+   "module_short": "astropy.units",
+   "name": "PrefixUnit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "PrefixUnit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "PrefixUnit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "TeV"
+  }
+ ],
+ "u.day": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units.core",
+   "module_short": "astropy.units",
+   "name": "Unit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "Unit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "Unit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "day"
+  }
+ ],
+ "u.deg": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units.core",
+   "module_short": "astropy.units",
+   "name": "Unit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "Unit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "Unit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "deg"
+  }
+ ],
+ "u.h": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units.core",
+   "module_short": "astropy.units",
+   "name": "Unit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "Unit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "Unit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "h"
+  }
+ ],
+ "vmax": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "vmax"
+  }
+ ],
+ "vmin": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "vmin"
+  }
+ ],
+ "wcs_geom": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.geom",
+   "module_short": "gammapy.maps",
+   "name": "WcsGeom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsGeom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsGeom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsGeom"
+  }
+ ],
+ "wcs_geom.center_skydir": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.geom",
+   "module_short": "gammapy.maps",
+   "name": "WcsGeom.center_skydir"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsGeom.center_skydir"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsGeom.center_skydir"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsGeom.center_skydir"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.geom",
+   "module_short": "gammapy.maps",
+   "name": "Geom.center_skydir"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Geom.center_skydir"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Geom.center_skydir"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.center_skydir"
+  }
+ ],
+ "wcs_geom.contains": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.geom",
+   "module_short": "gammapy.maps",
+   "name": "WcsGeom.contains"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsGeom.contains"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsGeom.contains"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsGeom.contains"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.geom",
+   "module_short": "gammapy.maps",
+   "name": "Geom.contains"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Geom.contains"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Geom.contains"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.contains"
+  }
+ ],
+ "wcs_geom.solid_angle": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.geom",
+   "module_short": "gammapy.maps",
+   "name": "WcsGeom.solid_angle"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsGeom.solid_angle"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsGeom.solid_angle"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsGeom.solid_angle"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.geom",
+   "module_short": "gammapy.maps",
+   "name": "Geom.solid_angle"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "Geom.solid_angle"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Geom.solid_angle"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "abc",
+   "module_short": "abc",
+   "name": "ABC.solid_angle"
+  }
+ ],
+ "wcs_geom_3d": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.geom",
+   "module_short": "gammapy.maps",
+   "name": "WcsGeom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsGeom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsGeom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsGeom"
+  }
+ ],
+ "wcs_geom_cel": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs.geom",
+   "module_short": "gammapy.maps",
+   "name": "WcsGeom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps.wcs",
+   "module_short": "gammapy.maps",
+   "name": "WcsGeom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.maps",
+   "module_short": "gammapy.maps",
+   "name": "WcsGeom"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WcsGeom"
+  }
+ ],
+ "width": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "width"
+  }
+ ]
+}

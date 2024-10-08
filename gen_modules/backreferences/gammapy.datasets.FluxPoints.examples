@@ -1,0 +1,42 @@
+
+
+Examples using ``gammapy.datasets.FluxPoints``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. start-sphx-glr-thumbnails
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbnails">
+
+.. thumbnail-parent-div-open
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Learn how to work with datasets">
+
+.. only:: html
+
+  .. image:: /tutorials/api/images/thumb/sphx_glr_datasets_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_api_datasets.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Datasets - Reduced data, IRFs, models</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_api_datasets.py`
+
+.. thumbnail-parent-div-close
+
+.. raw:: html
+
+    </div>
+

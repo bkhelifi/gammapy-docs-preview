@@ -1,0 +1,42 @@
+
+
+Examples using ``gammapy.SineTemporalModel``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. start-sphx-glr-thumbnails
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbnails">
+
+.. thumbnail-parent-div-open
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="This model parametrises a time model of sinusoidal modulation.">
+
+.. only:: html
+
+  .. image:: /user-guide/model-gallery/temporal/images/thumb/sphx_glr_plot_sine_temporal_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_user-guide_model-gallery_temporal_plot_sine_temporal.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Sine temporal model</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_user-guide_model-gallery_temporal_plot_sine_temporal.py`
+
+.. thumbnail-parent-div-close
+
+.. raw:: html
+
+    </div>
+

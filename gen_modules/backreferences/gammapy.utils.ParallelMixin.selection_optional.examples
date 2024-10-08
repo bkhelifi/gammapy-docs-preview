@@ -1,0 +1,42 @@
+
+
+Examples using ``gammapy.utils.ParallelMixin.selection_optional``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. start-sphx-glr-thumbnails
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbnails">
+
+.. thumbnail-parent-div-open
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Compute per-observation and nightly fluxes of four Crab nebula observations.">
+
+.. only:: html
+
+  .. image:: /tutorials/analysis-time/images/thumb/sphx_glr_light_curve_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_analysis-time_light_curve.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Light curves</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_analysis-time_light_curve.py`
+
+.. thumbnail-parent-div-close
+
+.. raw:: html
+
+    </div>
+

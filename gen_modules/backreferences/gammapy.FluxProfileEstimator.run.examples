@@ -1,0 +1,42 @@
+
+
+Examples using ``gammapy.FluxProfileEstimator.run``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. start-sphx-glr-thumbnails
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbnails">
+
+.. thumbnail-parent-div-open
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Learn how to estimate flux profiles on a Fermi-LAT dataset.">
+
+.. only:: html
+
+  .. image:: /tutorials/analysis-3d/images/thumb/sphx_glr_flux_profiles_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_analysis-3d_flux_profiles.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Flux Profile Estimation</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_analysis-3d_flux_profiles.py`
+
+.. thumbnail-parent-div-close
+
+.. raw:: html
+
+    </div>
+

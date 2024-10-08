@@ -1,0 +1,42 @@
+
+
+Examples using ``gammapy.modeling.Analysis``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. start-sphx-glr-thumbnails
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbnails">
+
+.. thumbnail-parent-div-open
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Introduction to 3D analysis using the Gammapy high level interface.">
+
+.. only:: html
+
+  .. image:: /tutorials/starting/images/thumb/sphx_glr_analysis_1_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_starting_analysis_1.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">High level interface</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_starting_analysis_1.py`
+
+.. thumbnail-parent-div-close
+
+.. raw:: html
+
+    </div>
+

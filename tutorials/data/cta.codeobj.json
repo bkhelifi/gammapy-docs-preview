@@ -1,0 +1,997 @@
+{
+ "$GAMMAPY_DATA/cta-1dc": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "$GAMMAPY_DATA/cta-1dc"
+  }
+ ],
+ "/tutorials/analysis-1d/cta_sensitivity": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "/tutorials/analysis-1d/cta_sensitivity"
+  }
+ ],
+ "/tutorials/analysis-1d/spectrum_simulation": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "/tutorials/analysis-1d/spectrum_simulation"
+  }
+ ],
+ "/tutorials/analysis-3d/simulate_3d": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "/tutorials/analysis-3d/simulate_3d"
+  }
+ ],
+ "/tutorials/starting/analysis_1": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "/tutorials/starting/analysis_1"
+  }
+ ],
+ "/tutorials/starting/analysis_2": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "/tutorials/starting/analysis_2"
+  }
+ ],
+ "CALDB": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "CALDB"
+  }
+ ],
+ "CTA-Performance-prod3b-v2-FITS.tar": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "CTA-Performance-prod3b-v2-FITS",
+   "module_short": "CTA-Performance-prod3b-v2-FITS",
+   "name": "tar"
+  }
+ ],
+ "CTADATA": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "CTADATA"
+  }
+ ],
+ "DataStore": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "DataStore"
+  }
+ ],
+ "DataStore.from_dir": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.data.data_store",
+   "module_short": "gammapy.data",
+   "name": "DataStore.from_dir"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.data",
+   "module_short": "gammapy.data",
+   "name": "DataStore.from_dir"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "DataStore.from_dir"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data.DataStore",
+   "module_short": "gammapy.data.DataStore",
+   "name": "from_dir"
+  }
+ ],
+ "DataStore.from_events_files": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.data.data_store",
+   "module_short": "gammapy.data",
+   "name": "DataStore.from_events_files"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.data",
+   "module_short": "gammapy.data",
+   "name": "DataStore.from_events_files"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "DataStore.from_events_files"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data.DataStore",
+   "module_short": "gammapy.data.DataStore",
+   "name": "from_events_files"
+  }
+ ],
+ "EffectiveAreaTable2D.read": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.irf.effective_area",
+   "module_short": "gammapy.irf",
+   "name": "EffectiveAreaTable2D.read"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.irf",
+   "module_short": "gammapy.irf",
+   "name": "EffectiveAreaTable2D.read"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "EffectiveAreaTable2D.read"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.irf.core",
+   "module_short": "gammapy.irf",
+   "name": "IRF.read"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.irf",
+   "module_short": "gammapy.irf",
+   "name": "IRF.read"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "IRF.read"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.irf.EffectiveAreaTable2D",
+   "module_short": "gammapy.irf.EffectiveAreaTable2D",
+   "name": "read"
+  }
+ ],
+ "EventList.read": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.data.event_list",
+   "module_short": "gammapy.data",
+   "name": "EventList.read"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.data",
+   "module_short": "gammapy.data",
+   "name": "EventList.read"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "EventList.read"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data.EventList",
+   "module_short": "gammapy.data.EventList",
+   "name": "read"
+  }
+ ],
+ "MC_ID": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "MC_ID"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "MC_ID"
+  }
+ ],
+ "Path": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "pathlib",
+   "module_short": "pathlib",
+   "name": "Path"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "pathlib",
+   "module_short": "pathlib",
+   "name": "PurePath"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "pathlib",
+   "module_short": "pathlib",
+   "name": "Path"
+  }
+ ],
+ "South_z20_50h": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "South_z20_50h"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "South_z20_50h"
+  }
+ ],
+ "South_z40_50h": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "South_z40_50h"
+  }
+ ],
+ "aeff": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.irf.effective_area",
+   "module_short": "gammapy.irf",
+   "name": "EffectiveAreaTable2D"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.irf",
+   "module_short": "gammapy.irf",
+   "name": "EffectiveAreaTable2D"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "EffectiveAreaTable2D"
+  }
+ ],
+ "aeff.evaluate": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.irf.effective_area",
+   "module_short": "gammapy.irf",
+   "name": "EffectiveAreaTable2D.evaluate"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.irf",
+   "module_short": "gammapy.irf",
+   "name": "EffectiveAreaTable2D.evaluate"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "EffectiveAreaTable2D.evaluate"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.irf.core",
+   "module_short": "gammapy.irf",
+   "name": "IRF.evaluate"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.irf",
+   "module_short": "gammapy.irf",
+   "name": "IRF.evaluate"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "IRF.evaluate"
+  }
+ ],
+ "agn.wobble.tar.gz": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "agn.wobble.tar",
+   "module_short": "agn.wobble.tar",
+   "name": "gz"
+  }
+ ],
+ "astropy.coordinates.SkyCoord": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "astropy.coordinates",
+   "module_short": "astropy.coordinates",
+   "name": "SkyCoord"
+  }
+ ],
+ "caldb": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "caldb"
+  }
+ ],
+ "caldb.tar.gz": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "caldb.tar",
+   "module_short": "caldb.tar",
+   "name": "gz"
+  }
+ ],
+ "check_tutorials_setup": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.utils.check",
+   "module_short": "gammapy.utils.check",
+   "name": "check_tutorials_setup"
+  }
+ ],
+ "data_store": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data.data_store",
+   "module_short": "gammapy.data",
+   "name": "DataStore"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data",
+   "module_short": "gammapy.data",
+   "name": "DataStore"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "DataStore"
+  }
+ ],
+ "data_store.obs": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data.data_store",
+   "module_short": "gammapy.data",
+   "name": "DataStore.obs"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data",
+   "module_short": "gammapy.data",
+   "name": "DataStore.obs"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "DataStore.obs"
+  }
+ ],
+ "data_store.obs_table": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data.obs_table",
+   "module_short": "gammapy.data",
+   "name": "ObservationTable"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data",
+   "module_short": "gammapy.data",
+   "name": "ObservationTable"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "ObservationTable"
+  }
+ ],
+ "datasets": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "datasets"
+  }
+ ],
+ "display": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "IPython.display",
+   "module_short": "IPython.display",
+   "name": "display"
+  }
+ ],
+ "egal.tar.gz": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "egal.tar",
+   "module_short": "egal.tar",
+   "name": "gz"
+  }
+ ],
+ "events": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data.event_list",
+   "module_short": "gammapy.data",
+   "name": "EventList"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data",
+   "module_short": "gammapy.data",
+   "name": "EventList"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "EventList"
+  }
+ ],
+ "events.peek": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data.event_list",
+   "module_short": "gammapy.data",
+   "name": "EventList.peek"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data",
+   "module_short": "gammapy.data",
+   "name": "EventList.peek"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "EventList.peek"
+  }
+ ],
+ "events.peek()": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "events",
+   "module_short": "events",
+   "name": "peek()"
+  }
+ ],
+ "events.table": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.table.table",
+   "module_short": "astropy.table",
+   "name": "Table"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.table",
+   "module_short": "astropy.table",
+   "name": "Table"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "Table"
+  }
+ ],
+ "events.table.meta": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "events.table",
+   "module_short": "events.table",
+   "name": "meta"
+  }
+ ],
+ "gammapy.data.DataStore": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.data",
+   "module_short": "gammapy.data",
+   "name": "DataStore"
+  }
+ ],
+ "gammapy.data.EventList": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.data",
+   "module_short": "gammapy.data",
+   "name": "EventList"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.data",
+   "module_short": "gammapy.data",
+   "name": "EventList"
+  }
+ ],
+ "gammapy.data.EventList.pointing_radec": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.data.EventList",
+   "module_short": "gammapy.data.EventList",
+   "name": "pointing_radec"
+  }
+ ],
+ "gammapy.data.EventList.table": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gammapy.data.EventList",
+   "module_short": "gammapy.data.EventList",
+   "name": "table"
+  }
+ ],
+ "gc.tar.gz": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gc.tar",
+   "module_short": "gc.tar",
+   "name": "gz"
+  }
+ ],
+ "gps.tar.gz": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "gps.tar",
+   "module_short": "gps.tar",
+   "name": "gz"
+  }
+ ],
+ "https://docs.python.org/3/library/xml.etree.elementtree.html": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "https://docs.python.org/3/library/xml.etree.elementtree",
+   "module_short": "https://docs.python.org/3/library/xml.etree.elementtree",
+   "name": "html"
+  }
+ ],
+ "https://forge.in2p3.fr/projects/data-challenge-1-dc-1/wiki": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "https://forge.in2p3",
+   "module_short": "https://forge.in2p3",
+   "name": "fr/projects/data-challenge-1-dc-1/wiki"
+  }
+ ],
+ "https://forge.in2p3.fr/projects/data-challenge-1-dc-1/wiki#Data-access": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "https://forge.in2p3",
+   "module_short": "https://forge.in2p3",
+   "name": "fr/projects/data-challenge-1-dc-1/wiki#Data-access"
+  }
+ ],
+ "https://github.com/martinblech/xmltodict": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "https://github",
+   "module_short": "https://github",
+   "name": "com/martinblech/xmltodict"
+  }
+ ],
+ "https://ui.adsabs.harvard.edu/abs/2017ICRC...35..766D": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "https://ui.adsabs.harvard.edu/abs/2017ICRC...35.",
+   "module_short": "https://ui.adsabs.harvard.edu/abs/2017ICRC...35.",
+   "name": "766D"
+  }
+ ],
+ "https://www.cta-observatory.org/": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "https://www.cta-observatory",
+   "module_short": "https://www.cta-observatory",
+   "name": "org/"
+  }
+ ],
+ "https://www.cta-observatory.org/ctao-adopts-the-gammapy-software-package-for-science-analysis/": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "https://www.cta-observatory",
+   "module_short": "https://www.cta-observatory",
+   "name": "org/ctao-adopts-the-gammapy-software-package-for-science-analysis/"
+  }
+ ],
+ "index.tar.gz": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "index.tar",
+   "module_short": "index.tar",
+   "name": "gz"
+  }
+ ],
+ "irf_filename": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "str"
+  }
+ ],
+ "irfs": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "dict"
+  }
+ ],
+ "load_irf_dict_from_file": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.irf",
+   "module_short": "gammapy.irf",
+   "name": "load_irf_dict_from_file"
+  }
+ ],
+ "models.tar.gz": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "models.tar",
+   "module_short": "models.tar",
+   "name": "gz"
+  }
+ ],
+ "obs_id=111159": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "obs_id=111159"
+  }
+ ],
+ "observation": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data.observations",
+   "module_short": "gammapy.data",
+   "name": "Observation"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data",
+   "module_short": "gammapy.data",
+   "name": "Observation"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Observation"
+  }
+ ],
+ "observation.aeff": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.irf.effective_area",
+   "module_short": "gammapy.irf",
+   "name": "EffectiveAreaTable2D"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.irf",
+   "module_short": "gammapy.irf",
+   "name": "EffectiveAreaTable2D"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "EffectiveAreaTable2D"
+  }
+ ],
+ "observation.events": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data.observations",
+   "module_short": "gammapy.data",
+   "name": "Observation.events"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.data",
+   "module_short": "gammapy.data",
+   "name": "Observation.events"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Observation.events"
+  }
+ ],
+ "os.environ": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "os",
+   "module_short": "os",
+   "name": "_Environ"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "os",
+   "module_short": "os",
+   "name": "environ"
+  }
+ ],
+ "path": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "pathlib",
+   "module_short": "pathlib",
+   "name": "PosixPath"
+  }
+ ],
+ "path.rglob": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "pathlib",
+   "module_short": "pathlib",
+   "name": "PosixPath.rglob"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "pathlib",
+   "module_short": "pathlib",
+   "name": "Path.rglob"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "pathlib",
+   "module_short": "pathlib",
+   "name": "PurePosixPath.rglob"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "pathlib",
+   "module_short": "pathlib",
+   "name": "PurePath.rglob"
+  }
+ ],
+ "paths": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "list"
+  }
+ ],
+ "plt.show": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.pyplot",
+   "module_short": "matplotlib.pyplot",
+   "name": "show"
+  }
+ ],
+ "sr-1": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "sr-1"
+  }
+ ],
+ "u.deg": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units.core",
+   "module_short": "astropy.units",
+   "name": "Unit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "Unit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "Unit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "deg"
+  }
+ ],
+ "untar": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "untar"
+  }
+ ],
+ "xmltodict": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "xmltodict"
+  }
+ ]
+}

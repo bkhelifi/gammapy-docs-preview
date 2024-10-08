@@ -1,0 +1,42 @@
+
+
+Examples using ``gammapy.data.EventList.pointing_radec``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. start-sphx-glr-thumbnails
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbnails">
+
+.. thumbnail-parent-div-open
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Access and inspect CTA data and instrument response functions (IRFs) using Gammapy.">
+
+.. only:: html
+
+  .. image:: /tutorials/data/images/thumb/sphx_glr_cta_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_data_cta.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">CTA with Gammapy</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_data_cta.py`
+
+.. thumbnail-parent-div-close
+
+.. raw:: html
+
+    </div>
+

@@ -1,0 +1,685 @@
+{
+ "/tutorials/analysis-3d/analysis_3d": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "/tutorials/analysis-3d/analysis_3d"
+  }
+ ],
+ "Analysis": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.analysis.core",
+   "module_short": "gammapy.analysis",
+   "name": "Analysis"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.analysis",
+   "module_short": "gammapy.analysis",
+   "name": "Analysis"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Analysis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.analysis",
+   "module_short": "gammapy.analysis",
+   "name": "Analysis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "Analysis"
+  }
+ ],
+ "AnalysisConfig": [
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.analysis.config",
+   "module_short": "gammapy.analysis",
+   "name": "AnalysisConfig"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.analysis",
+   "module_short": "gammapy.analysis",
+   "name": "AnalysisConfig"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "AnalysisConfig"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.analysis.config",
+   "module_short": "gammapy.analysis.config",
+   "name": "GammapyBaseConfig"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy.analysis",
+   "module_short": "gammapy.analysis",
+   "name": "GammapyBaseConfig"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "GammapyBaseConfig"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "pydantic.main",
+   "module_short": "pydantic",
+   "name": "BaseModel"
+  },
+  {
+   "is_class": true,
+   "is_explicit": false,
+   "module": "pydantic",
+   "module_short": "pydantic",
+   "name": "BaseModel"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.analysis",
+   "module_short": "gammapy.analysis",
+   "name": "AnalysisConfig"
+  }
+ ],
+ "MapDataset": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "MapDataset"
+  }
+ ],
+ "analysis": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.analysis.core",
+   "module_short": "gammapy.analysis",
+   "name": "Analysis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.analysis",
+   "module_short": "gammapy.analysis",
+   "name": "Analysis"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Analysis"
+  }
+ ],
+ "analysis.datasets": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets.core",
+   "module_short": "gammapy.datasets",
+   "name": "Datasets"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.datasets",
+   "module_short": "gammapy.datasets",
+   "name": "Datasets"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Datasets"
+  }
+ ],
+ "analysis.get_datasets": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.analysis.core",
+   "module_short": "gammapy.analysis",
+   "name": "Analysis.get_datasets"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.analysis",
+   "module_short": "gammapy.analysis",
+   "name": "Analysis.get_datasets"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Analysis.get_datasets"
+  }
+ ],
+ "analysis.get_observations": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.analysis.core",
+   "module_short": "gammapy.analysis",
+   "name": "Analysis.get_observations"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.analysis",
+   "module_short": "gammapy.analysis",
+   "name": "Analysis.get_observations"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Analysis.get_observations"
+  }
+ ],
+ "analysis.models.to_parameters_table": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.analysis.core",
+   "module_short": "gammapy.analysis",
+   "name": "Analysis.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.analysis",
+   "module_short": "gammapy.analysis",
+   "name": "Analysis.models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Analysis.models"
+  }
+ ],
+ "analysis.run_fit": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.analysis.core",
+   "module_short": "gammapy.analysis",
+   "name": "Analysis.run_fit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.analysis",
+   "module_short": "gammapy.analysis",
+   "name": "Analysis.run_fit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Analysis.run_fit"
+  }
+ ],
+ "analysis.set_models": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.analysis.core",
+   "module_short": "gammapy.analysis",
+   "name": "Analysis.set_models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.analysis",
+   "module_short": "gammapy.analysis",
+   "name": "Analysis.set_models"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "Analysis.set_models"
+  }
+ ],
+ "background": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "background"
+  }
+ ],
+ "check_tutorials_setup": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.utils.check",
+   "module_short": "gammapy.utils.check",
+   "name": "check_tutorials_setup"
+  }
+ ],
+ "config": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.analysis.config",
+   "module_short": "gammapy.analysis",
+   "name": "AnalysisConfig"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.analysis",
+   "module_short": "gammapy.analysis",
+   "name": "AnalysisConfig"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "AnalysisConfig"
+  }
+ ],
+ "config.datasets.background.method": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "str"
+  }
+ ],
+ "config.datasets.geom.axes.energy.max": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units.quantity",
+   "module_short": "astropy.units",
+   "name": "Quantity"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "Quantity"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "Quantity"
+  }
+ ],
+ "config.datasets.geom.axes.energy.min": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units.quantity",
+   "module_short": "astropy.units",
+   "name": "Quantity"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "Quantity"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "Quantity"
+  }
+ ],
+ "config.datasets.geom.axes.energy.nbins": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "int"
+  }
+ ],
+ "config.datasets.geom.selection.offset_max": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.coordinates.angles",
+   "module_short": "astropy.coordinates",
+   "name": "Angle"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.coordinates",
+   "module_short": "astropy.coordinates",
+   "name": "Angle"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "Angle"
+  }
+ ],
+ "config.datasets.geom.wcs.binsize": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.coordinates.angles",
+   "module_short": "astropy.coordinates",
+   "name": "Angle"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.coordinates",
+   "module_short": "astropy.coordinates",
+   "name": "Angle"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "Angle"
+  }
+ ],
+ "config.datasets.geom.wcs.binsize_irf": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.coordinates.angles",
+   "module_short": "astropy.coordinates",
+   "name": "Angle"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.coordinates",
+   "module_short": "astropy.coordinates",
+   "name": "Angle"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "Angle"
+  }
+ ],
+ "config.datasets.geom.wcs.skydir": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.analysis.config",
+   "module_short": "gammapy.analysis.config",
+   "name": "SkyCoordConfig"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.analysis",
+   "module_short": "gammapy.analysis",
+   "name": "SkyCoordConfig"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "SkyCoordConfig"
+  }
+ ],
+ "config.datasets.geom.wcs.width": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.analysis.config",
+   "module_short": "gammapy.analysis.config",
+   "name": "WidthConfig"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.analysis",
+   "module_short": "gammapy.analysis",
+   "name": "WidthConfig"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "WidthConfig"
+  }
+ ],
+ "config.datasets.safe_mask.methods": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "list"
+  }
+ ],
+ "config.datasets.safe_mask.parameters": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "dict"
+  }
+ ],
+ "config.datasets.type": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "str"
+  }
+ ],
+ "config.fit.fit_range": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.analysis.config",
+   "module_short": "gammapy.analysis.config",
+   "name": "EnergyRangeConfig"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy.analysis",
+   "module_short": "gammapy.analysis",
+   "name": "EnergyRangeConfig"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "gammapy",
+   "module_short": "gammapy",
+   "name": "EnergyRangeConfig"
+  }
+ ],
+ "config.observations.datastore": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "pathlib",
+   "module_short": "pathlib",
+   "name": "PosixPath"
+  }
+ ],
+ "config.observations.obs_ids": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "list"
+  }
+ ],
+ "counts": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "counts"
+  }
+ ],
+ "display": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "IPython.display",
+   "module_short": "IPython.display",
+   "name": "display"
+  }
+ ],
+ "edisp": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "edisp"
+  }
+ ],
+ "exposure": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "exposure"
+  }
+ ],
+ "model_config": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "str"
+  }
+ ],
+ "plt.show": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.pyplot",
+   "module_short": "matplotlib.pyplot",
+   "name": "show"
+  }
+ ],
+ "psf": [
+  {
+   "is_class": false,
+   "is_explicit": true,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "psf"
+  }
+ ],
+ "u.deg": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units.core",
+   "module_short": "astropy.units",
+   "name": "Unit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "Unit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy",
+   "module_short": "astropy",
+   "name": "Unit"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "astropy.units",
+   "module_short": "astropy.units",
+   "name": "deg"
+  }
+ ]
+}

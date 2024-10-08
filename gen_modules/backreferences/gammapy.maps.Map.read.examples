@@ -1,0 +1,189 @@
+
+
+Examples using ``gammapy.maps.Map.read``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. start-sphx-glr-thumbnails
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbnails">
+
+.. thumbnail-parent-div-open
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="This is a spatial model based on a 2D sky map provided as a template.">
+
+.. only:: html
+
+  .. image:: /user-guide/model-gallery/spatial/images/thumb/sphx_glr_plot_template_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_user-guide_model-gallery_spatial_plot_template.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Template spatial model</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_user-guide_model-gallery_spatial_plot_template.py`
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Introduction to basic data structures handling.">
+
+.. only:: html
+
+  .. image:: /tutorials/starting/images/thumb/sphx_glr_overview_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_starting_overview.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Data structures</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_starting_overview.py`
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Data inspection and preliminary analysis with Fermi-LAT data.">
+
+.. only:: html
+
+  .. image:: /tutorials/data/images/thumb/sphx_glr_fermi_lat_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_data_fermi_lat.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Fermi-LAT with Gammapy</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_data_fermi_lat.py`
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="HAWC is an array of water Cherenkov detectors located in Mexico that detects gamma-rays in the range between hundreds of GeV and hundreds of TeV. Gammapy recently added support of HAWC high level data analysis, after export to the current open data level 3 format.">
+
+.. only:: html
+
+  .. image:: /tutorials/data/images/thumb/sphx_glr_hawc_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_data_hawc.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">HAWC with Gammapy</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_data_hawc.py`
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Build a list of significant excesses in a Fermi-LAT map.">
+
+.. only:: html
+
+  .. image:: /tutorials/analysis-2d/images/thumb/sphx_glr_detect_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_analysis-2d_detect.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Source detection and significance maps</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_analysis-2d_detect.py`
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="A thorough tutorial to work with WCS maps.">
+
+.. only:: html
+
+  .. image:: /tutorials/api/images/thumb/sphx_glr_maps_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_api_maps.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Maps</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_api_maps.py`
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Create and apply masks maps.">
+
+.. only:: html
+
+  .. image:: /tutorials/api/images/thumb/sphx_glr_mask_maps_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_api_mask_maps.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Mask maps</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_api_mask_maps.py`
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Multiple datasets and models interaction in Gammapy.">
+
+.. only:: html
+
+  .. image:: /tutorials/api/images/thumb/sphx_glr_model_management_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_api_model_management.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Modelling</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_api_model_management.py`
+
+.. thumbnail-parent-div-close
+
+.. raw:: html
+
+    </div>
+

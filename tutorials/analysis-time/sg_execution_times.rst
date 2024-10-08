@@ -1,0 +1,52 @@
+
+:orphan:
+
+.. _sphx_glr_tutorials_analysis-time_sg_execution_times:
+
+
+Computation times
+=================
+**00:49.821** total execution time for 6 files **from tutorials/analysis-time**:
+
+.. container::
+
+  .. raw:: html
+
+    <style scoped>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css" rel="stylesheet" />
+    </style>
+    <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.6/js/dataTables.bootstrap5.min.js"></script>
+    <script type="text/javascript" class="init">
+    $(document).ready( function () {
+        $('table.sg-datatable').DataTable({order: [[1, 'desc']]});
+    } );
+    </script>
+
+  .. list-table::
+   :header-rows: 1
+   :class: table table-striped sg-datatable
+
+   * - Example
+     - Time
+     - Mem (MB)
+   * - :ref:`sphx_glr_tutorials_analysis-time_light_curve_flare.py` (``light_curve_flare.py``)
+     - 00:19.157
+     - 0.0
+   * - :ref:`sphx_glr_tutorials_analysis-time_Time_resolved_spectroscopy.py` (``Time_resolved_spectroscopy.py``)
+     - 00:12.282
+     - 0.0
+   * - :ref:`sphx_glr_tutorials_analysis-time_light_curve_simulation.py` (``light_curve_simulation.py``)
+     - 00:09.873
+     - 0.0
+   * - :ref:`sphx_glr_tutorials_analysis-time_light_curve.py` (``light_curve.py``)
+     - 00:04.266
+     - 0.0
+   * - :ref:`sphx_glr_tutorials_analysis-time_pulsar_analysis.py` (``pulsar_analysis.py``)
+     - 00:03.924
+     - 0.0
+   * - :ref:`sphx_glr_tutorials_analysis-time_Variability_estimation.py` (``Variability_estimation.py``)
+     - 00:00.320
+     - 0.0

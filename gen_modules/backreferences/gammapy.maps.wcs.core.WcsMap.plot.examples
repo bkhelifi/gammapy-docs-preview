@@ -1,0 +1,294 @@
+
+
+Examples using ``gammapy.maps.wcs.core.WcsMap.plot``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. start-sphx-glr-thumbnails
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbnails">
+
+.. thumbnail-parent-div-open
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Introduction to basic data structures handling.">
+
+.. only:: html
+
+  .. image:: /tutorials/starting/images/thumb/sphx_glr_overview_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_starting_overview.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Data structures</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_starting_overview.py`
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Perform a full region based on-off spectral analysis and fit the resulting datasets.">
+
+.. only:: html
+
+  .. image:: /tutorials/analysis-1d/images/thumb/sphx_glr_spectral_analysis_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_analysis-1d_spectral_analysis.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Spectral analysis</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_analysis-1d_spectral_analysis.py`
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Perform a point like spectral analysis with energy dependent offset cut.">
+
+.. only:: html
+
+  .. image:: /tutorials/analysis-1d/images/thumb/sphx_glr_spectral_analysis_rad_max_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_analysis-1d_spectral_analysis_rad_max.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Spectral analysis with energy-dependent directional cuts</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_analysis-1d_spectral_analysis_rad_max.py`
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Create an excess (gamma-ray events) and a significance map extracting a ring background.">
+
+.. only:: html
+
+  .. image:: /tutorials/analysis-2d/images/thumb/sphx_glr_ring_background_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_analysis-2d_ring_background.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Ring background map</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_analysis-2d_ring_background.py`
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Detect sources, produce a sky image and a spectrum using CTA-1DC data.">
+
+.. only:: html
+
+  .. image:: /tutorials/analysis-3d/images/thumb/sphx_glr_cta_data_analysis_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_analysis-3d_cta_data_analysis.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Basic image exploration and fitting</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_analysis-3d_cta_data_analysis.py`
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Learn how to test for energy-dependent morphology in your dataset.">
+
+.. only:: html
+
+  .. image:: /tutorials/analysis-3d/images/thumb/sphx_glr_energy_dependent_estimation_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_analysis-3d_energy_dependent_estimation.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Morphological energy dependence estimation</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_analysis-3d_energy_dependent_estimation.py`
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Produce a phasogram, phased-resolved maps and spectra for pulsar analysis.   Introduction ------------">
+
+.. only:: html
+
+  .. image:: /tutorials/analysis-time/images/thumb/sphx_glr_pulsar_analysis_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_analysis-time_pulsar_analysis.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Pulsar analysis</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_analysis-time_pulsar_analysis.py`
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Convenience methods for dark matter high level analyses.">
+
+.. only:: html
+
+  .. image:: /tutorials/api/images/thumb/sphx_glr_astro_dark_matter_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_api_astro_dark_matter.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Dark matter spatial and spectral models</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_api_astro_dark_matter.py`
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Learn how to work with datasets">
+
+.. only:: html
+
+  .. image:: /tutorials/api/images/thumb/sphx_glr_datasets_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_api_datasets.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Datasets - Reduced data, IRFs, models</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_api_datasets.py`
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Data reduction: from observations to binned datasets">
+
+.. only:: html
+
+  .. image:: /tutorials/api/images/thumb/sphx_glr_makers_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_api_makers.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Makers - Data reduction</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_api_makers.py`
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="A thorough tutorial to work with WCS maps.">
+
+.. only:: html
+
+  .. image:: /tutorials/api/images/thumb/sphx_glr_maps_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_api_maps.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Maps</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_api_maps.py`
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Create and apply masks maps.">
+
+.. only:: html
+
+  .. image:: /tutorials/api/images/thumb/sphx_glr_mask_maps_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_api_mask_maps.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Mask maps</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_api_mask_maps.py`
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="The sub-package modeling contains all the functionality related to modeling and fitting data. This includes spectral, spatial and temporal model classes, as well as the fit and parameter API.The models follow a naming scheme which contains the category as a suffix to the class name. An overview of all the available models can be found in the model-gallery.">
+
+.. only:: html
+
+  .. image:: /tutorials/api/images/thumb/sphx_glr_models_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_api_models.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Models</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_api_models.py`
+
+.. thumbnail-parent-div-close
+
+.. raw:: html
+
+    </div>
+

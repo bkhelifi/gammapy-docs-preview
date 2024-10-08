@@ -1,0 +1,42 @@
+
+
+Examples using ``gammapy.modeling.NaimaSpectralModel``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. start-sphx-glr-thumbnails
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbnails">
+
+.. thumbnail-parent-div-open
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="This class provides an interface with the models defined in the naima models module.">
+
+.. only:: html
+
+  .. image:: /user-guide/model-gallery/spectral/images/thumb/sphx_glr_plot_naima_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_user-guide_model-gallery_spectral_plot_naima.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Naima spectral model</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_user-guide_model-gallery_spectral_plot_naima.py`
+
+.. thumbnail-parent-div-close
+
+.. raw:: html
+
+    </div>
+

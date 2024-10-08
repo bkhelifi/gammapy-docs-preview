@@ -1,0 +1,42 @@
+
+
+Examples using ``gammapy.modeling.models.SuperExpCutoffPowerLaw3FGLSpectralModel``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. start-sphx-glr-thumbnails
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbnails">
+
+.. thumbnail-parent-div-open
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="This model parametrises super exponential cutoff power-law model spectrum used for 3FGL.">
+
+.. only:: html
+
+  .. image:: /user-guide/model-gallery/spectral/images/thumb/sphx_glr_plot_super_exp_cutoff_powerlaw_3fgl_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_user-guide_model-gallery_spectral_plot_super_exp_cutoff_powerlaw_3fgl.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Super exponential cutoff power law model used for 3FGL</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_user-guide_model-gallery_spectral_plot_super_exp_cutoff_powerlaw_3fgl.py`
+
+.. thumbnail-parent-div-close
+
+.. raw:: html
+
+    </div>
+

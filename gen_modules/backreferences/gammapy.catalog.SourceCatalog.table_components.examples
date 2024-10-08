@@ -1,0 +1,42 @@
+
+
+Examples using ``gammapy.catalog.SourceCatalog.table_components``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. start-sphx-glr-thumbnails
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbnails">
+
+.. thumbnail-parent-div-open
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Access and explore thew most common gamma-ray source catalogs.">
+
+.. only:: html
+
+  .. image:: /tutorials/api/images/thumb/sphx_glr_catalog_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_api_catalog.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Source catalogs</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_api_catalog.py`
+
+.. thumbnail-parent-div-close
+
+.. raw:: html
+
+    </div>
+

@@ -1,0 +1,42 @@
+
+
+Examples using ``gammapy.irf.EffectiveAreaTable2D.data``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. start-sphx-glr-thumbnails
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbnails">
+
+.. thumbnail-parent-div-open
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="gammapy.irf contains classes for handling Instrument Response Functions typically stored as multi-dimensional tables. For a list of IRF classes internally supported, see https://gamma-astro-data-formats.readthedocs.io/en/v0.3/irfs/full_enclosure/index.html">
+
+.. only:: html
+
+  .. image:: /tutorials/api/images/thumb/sphx_glr_irfs_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_api_irfs.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Using Gammapy IRFs</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_api_irfs.py`
+
+.. thumbnail-parent-div-close
+
+.. raw:: html
+
+    </div>
+

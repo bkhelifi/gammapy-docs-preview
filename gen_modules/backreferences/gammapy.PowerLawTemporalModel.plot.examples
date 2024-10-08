@@ -1,0 +1,42 @@
+
+
+Examples using ``gammapy.PowerLawTemporalModel.plot``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. start-sphx-glr-thumbnails
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbnails">
+
+.. thumbnail-parent-div-open
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="This model parametrises a power-law time model.">
+
+.. only:: html
+
+  .. image:: /user-guide/model-gallery/temporal/images/thumb/sphx_glr_plot_powerlaw_temporal_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_user-guide_model-gallery_temporal_plot_powerlaw_temporal.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">PowerLaw temporal model</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_user-guide_model-gallery_temporal_plot_powerlaw_temporal.py`
+
+.. thumbnail-parent-div-close
+
+.. raw:: html
+
+    </div>
+

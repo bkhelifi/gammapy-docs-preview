@@ -1,0 +1,1224 @@
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="../../" data-theme="light">
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Fitting &#8212; gammapy vX.Y.Z</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "light";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../../_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="../../_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="../../_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="../../_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../../_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../../_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../../_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=a746c00c" />
+    <link rel="stylesheet" type="text/css" href="../../_static/graphviz.css?v=fd3f3429" />
+    <link rel="stylesheet" type="text/css" href="../../_static/plot_directive.css?v=7f9a90b1" />
+    <link rel="stylesheet" type="text/css" href="../../_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="../../_static/sg_gallery.css?v=d2d258e8" />
+    <link rel="stylesheet" type="text/css" href="../../_static/sg_gallery-binder.css?v=f4aeca0c" />
+    <link rel="stylesheet" type="text/css" href="../../_static/sg_gallery-dataframe.css?v=2082cf3c" />
+    <link rel="stylesheet" type="text/css" href="../../_static/sg_gallery-rendered-html.css?v=1277b6f3" />
+    <link rel="stylesheet" type="text/css" href="../../_static/sphinx-design.min.css?v=95c83b7e" />
+    <link rel="stylesheet" type="text/css" href="../../_static/custom.css?v=3252ec55" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="../../_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+    <script src="../../_static/jquery.js?v=5d32c60e"></script>
+    <script src="../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+    <script src="../../_static/documentation_options.js?v=1f75dfce"></script>
+    <script src="../../_static/doctools.js?v=9a2dae69"></script>
+    <script src="../../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="../../_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="../../_static/copybutton.js?v=30646c52"></script>
+    <script src="../../_static/design-tabs.js?v=f930bc37"></script>
+    <script async="async" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'tutorials/api/fitting';</script>
+    <script>
+        DOCUMENTATION_OPTIONS.theme_version = '0.15.4';
+        DOCUMENTATION_OPTIONS.theme_switcher_json_url = 'https://docs.gammapy.org/stable/switcher.json';
+        DOCUMENTATION_OPTIONS.theme_switcher_version_match = 'dev';
+        DOCUMENTATION_OPTIONS.show_version_warning_banner = false;
+        </script>
+    <link rel="icon" href="../../_static/gammapy_logo.ico"/>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="next" title="Modelling" href="model_management.html" />
+    <link rel="prev" title="Datasets - Reduced data, IRFs, models" href="datasets.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+    <meta name="docbuild:last-update" content="08 Oct 2024"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="light">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="../../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search the docs ..."
+         aria-label="Search the docs ..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class="col-lg-3 navbar-header-items__start">
+    
+      <div class="navbar-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="../../index.html">
+  
+  
+  
+  
+  
+    
+    
+    
+    <img src="../../_static/gammapy_logo_nav.png" class="logo__image only-light" alt="gammapy vX.Y.Z - Home"/>
+    <script>document.write(`<img src="../../_static/gammapy_logo_nav.png" class="logo__image only-dark" alt="gammapy vX.Y.Z - Home"/>`);</script>
+  
+  
+</a></div>
+    
+  </div>
+  
+  <div class="col-lg-9 navbar-header-items">
+    
+    <div class="me-auto navbar-header-items__center">
+      
+        <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../getting-started/index.html">
+    Getting started
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../user-guide/index.html">
+    User guide
+  </a>
+</li>
+
+
+<li class="nav-item current active">
+  <a class="nav-link nav-internal" href="../index.html">
+    Tutorials
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../api-reference/index.html">
+    API reference
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../development/index.html">
+    Developer guide
+  </a>
+</li>
+
+            <li class="nav-item dropdown">
+                <button class="btn dropdown-toggle nav-item" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-controls="pst-nav-more-links">
+                    More
+                </button>
+                <ul id="pst-nav-more-links" class="dropdown-menu">
+                    
+<li class=" ">
+  <a class="nav-link dropdown-item nav-internal" href="../../release-notes/index.html">
+    Release notes
+  </a>
+</li>
+
+                </ul>
+            </li>
+            
+  </ul>
+</nav></div>
+      
+    </div>
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script>
+        </div>
+      
+      
+        <div class="navbar-item">
+<script>
+document.write(`
+  <div class="version-switcher__container dropdown">
+    <button id="pst-version-switcher-button-2"
+      type="button"
+      class="version-switcher__button btn btn-sm dropdown-toggle"
+      data-bs-toggle="dropdown"
+      aria-haspopup="listbox"
+      aria-controls="pst-version-switcher-list-2"
+      aria-label="Version switcher list"
+    >
+      Choose version  <!-- this text may get changed later by javascript -->
+      <span class="caret"></span>
+    </button>
+    <div id="pst-version-switcher-list-2"
+      class="version-switcher__menu dropdown-menu list-group-flush py-0"
+      role="listbox" aria-labelledby="pst-version-switcher-button-2">
+      <!-- dropdown will be populated by javascript on page load -->
+    </div>
+  </div>
+`);
+</script></div>
+      
+        <div class="navbar-item">
+
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script></div>
+      
+        <div class="navbar-item"><ul class="navbar-icon-links"
+    aria-label="Icon Links">
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://github.com/gammapy/gammapy" title="Github" class="nav-link pst-navbar-icon" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><i class="fab fa-github-square fa-lg" aria-hidden="true"></i>
+            <span class="sr-only">Github</span></a>
+        </li>
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://twitter.com/gammapyST" title="Twitter" class="nav-link pst-navbar-icon" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><i class="fab fa-twitter-square fa-lg" aria-hidden="true"></i>
+            <span class="sr-only">Twitter</span></a>
+        </li>
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://gammapy.slack.com/" title="Slack" class="nav-link pst-navbar-icon" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><i class="fab fa-slack fa-lg" aria-hidden="true"></i>
+            <span class="sr-only">Slack</span></a>
+        </li>
+</ul></div>
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script>
+    </div>
+  
+
+  
+    <button class="pst-navbar-icon sidebar-toggle secondary-toggle" aria-label="On this page">
+      <span class="fa-solid fa-outdent"></span>
+    </button>
+  
+</div>
+
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+      <div class="sidebar-header-items__center">
+        
+          
+          
+            <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../getting-started/index.html">
+    Getting started
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../user-guide/index.html">
+    User guide
+  </a>
+</li>
+
+
+<li class="nav-item current active">
+  <a class="nav-link nav-internal" href="../index.html">
+    Tutorials
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../api-reference/index.html">
+    API reference
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../development/index.html">
+    Developer guide
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../release-notes/index.html">
+    Release notes
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+          
+        
+      </div>
+    
+    
+    
+      <div class="sidebar-header-items__end">
+        
+          <div class="navbar-item">
+<script>
+document.write(`
+  <div class="version-switcher__container dropdown">
+    <button id="pst-version-switcher-button-3"
+      type="button"
+      class="version-switcher__button btn btn-sm dropdown-toggle"
+      data-bs-toggle="dropdown"
+      aria-haspopup="listbox"
+      aria-controls="pst-version-switcher-list-3"
+      aria-label="Version switcher list"
+    >
+      Choose version  <!-- this text may get changed later by javascript -->
+      <span class="caret"></span>
+    </button>
+    <div id="pst-version-switcher-list-3"
+      class="version-switcher__menu dropdown-menu list-group-flush py-0"
+      role="listbox" aria-labelledby="pst-version-switcher-button-3">
+      <!-- dropdown will be populated by javascript on page load -->
+    </div>
+  </div>
+`);
+</script></div>
+        
+          <div class="navbar-item">
+
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script></div>
+        
+          <div class="navbar-item"><ul class="navbar-icon-links"
+    aria-label="Icon Links">
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://github.com/gammapy/gammapy" title="Github" class="nav-link pst-navbar-icon" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><i class="fab fa-github-square fa-lg" aria-hidden="true"></i>
+            <span class="sr-only">Github</span></a>
+        </li>
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://twitter.com/gammapyST" title="Twitter" class="nav-link pst-navbar-icon" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><i class="fab fa-twitter-square fa-lg" aria-hidden="true"></i>
+            <span class="sr-only">Twitter</span></a>
+        </li>
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://gammapy.slack.com/" title="Slack" class="nav-link pst-navbar-icon" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><i class="fab fa-slack fa-lg" aria-hidden="true"></i>
+            <span class="sr-only">Slack</span></a>
+        </li>
+</ul></div>
+        
+      </div>
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+<nav class="bd-docs-nav bd-links"
+     aria-label="Section Navigation">
+  <p class="bd-links__title" role="heading" aria-level="1">Section Navigation</p>
+  <div class="bd-toc-item navbar-nav"><ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../starting/overview.html">Data structures</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../starting/analysis_1.html">High level interface</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../starting/analysis_2.html">Low level API</a></li>
+</ul>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../data/hess.html">H.E.S.S. with Gammapy</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../data/cta.html">CTA with Gammapy</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../data/hawc.html">HAWC with Gammapy</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../data/fermi_lat.html">Fermi-LAT with Gammapy</a></li>
+</ul>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../analysis-1d/sed_fitting.html">Flux point fitting</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../analysis-1d/extended_source_spectral_analysis.html">Spectral analysis of extended sources</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../analysis-1d/spectral_analysis_hli.html">Spectral analysis with the HLI</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../analysis-1d/ebl.html">Account for spectral absorption due to the EBL</a></li>
+
+<li class="toctree-l1"><a class="reference internal" href="../analysis-1d/spectrum_simulation.html">1D spectrum simulation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../analysis-1d/cta_sensitivity.html">Point source sensitivity</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../analysis-1d/spectral_analysis_rad_max.html">Spectral analysis with energy-dependent directional cuts</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../analysis-1d/spectral_analysis.html">Spectral analysis</a></li>
+</ul>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../analysis-2d/modeling_2D.html">2D map fitting</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../analysis-2d/detect.html">Source detection and significance maps</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../analysis-2d/ring_background.html">Ring background map</a></li>
+</ul>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../analysis-3d/analysis_mwl.html">Multi instrument joint 3D and 1D analysis</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../analysis-3d/flux_profiles.html">Flux Profile Estimation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../analysis-3d/simulate_3d.html">3D map simulation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../analysis-3d/energy_dependent_estimation.html">Morphological energy dependence estimation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../analysis-3d/event_sampling_nrg_depend_models.html">Sample a source with energy-dependent temporal evolution</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../analysis-3d/analysis_3d.html">3D detailed analysis</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../analysis-3d/event_sampling.html">Event sampling</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../analysis-3d/cta_data_analysis.html">Basic image exploration and fitting</a></li>
+</ul>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../analysis-time/Variability_estimation.html">Estimation of time variability in a lightcurve</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../analysis-time/light_curve_flare.html">Light curves for flares</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../analysis-time/light_curve_simulation.html">Simulating and fitting a time varying source</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../analysis-time/light_curve.html">Light curves</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../analysis-time/Time_resolved_spectroscopy.html">A time resolved spectroscopy estimator</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../analysis-time/pulsar_analysis.html">Pulsar analysis</a></li>
+</ul>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="estimators.html">Estimators</a></li>
+<li class="toctree-l1"><a class="reference internal" href="observation_clustering.html">Observational clustering</a></li>
+<li class="toctree-l1"><a class="reference internal" href="mask_maps.html">Mask maps</a></li>
+<li class="toctree-l1"><a class="reference internal" href="catalog.html">Source catalogs</a></li>
+<li class="toctree-l1"><a class="reference internal" href="astro_dark_matter.html">Dark matter spatial and spectral models</a></li>
+<li class="toctree-l1"><a class="reference internal" href="datasets.html">Datasets - Reduced data, IRFs, models</a></li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Fitting</a></li>
+<li class="toctree-l1"><a class="reference internal" href="model_management.html">Modelling</a></li>
+<li class="toctree-l1"><a class="reference internal" href="makers.html">Makers - Data reduction</a></li>
+<li class="toctree-l1"><a class="reference internal" href="priors.html">Priors</a></li>
+<li class="toctree-l1"><a class="reference internal" href="maps.html">Maps</a></li>
+<li class="toctree-l1"><a class="reference internal" href="irfs.html">Using Gammapy IRFs</a></li>
+<li class="toctree-l1"><a class="reference internal" href="models.html">Models</a></li>
+</ul>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../scripts/survey_map.html">Survey Map Script</a></li>
+</ul>
+</div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item">
+
+
+
+<nav aria-label="Breadcrumb" class="d-print-none">
+  <ul class="bd-breadcrumbs">
+    
+    <li class="breadcrumb-item breadcrumb-home">
+      <a href="../../index.html" class="nav-link" aria-label="Home">
+        <i class="fa-solid fa-home"></i>
+      </a>
+    </li>
+    
+    <li class="breadcrumb-item"><a href="../index.html" class="nav-link">Tutorials</a></li>
+    
+    <li class="breadcrumb-item active" aria-current="page">Fitting</li>
+  </ul>
+</nav>
+</div>
+      
+    </div>
+  
+  
+</div>
+</div>
+              
+              
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <div class="sphx-glr-download-link-note admonition note">
+<p class="admonition-title">Note</p>
+<p><a class="reference internal" href="#sphx-glr-download-tutorials-api-fitting-py"><span class="std std-ref">Go to the end</span></a>
+to download the full example code. or to run this example in your browser via Binder</p>
+</div>
+<section class="sphx-glr-example-title" id="fitting">
+<span id="sphx-glr-tutorials-api-fitting-py"></span><h1>Fitting<a class="headerlink" href="#fitting" title="Link to this heading">#</a></h1>
+<p>Learn how the model, dataset and fit Gammapy classes work together in a detailed modeling and fitting use-case.</p>
+<section id="prerequisites">
+<h2>Prerequisites<a class="headerlink" href="#prerequisites" title="Link to this heading">#</a></h2>
+<ul class="simple">
+<li><p>Knowledge of spectral analysis to produce 1D On-Off datasets, see
+the <a class="reference internal" href="../analysis-1d/spectral_analysis.html"><span class="doc">Spectral analysis</span></a> tutorial.</p></li>
+<li><p>Reading of pre-computed datasets see e.g.
+<a class="reference internal" href="../analysis-3d/analysis_mwl.html"><span class="doc">Multi instrument joint 3D and 1D analysis</span></a> tutorial.</p></li>
+<li><p>General knowledge on statistics and optimization methods</p></li>
+</ul>
+</section>
+<section id="proposed-approach">
+<h2>Proposed approach<a class="headerlink" href="#proposed-approach" title="Link to this heading">#</a></h2>
+<p>This is a hands-on tutorial to <a class="reference internal" href="../../api-reference/modeling.html#module-gammapy.modeling" title="gammapy.modeling"><code class="xref py py-obj docutils literal notranslate"><span class="pre">modeling</span></code></a>, showing how to do
+perform a Fit in gammapy. The emphasis here is on interfacing the
+<code class="xref py py-obj docutils literal notranslate"><span class="pre">Fit</span></code> class and inspecting the errors. To see an analysis example of
+how datasets and models interact, see the <a class="reference internal" href="model_management.html"><span class="doc">Modelling</span></a> tutorial.
+As an example, in this notebook, we are going to work with HESS data of the Crab Nebula and show in
+particular how to :</p>
+<ul class="simple">
+<li><p>perform a spectral analysis</p></li>
+<li><p>use different fitting backends</p></li>
+<li><p>access covariance matrix information and parameter errors</p></li>
+<li><p>compute likelihood profile - compute confidence contours</p></li>
+</ul>
+<p>See also: <a class="reference internal" href="models.html"><span class="doc">Models</span></a> and <a class="reference internal" href="../../user-guide/modeling.html#modeling"><span class="std std-ref">Modeling and Fitting (DL4 to DL5)</span></a>.</p>
+</section>
+<section id="the-setup">
+<h2>The setup<a class="headerlink" href="#the-setup" title="Link to this heading">#</a></h2>
+<div class="highlight-Python notranslate"><div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">itertools</span> <span class="kn">import</span> <span class="n">combinations</span>
+<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
+<span class="kn">from</span> <span class="nn">astropy</span> <span class="kn">import</span> <span class="n">units</span> <span class="k">as</span> <span class="n">u</span>
+<span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
+<span class="kn">from</span> <span class="nn">IPython.display</span> <span class="kn">import</span> <span class="n">display</span>
+<span class="kn">from</span> <span class="nn">gammapy.datasets</span> <span class="kn">import</span> <span class="n">Datasets</span><span class="p">,</span> <span class="n">SpectrumDatasetOnOff</span>
+<span class="kn">from</span> <span class="nn">gammapy.modeling</span> <span class="kn">import</span> <span class="n">Fit</span>
+<span class="kn">from</span> <span class="nn">gammapy.modeling.models</span> <span class="kn">import</span> <span class="n">LogParabolaSpectralModel</span><span class="p">,</span> <span class="n">SkyModel</span>
+</pre></div>
+</div>
+</section>
+<section id="check-setup">
+<h2>Check setup<a class="headerlink" href="#check-setup" title="Link to this heading">#</a></h2>
+<div class="highlight-Python notranslate"><div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">gammapy.utils.check</span> <span class="kn">import</span> <span class="n">check_tutorials_setup</span>
+<span class="kn">from</span> <span class="nn">gammapy.visualization.utils</span> <span class="kn">import</span> <span class="n">plot_contour_line</span>
+
+<span class="n">check_tutorials_setup</span><span class="p">()</span>
+</pre></div>
+</div>
+<div class="sphx-glr-script-out highlight-none notranslate"><div class="highlight"><pre><span></span>System:
+
+        python_executable      : /home/khelifi/MesProgrammes/gammapy/.tox/build_docs/bin/python
+        python_version         : 3.11.10
+        machine                : x86_64
+        system                 : Linux
+
+
+Gammapy package:
+
+        version                : 1.3.dev1110+ga6ff45c25.d20241008
+        path                   : /home/khelifi/MesProgrammes/gammapy/.tox/build_docs/lib/python3.11/site-packages/gammapy
+
+
+Other packages:
+
+        numpy                  : 1.26.4
+        scipy                  : 1.14.1
+        astropy                : 5.2.2
+        regions                : 0.10
+        click                  : 8.1.7
+        yaml                   : 6.0.2
+        IPython                : 8.28.0
+        jupyterlab             : not installed
+        matplotlib             : 3.9.2
+        pandas                 : not installed
+        healpy                 : 1.17.3
+        iminuit                : 2.30.0
+        sherpa                 : not installed
+        naima                  : 0.10.0
+        emcee                  : 3.1.6
+        corner                 : 2.2.2
+        ray                    : 2.37.0
+
+
+Gammapy environment variables:
+
+        GAMMAPY_DATA           : /home/khelifi/MesProgrammes/gammapy-data
+</pre></div>
+</div>
+</section>
+<section id="model-and-dataset">
+<h2>Model and dataset<a class="headerlink" href="#model-and-dataset" title="Link to this heading">#</a></h2>
+<p>First we define the source model, here we need only a spectral model for
+which we choose a log-parabola</p>
+<div class="highlight-Python notranslate"><div class="highlight"><pre><span></span><span class="n">crab_spectrum</span> <span class="o">=</span> <span class="n">LogParabolaSpectralModel</span><span class="p">(</span>
+    <span class="n">amplitude</span><span class="o">=</span><span class="mf">1e-11</span> <span class="o">/</span> <span class="n">u</span><span class="o">.</span><span class="n">cm</span><span class="o">**</span><span class="mi">2</span> <span class="o">/</span> <span class="n">u</span><span class="o">.</span><span class="n">s</span> <span class="o">/</span> <span class="n">u</span><span class="o">.</span><span class="n">TeV</span><span class="p">,</span>
+    <span class="n">reference</span><span class="o">=</span><span class="mi">1</span> <span class="o">*</span> <span class="n">u</span><span class="o">.</span><span class="n">TeV</span><span class="p">,</span>
+    <span class="n">alpha</span><span class="o">=</span><span class="mf">2.3</span><span class="p">,</span>
+    <span class="n">beta</span><span class="o">=</span><span class="mf">0.2</span><span class="p">,</span>
+<span class="p">)</span>
+
+<span class="n">crab_spectrum</span><span class="o">.</span><span class="n">alpha</span><span class="o">.</span><span class="n">max</span> <span class="o">=</span> <span class="mi">3</span>
+<span class="n">crab_spectrum</span><span class="o">.</span><span class="n">alpha</span><span class="o">.</span><span class="n">min</span> <span class="o">=</span> <span class="mi">1</span>
+<span class="n">crab_model</span> <span class="o">=</span> <span class="n">SkyModel</span><span class="p">(</span><span class="n">spectral_model</span><span class="o">=</span><span class="n">crab_spectrum</span><span class="p">,</span> <span class="n">name</span><span class="o">=</span><span class="s2">&quot;crab&quot;</span><span class="p">)</span>
+</pre></div>
+</div>
+<p>The data and background are read from pre-computed ON/OFF datasets of
+HESS observations, for simplicity we stack them together. Then we set
+the model and fit range to the resulting dataset.</p>
+<div class="highlight-Python notranslate"><div class="highlight"><pre><span></span><span class="n">datasets</span> <span class="o">=</span> <span class="p">[]</span>
+<span class="k">for</span> <span class="n">obs_id</span> <span class="ow">in</span> <span class="p">[</span><span class="mi">23523</span><span class="p">,</span> <span class="mi">23526</span><span class="p">]:</span>
+    <span class="n">dataset</span> <span class="o">=</span> <span class="n">SpectrumDatasetOnOff</span><span class="o">.</span><span class="n">read</span><span class="p">(</span>
+        <span class="sa">f</span><span class="s2">&quot;$GAMMAPY_DATA/joint-crab/spectra/hess/pha_obs</span><span class="si">{</span><span class="n">obs_id</span><span class="si">}</span><span class="s2">.fits&quot;</span>
+    <span class="p">)</span>
+    <span class="n">datasets</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">dataset</span><span class="p">)</span>
+
+<span class="n">dataset_hess</span> <span class="o">=</span> <span class="n">Datasets</span><span class="p">(</span><span class="n">datasets</span><span class="p">)</span><span class="o">.</span><span class="n">stack_reduce</span><span class="p">(</span><span class="n">name</span><span class="o">=</span><span class="s2">&quot;HESS&quot;</span><span class="p">)</span>
+<span class="n">datasets</span> <span class="o">=</span> <span class="n">Datasets</span><span class="p">(</span><span class="n">datasets</span><span class="o">=</span><span class="p">[</span><span class="n">dataset_hess</span><span class="p">])</span>
+
+<span class="c1"># Set model and fit range</span>
+<span class="n">dataset_hess</span><span class="o">.</span><span class="n">models</span> <span class="o">=</span> <span class="n">crab_model</span>
+<span class="n">e_min</span> <span class="o">=</span> <span class="mf">0.66</span> <span class="o">*</span> <span class="n">u</span><span class="o">.</span><span class="n">TeV</span>
+<span class="n">e_max</span> <span class="o">=</span> <span class="mi">30</span> <span class="o">*</span> <span class="n">u</span><span class="o">.</span><span class="n">TeV</span>
+<span class="n">dataset_hess</span><span class="o">.</span><span class="n">mask_fit</span> <span class="o">=</span> <span class="n">dataset_hess</span><span class="o">.</span><span class="n">counts</span><span class="o">.</span><span class="n">geom</span><span class="o">.</span><span class="n">energy_mask</span><span class="p">(</span><span class="n">e_min</span><span class="p">,</span> <span class="n">e_max</span><span class="p">)</span>
+</pre></div>
+</div>
+</section>
+<section id="fitting-options">
+<h2>Fitting options<a class="headerlink" href="#fitting-options" title="Link to this heading">#</a></h2>
+<p>First let’s create a <code class="xref py py-obj docutils literal notranslate"><span class="pre">Fit</span></code> instance:</p>
+<div class="highlight-Python notranslate"><div class="highlight"><pre><span></span><span class="n">scipy_opts</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="s2">&quot;method&quot;</span><span class="p">:</span> <span class="s2">&quot;L-BFGS-B&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;options&quot;</span><span class="p">:</span> <span class="p">{</span><span class="s2">&quot;ftol&quot;</span><span class="p">:</span> <span class="mf">1e-4</span><span class="p">,</span> <span class="s2">&quot;gtol&quot;</span><span class="p">:</span> <span class="mf">1e-05</span><span class="p">},</span>
+    <span class="s2">&quot;backend&quot;</span><span class="p">:</span> <span class="s2">&quot;scipy&quot;</span><span class="p">,</span>
+<span class="p">}</span>
+<span class="n">fit_scipy</span> <span class="o">=</span> <span class="n">Fit</span><span class="p">(</span><span class="n">store_trace</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">optimize_opts</span><span class="o">=</span><span class="n">scipy_opts</span><span class="p">)</span>
+</pre></div>
+</div>
+<p>By default the fit is performed using MINUIT, you can select alternative
+optimizers and set their option using the <code class="xref py py-obj docutils literal notranslate"><span class="pre">optimize_opts</span></code> argument of
+the <code class="xref py py-obj docutils literal notranslate"><span class="pre">Fit.run()</span></code> method. In addition we have specified to store the
+trace of parameter values of the fit.</p>
+<p>Note that, for now, covariance matrix and errors are computed only for
+the fitting with MINUIT. However, depending on the problem other
+optimizers can better perform, so sometimes it can be useful to run a
+pre-fit with alternative optimization methods.</p>
+<div class="line-block">
+<div class="line">For the “scipy” backend the available options are described in detail
+here:</div>
+<div class="line"><a class="reference external" href="https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.minimize.html">https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.minimize.html</a></div>
+</div>
+<div class="highlight-Python notranslate"><div class="highlight"><pre><span></span><span class="n">result_scipy</span> <span class="o">=</span> <span class="n">fit_scipy</span><span class="o">.</span><span class="n">run</span><span class="p">(</span><span class="n">datasets</span><span class="p">)</span>
+</pre></div>
+</div>
+<div class="line-block">
+<div class="line">For the “sherpa” backend you can choose the optimization algorithm
+between method = {“simplex”, “levmar”, “moncar”, “gridsearch”}.</div>
+<div class="line">Those methods are described and compared in detail on
+<a class="reference external" href="http://cxc.cfa.harvard.edu/sherpa/methods/index.html">http://cxc.cfa.harvard.edu/sherpa/methods/index.html</a> The available
+options of the optimization methods are described on the following
+page <a class="reference external" href="https://cxc.cfa.harvard.edu/sherpa/methods/opt_methods.html">https://cxc.cfa.harvard.edu/sherpa/methods/opt_methods.html</a></div>
+</div>
+<div class="highlight-Python notranslate"><div class="highlight"><pre><span></span><span class="n">sherpa_opts</span> <span class="o">=</span> <span class="p">{</span><span class="s2">&quot;method&quot;</span><span class="p">:</span> <span class="s2">&quot;simplex&quot;</span><span class="p">,</span> <span class="s2">&quot;ftol&quot;</span><span class="p">:</span> <span class="mf">1e-3</span><span class="p">,</span> <span class="s2">&quot;maxfev&quot;</span><span class="p">:</span> <span class="nb">int</span><span class="p">(</span><span class="mf">1e4</span><span class="p">)}</span>
+<span class="n">fit_sherpa</span> <span class="o">=</span> <span class="n">Fit</span><span class="p">(</span><span class="n">store_trace</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">backend</span><span class="o">=</span><span class="s2">&quot;sherpa&quot;</span><span class="p">,</span> <span class="n">optimize_opts</span><span class="o">=</span><span class="n">sherpa_opts</span><span class="p">)</span>
+<span class="n">results_simplex</span> <span class="o">=</span> <span class="n">fit_sherpa</span><span class="o">.</span><span class="n">run</span><span class="p">(</span><span class="n">datasets</span><span class="p">)</span>
+</pre></div>
+</div>
+<div class="sphx-glr-script-out highlight-pytb notranslate"><div class="highlight"><pre><span></span><span class="gt">Traceback (most recent call last):</span>
+  File <span class="nb">&quot;/home/khelifi/MesProgrammes/gammapy/examples/tutorials/api/fitting.py&quot;</span>, line <span class="m">146</span>, in <span class="n">&lt;module&gt;</span>
+<span class="w">    </span><span class="n">results_simplex</span> <span class="o">=</span> <span class="n">fit_sherpa</span><span class="o">.</span><span class="n">run</span><span class="p">(</span><span class="n">datasets</span><span class="p">)</span>
+<span class="w">                      </span><span class="pm">^^^^^^^^^^^^^^^^^^^^^^^^</span>
+  File <span class="nb">&quot;/home/khelifi/MesProgrammes/gammapy/.tox/build_docs/lib/python3.11/site-packages/gammapy/modeling/fit.py&quot;</span>, line <span class="m">170</span>, in <span class="n">run</span>
+<span class="w">    </span><span class="n">optimize_result</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">optimize</span><span class="p">(</span><span class="n">datasets</span><span class="o">=</span><span class="n">datasets</span><span class="p">)</span>
+<span class="w">                      </span><span class="pm">^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^</span>
+  File <span class="nb">&quot;/home/khelifi/MesProgrammes/gammapy/.tox/build_docs/lib/python3.11/site-packages/gammapy/modeling/fit.py&quot;</span>, line <span class="m">219</span>, in <span class="n">optimize</span>
+<span class="w">    </span><span class="n">factors</span><span class="p">,</span> <span class="n">info</span><span class="p">,</span> <span class="n">optimizer</span> <span class="o">=</span> <span class="n">compute</span><span class="p">(</span>
+<span class="w">                               </span><span class="pm">^^^^^^^^</span>
+  File <span class="nb">&quot;/home/khelifi/MesProgrammes/gammapy/.tox/build_docs/lib/python3.11/site-packages/gammapy/modeling/sherpa.py&quot;</span>, line <span class="m">50</span>, in <span class="n">optimize_sherpa</span>
+<span class="w">    </span><span class="n">optimizer</span> <span class="o">=</span> <span class="n">get_sherpa_optimizer</span><span class="p">(</span><span class="n">method</span><span class="p">)</span>
+<span class="w">                </span><span class="pm">^^^^^^^^^^^^^^^^^^^^^^^^^^^^</span>
+  File <span class="nb">&quot;/home/khelifi/MesProgrammes/gammapy/.tox/build_docs/lib/python3.11/site-packages/gammapy/modeling/sherpa.py&quot;</span>, line <span class="m">9</span>, in <span class="n">get_sherpa_optimizer</span>
+<span class="w">    </span><span class="kn">from</span> <span class="nn">sherpa.optmethods</span> <span class="kn">import</span> <span class="n">GridSearch</span><span class="p">,</span> <span class="n">LevMar</span><span class="p">,</span> <span class="n">MonCar</span><span class="p">,</span> <span class="n">NelderMead</span>
+<span class="gr">ModuleNotFoundError</span>: <span class="n">No module named &#39;sherpa&#39;</span>
+</pre></div>
+</div>
+<p>For the “minuit” backend see
+<a class="reference external" href="https://iminuit.readthedocs.io/en/latest/reference.html">https://iminuit.readthedocs.io/en/latest/reference.html</a> for a detailed
+description of the available options. If there is an entry
+‘migrad_opts’, those options will be passed to
+<a class="reference external" href="https://iminuit.readthedocs.io/en/latest/reference.html#iminuit.Minuit.migrad">iminuit.Minuit.migrad</a>.
+Additionally you can set the fit tolerance using the
+<a class="reference external" href="https://iminuit.readthedocs.io/en/latest/reference.html#iminuit.Minuit.tol">tol</a>
+option. The minimization will stop when the estimated distance to the
+minimum is less than 0.001*tol (by default tol=0.1). The
+<a class="reference external" href="https://iminuit.readthedocs.io/en/latest/reference.html#iminuit.Minuit.strategy">strategy</a>
+option change the speed and accuracy of the optimizer: 0 fast, 1
+default, 2 slow but accurate. If you want more reliable error estimates,
+you should run the final fit with strategy 2.</p>
+<div class="highlight-Python notranslate"><div class="highlight"><pre><span></span><span class="n">fit</span> <span class="o">=</span> <span class="n">Fit</span><span class="p">(</span><span class="n">store_trace</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+<span class="n">minuit_opts</span> <span class="o">=</span> <span class="p">{</span><span class="s2">&quot;tol&quot;</span><span class="p">:</span> <span class="mf">0.001</span><span class="p">,</span> <span class="s2">&quot;strategy&quot;</span><span class="p">:</span> <span class="mi">1</span><span class="p">}</span>
+<span class="n">fit</span><span class="o">.</span><span class="n">backend</span> <span class="o">=</span> <span class="s2">&quot;minuit&quot;</span>
+<span class="n">fit</span><span class="o">.</span><span class="n">optimize_opts</span> <span class="o">=</span> <span class="n">minuit_opts</span>
+<span class="n">result_minuit</span> <span class="o">=</span> <span class="n">fit</span><span class="o">.</span><span class="n">run</span><span class="p">(</span><span class="n">datasets</span><span class="p">)</span>
+</pre></div>
+</div>
+</section>
+<section id="fit-quality-assessment">
+<h2>Fit quality assessment<a class="headerlink" href="#fit-quality-assessment" title="Link to this heading">#</a></h2>
+<p>There are various ways to check the convergence and quality of a fit.
+Among them:</p>
+<p>Refer to the automatically-generated results dictionary:</p>
+<div class="highlight-Python notranslate"><div class="highlight"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="n">result_scipy</span><span class="p">)</span>
+</pre></div>
+</div>
+<div class="highlight-Python notranslate"><div class="highlight"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="n">results_simplex</span><span class="p">)</span>
+</pre></div>
+</div>
+<div class="highlight-Python notranslate"><div class="highlight"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="n">result_minuit</span><span class="p">)</span>
+</pre></div>
+</div>
+<p>If the fit is performed with minuit you can print detailed information
+to check the convergence</p>
+<div class="highlight-Python notranslate"><div class="highlight"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="n">result_minuit</span><span class="o">.</span><span class="n">minuit</span><span class="p">)</span>
+</pre></div>
+</div>
+<p>Check the trace of the fit e.g.  in case the fit did not converge
+properly</p>
+<div class="highlight-Python notranslate"><div class="highlight"><pre><span></span><span class="n">display</span><span class="p">(</span><span class="n">result_minuit</span><span class="o">.</span><span class="n">trace</span><span class="p">)</span>
+</pre></div>
+</div>
+<p>The fitted models are copied on the <a class="reference internal" href="../../api/gammapy.modeling.FitResult.html#gammapy.modeling.FitResult" title="gammapy.modeling.FitResult"><code class="xref py py-obj docutils literal notranslate"><span class="pre">FitResult</span></code></a> object.
+They can be inspected to check that the fitted values and errors
+for all parameters are reasonable, and no fitted parameter value is “too close”
+- or even outside - its allowed min-max range</p>
+<div class="highlight-Python notranslate"><div class="highlight"><pre><span></span><span class="n">display</span><span class="p">(</span><span class="n">result_minuit</span><span class="o">.</span><span class="n">models</span><span class="o">.</span><span class="n">to_parameters_table</span><span class="p">())</span>
+</pre></div>
+</div>
+<p>Plot fit statistic profiles for all fitted parameters, using
+<a class="reference internal" href="../../api/gammapy.modeling.Fit.html#gammapy.modeling.Fit.stat_profile" title="gammapy.modeling.Fit.stat_profile"><code class="xref py py-obj docutils literal notranslate"><span class="pre">stat_profile</span></code></a>. For a good fit and error
+estimate each profile should be parabolic. The specification for each
+fit statistic profile can be changed on the
+<a class="reference internal" href="../../api/gammapy.modeling.Parameter.html#gammapy.modeling.Parameter" title="gammapy.modeling.Parameter"><code class="xref py py-obj docutils literal notranslate"><span class="pre">Parameter</span></code></a> object, which has <a class="reference internal" href="../../api/gammapy.modeling.Parameter.html#gammapy.modeling.Parameter.scan_min" title="gammapy.modeling.Parameter.scan_min"><code class="xref py py-obj docutils literal notranslate"><span class="pre">scan_min</span></code></a>,
+<a class="reference internal" href="../../api/gammapy.modeling.Parameter.html#gammapy.modeling.Parameter.scan_max" title="gammapy.modeling.Parameter.scan_max"><code class="xref py py-obj docutils literal notranslate"><span class="pre">scan_max</span></code></a>, <code class="xref py py-obj docutils literal notranslate"><span class="pre">scan_n_values</span></code> and <a class="reference internal" href="../../api/gammapy.modeling.Parameter.html#gammapy.modeling.Parameter.scan_n_sigma" title="gammapy.modeling.Parameter.scan_n_sigma"><code class="xref py py-obj docutils literal notranslate"><span class="pre">scan_n_sigma</span></code></a> attributes.</p>
+<div class="highlight-Python notranslate"><div class="highlight"><pre><span></span><span class="n">total_stat</span> <span class="o">=</span> <span class="n">result_minuit</span><span class="o">.</span><span class="n">total_stat</span>
+
+<span class="n">fig</span><span class="p">,</span> <span class="n">axes</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">subplots</span><span class="p">(</span><span class="n">nrows</span><span class="o">=</span><span class="mi">1</span><span class="p">,</span> <span class="n">ncols</span><span class="o">=</span><span class="mi">3</span><span class="p">,</span> <span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">14</span><span class="p">,</span> <span class="mi">4</span><span class="p">))</span>
+
+<span class="k">for</span> <span class="n">ax</span><span class="p">,</span> <span class="n">par</span> <span class="ow">in</span> <span class="nb">zip</span><span class="p">(</span><span class="n">axes</span><span class="p">,</span> <span class="n">crab_model</span><span class="o">.</span><span class="n">parameters</span><span class="o">.</span><span class="n">free_parameters</span><span class="p">):</span>
+    <span class="n">par</span><span class="o">.</span><span class="n">scan_n_values</span> <span class="o">=</span> <span class="mi">17</span>
+    <span class="n">idx</span> <span class="o">=</span> <span class="n">crab_model</span><span class="o">.</span><span class="n">parameters</span><span class="o">.</span><span class="n">index</span><span class="p">(</span><span class="n">par</span><span class="p">)</span>
+    <span class="n">name</span> <span class="o">=</span> <span class="n">crab_model</span><span class="o">.</span><span class="n">parameters_unique_names</span><span class="p">[</span><span class="n">idx</span><span class="p">]</span>
+    <span class="n">profile</span> <span class="o">=</span> <span class="n">fit</span><span class="o">.</span><span class="n">stat_profile</span><span class="p">(</span><span class="n">datasets</span><span class="o">=</span><span class="n">datasets</span><span class="p">,</span> <span class="n">parameter</span><span class="o">=</span><span class="n">par</span><span class="p">)</span>
+    <span class="n">ax</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span>
+        <span class="n">profile</span><span class="p">[</span><span class="sa">f</span><span class="s2">&quot;</span><span class="si">{</span><span class="n">crab_model</span><span class="o">.</span><span class="n">name</span><span class="si">}</span><span class="s2">.</span><span class="si">{</span><span class="n">name</span><span class="si">}</span><span class="s2">_scan&quot;</span><span class="p">],</span> <span class="n">profile</span><span class="p">[</span><span class="s2">&quot;stat_scan&quot;</span><span class="p">]</span> <span class="o">-</span> <span class="n">total_stat</span>
+    <span class="p">)</span>
+    <span class="n">ax</span><span class="o">.</span><span class="n">set_xlabel</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;</span><span class="si">{</span><span class="n">par</span><span class="o">.</span><span class="n">name</span><span class="si">}</span><span class="s2"> [</span><span class="si">{</span><span class="n">par</span><span class="o">.</span><span class="n">unit</span><span class="si">}</span><span class="s2">]&quot;</span><span class="p">)</span>
+    <span class="n">ax</span><span class="o">.</span><span class="n">set_ylabel</span><span class="p">(</span><span class="s2">&quot;Delta TS&quot;</span><span class="p">)</span>
+    <span class="n">ax</span><span class="o">.</span><span class="n">set_title</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;</span><span class="si">{</span><span class="n">name</span><span class="si">}</span><span class="s2">:</span><span class="se">\n</span><span class="s2"> </span><span class="si">{</span><span class="n">par</span><span class="o">.</span><span class="n">value</span><span class="si">:</span><span class="s2">.1e</span><span class="si">}</span><span class="s2"> +- </span><span class="si">{</span><span class="n">par</span><span class="o">.</span><span class="n">error</span><span class="si">:</span><span class="s2">.1e</span><span class="si">}</span><span class="s2">&quot;</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+</pre></div>
+</div>
+<p>Inspect model residuals. Those can always be accessed using
+<code class="xref py py-obj docutils literal notranslate"><span class="pre">residuals()</span></code>. For more details, we refer here to the dedicated
+<a class="reference internal" href="../analysis-3d/analysis_3d.html"><span class="doc">3D detailed analysis</span></a> (for <a class="reference internal" href="../../api/gammapy.datasets.MapDataset.html#gammapy.datasets.MapDataset" title="gammapy.datasets.MapDataset"><code class="xref py py-obj docutils literal notranslate"><span class="pre">MapDataset</span></code></a> fitting) and
+<a class="reference internal" href="../analysis-1d/spectral_analysis.html"><span class="doc">Spectral analysis</span></a> (for <code class="xref py py-obj docutils literal notranslate"><span class="pre">SpectrumDataset</span></code> fitting).</p>
+</section>
+<section id="covariance-and-parameters-errors">
+<h2>Covariance and parameters errors<a class="headerlink" href="#covariance-and-parameters-errors" title="Link to this heading">#</a></h2>
+<p>After the fit the covariance matrix is attached to the models copy
+stored on the <a class="reference internal" href="../../api/gammapy.modeling.FitResult.html#gammapy.modeling.FitResult" title="gammapy.modeling.FitResult"><code class="xref py py-obj docutils literal notranslate"><span class="pre">FitResult</span></code></a> object.
+You can access it directly with:</p>
+<div class="highlight-Python notranslate"><div class="highlight"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="n">result_minuit</span><span class="o">.</span><span class="n">models</span><span class="o">.</span><span class="n">covariance</span><span class="p">)</span>
+</pre></div>
+</div>
+<p>And you can plot the total parameter correlation as well:</p>
+<div class="highlight-Python notranslate"><div class="highlight"><pre><span></span><span class="n">result_minuit</span><span class="o">.</span><span class="n">models</span><span class="o">.</span><span class="n">covariance</span><span class="o">.</span><span class="n">plot_correlation</span><span class="p">()</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+</pre></div>
+</div>
+<p>The covariance information is also propagated to the individual models
+Therefore, one can also get the error on a specific parameter by directly
+accessing the <a class="reference internal" href="../../api/gammapy.modeling.Parameter.html#gammapy.modeling.Parameter.error" title="gammapy.modeling.Parameter.error"><code class="xref py py-obj docutils literal notranslate"><span class="pre">error</span></code></a> attribute:</p>
+<div class="highlight-Python notranslate"><div class="highlight"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="n">crab_model</span><span class="o">.</span><span class="n">spectral_model</span><span class="o">.</span><span class="n">alpha</span><span class="o">.</span><span class="n">error</span><span class="p">)</span>
+</pre></div>
+</div>
+<p>As an example, this step is needed to produce a butterfly plot showing
+the envelope of the model taking into account parameter uncertainties.</p>
+<div class="highlight-Python notranslate"><div class="highlight"><pre><span></span><span class="n">energy_bounds</span> <span class="o">=</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span> <span class="mi">10</span><span class="p">]</span> <span class="o">*</span> <span class="n">u</span><span class="o">.</span><span class="n">TeV</span>
+<span class="n">crab_spectrum</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">energy_bounds</span><span class="o">=</span><span class="n">energy_bounds</span><span class="p">,</span> <span class="n">energy_power</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span>
+<span class="n">ax</span> <span class="o">=</span> <span class="n">crab_spectrum</span><span class="o">.</span><span class="n">plot_error</span><span class="p">(</span><span class="n">energy_bounds</span><span class="o">=</span><span class="n">energy_bounds</span><span class="p">,</span> <span class="n">energy_power</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+</pre></div>
+</div>
+</section>
+<section id="confidence-contours">
+<h2>Confidence contours<a class="headerlink" href="#confidence-contours" title="Link to this heading">#</a></h2>
+<p>In most studies, one wishes to estimate parameters distribution using
+observed sample data. A 1-dimensional confidence interval gives an
+estimated range of values which is likely to include an unknown
+parameter. A confidence contour is a 2-dimensional generalization of a
+confidence interval, often represented as an ellipsoid around the
+best-fit value.</p>
+<p>Gammapy offers two ways of computing confidence contours, in the
+dedicated methods <a class="reference internal" href="../../api/gammapy.modeling.Fit.html#gammapy.modeling.Fit.stat_contour" title="gammapy.modeling.Fit.stat_contour"><code class="xref py py-obj docutils literal notranslate"><span class="pre">stat_contour</span></code></a> and <a class="reference internal" href="../../api/gammapy.modeling.Fit.html#gammapy.modeling.Fit.stat_profile" title="gammapy.modeling.Fit.stat_profile"><code class="xref py py-obj docutils literal notranslate"><span class="pre">stat_profile</span></code></a>. In
+the following sections we will describe them.</p>
+<p>An important point to keep in mind is: <em>what does a</em> <span class="math notranslate nohighlight">\(N\sigma\)</span>
+<em>confidence contour really mean?</em> The answer is it represents the points
+of the parameter space for which the model likelihood is <span class="math notranslate nohighlight">\(N\sigma\)</span>
+above the minimum. But one always has to keep in mind that <strong>1 standard
+deviation in two dimensions has a smaller coverage probability than
+68%</strong>, and similarly for all other levels. In particular, in
+2-dimensions the probability enclosed by the <span class="math notranslate nohighlight">\(N\sigma\)</span> confidence
+contour is <span class="math notranslate nohighlight">\(P(N)=1-e^{-N^2/2}\)</span>.</p>
+<section id="computing-contours-using-stat-contour">
+<h3>Computing contours using <a class="reference internal" href="../../api/gammapy.modeling.Fit.html#gammapy.modeling.Fit.stat_contour" title="gammapy.modeling.Fit.stat_contour"><code class="xref py py-obj docutils literal notranslate"><span class="pre">stat_contour</span></code></a><a class="headerlink" href="#computing-contours-using-stat-contour" title="Link to this heading">#</a></h3>
+<p>After the fit, MINUIT offers the possibility to compute the confidence
+contours. gammapy provides an interface to this functionality through
+the <a class="reference internal" href="../../api/gammapy.modeling.Fit.html#gammapy.modeling.Fit" title="gammapy.modeling.Fit"><code class="xref py py-obj docutils literal notranslate"><span class="pre">Fit</span></code></a> object using the <a class="reference internal" href="../../api/gammapy.modeling.Fit.html#gammapy.modeling.Fit.stat_contour" title="gammapy.modeling.Fit.stat_contour"><code class="xref py py-obj docutils literal notranslate"><span class="pre">stat_contour</span></code></a> method. Here we defined a
+function to automate the contour production for the different
+parameter and confidence levels (expressed in terms of sigma):</p>
+<div class="highlight-Python notranslate"><div class="highlight"><pre><span></span><span class="k">def</span> <span class="nf">make_contours</span><span class="p">(</span><span class="n">fit</span><span class="p">,</span> <span class="n">datasets</span><span class="p">,</span> <span class="n">model</span><span class="p">,</span> <span class="n">params</span><span class="p">,</span> <span class="n">npoints</span><span class="p">,</span> <span class="n">sigmas</span><span class="p">):</span>
+    <span class="n">cts_sigma</span> <span class="o">=</span> <span class="p">[]</span>
+    <span class="k">for</span> <span class="n">sigma</span> <span class="ow">in</span> <span class="n">sigmas</span><span class="p">:</span>
+        <span class="n">contours</span> <span class="o">=</span> <span class="nb">dict</span><span class="p">()</span>
+        <span class="k">for</span> <span class="n">par_1</span><span class="p">,</span> <span class="n">par_2</span> <span class="ow">in</span> <span class="n">combinations</span><span class="p">(</span><span class="n">params</span><span class="p">,</span> <span class="n">r</span><span class="o">=</span><span class="mi">2</span><span class="p">):</span>
+            <span class="n">idx1</span><span class="p">,</span> <span class="n">idx2</span> <span class="o">=</span> <span class="n">model</span><span class="o">.</span><span class="n">parameters</span><span class="o">.</span><span class="n">index</span><span class="p">(</span><span class="n">par_1</span><span class="p">),</span> <span class="n">model</span><span class="o">.</span><span class="n">parameters</span><span class="o">.</span><span class="n">index</span><span class="p">(</span><span class="n">par_2</span><span class="p">)</span>
+            <span class="n">name1</span> <span class="o">=</span> <span class="n">model</span><span class="o">.</span><span class="n">parameters_unique_names</span><span class="p">[</span><span class="n">idx1</span><span class="p">]</span>
+            <span class="n">name2</span> <span class="o">=</span> <span class="n">model</span><span class="o">.</span><span class="n">parameters_unique_names</span><span class="p">[</span><span class="n">idx2</span><span class="p">]</span>
+            <span class="n">contour</span> <span class="o">=</span> <span class="n">fit</span><span class="o">.</span><span class="n">stat_contour</span><span class="p">(</span>
+                <span class="n">datasets</span><span class="o">=</span><span class="n">datasets</span><span class="p">,</span>
+                <span class="n">x</span><span class="o">=</span><span class="n">model</span><span class="o">.</span><span class="n">parameters</span><span class="p">[</span><span class="n">par_1</span><span class="p">],</span>
+                <span class="n">y</span><span class="o">=</span><span class="n">model</span><span class="o">.</span><span class="n">parameters</span><span class="p">[</span><span class="n">par_2</span><span class="p">],</span>
+                <span class="n">numpoints</span><span class="o">=</span><span class="n">npoints</span><span class="p">,</span>
+                <span class="n">sigma</span><span class="o">=</span><span class="n">sigma</span><span class="p">,</span>
+            <span class="p">)</span>
+            <span class="n">contours</span><span class="p">[</span><span class="sa">f</span><span class="s2">&quot;contour_</span><span class="si">{</span><span class="n">par_1</span><span class="si">}</span><span class="s2">_</span><span class="si">{</span><span class="n">par_2</span><span class="si">}</span><span class="s2">&quot;</span><span class="p">]</span> <span class="o">=</span> <span class="p">{</span>
+                <span class="n">par_1</span><span class="p">:</span> <span class="n">contour</span><span class="p">[</span><span class="sa">f</span><span class="s2">&quot;</span><span class="si">{</span><span class="n">model</span><span class="o">.</span><span class="n">name</span><span class="si">}</span><span class="s2">.</span><span class="si">{</span><span class="n">name1</span><span class="si">}</span><span class="s2">&quot;</span><span class="p">]</span><span class="o">.</span><span class="n">tolist</span><span class="p">(),</span>
+                <span class="n">par_2</span><span class="p">:</span> <span class="n">contour</span><span class="p">[</span><span class="sa">f</span><span class="s2">&quot;</span><span class="si">{</span><span class="n">model</span><span class="o">.</span><span class="n">name</span><span class="si">}</span><span class="s2">.</span><span class="si">{</span><span class="n">name2</span><span class="si">}</span><span class="s2">&quot;</span><span class="p">]</span><span class="o">.</span><span class="n">tolist</span><span class="p">(),</span>
+            <span class="p">}</span>
+        <span class="n">cts_sigma</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">contours</span><span class="p">)</span>
+    <span class="k">return</span> <span class="n">cts_sigma</span>
+</pre></div>
+</div>
+<p>Now we can compute few contours.</p>
+<div class="highlight-Python notranslate"><div class="highlight"><pre><span></span><span class="n">params</span> <span class="o">=</span> <span class="p">[</span><span class="s2">&quot;alpha&quot;</span><span class="p">,</span> <span class="s2">&quot;beta&quot;</span><span class="p">,</span> <span class="s2">&quot;amplitude&quot;</span><span class="p">]</span>
+<span class="n">sigmas</span> <span class="o">=</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">]</span>
+<span class="n">cts_sigma</span> <span class="o">=</span> <span class="n">make_contours</span><span class="p">(</span>
+    <span class="n">fit</span><span class="o">=</span><span class="n">fit</span><span class="p">,</span>
+    <span class="n">datasets</span><span class="o">=</span><span class="n">datasets</span><span class="p">,</span>
+    <span class="n">model</span><span class="o">=</span><span class="n">crab_model</span><span class="p">,</span>
+    <span class="n">params</span><span class="o">=</span><span class="n">params</span><span class="p">,</span>
+    <span class="n">npoints</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span>
+    <span class="n">sigmas</span><span class="o">=</span><span class="n">sigmas</span><span class="p">,</span>
+<span class="p">)</span>
+</pre></div>
+</div>
+<p>Define the combinations of parameters to plot</p>
+<div class="highlight-Python notranslate"><div class="highlight"><pre><span></span><span class="n">param_pairs</span> <span class="o">=</span> <span class="nb">list</span><span class="p">(</span><span class="n">combinations</span><span class="p">(</span><span class="n">params</span><span class="p">,</span> <span class="n">r</span><span class="o">=</span><span class="mi">2</span><span class="p">))</span>
+</pre></div>
+</div>
+<p>Labels for plotting</p>
+<div class="highlight-Python notranslate"><div class="highlight"><pre><span></span><span class="n">labels</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="s2">&quot;amplitude&quot;</span><span class="p">:</span> <span class="sa">r</span><span class="s2">&quot;$\phi_0 \,/\,({\rm TeV}^{-1} \, {\rm cm}^{-2} {\rm s}^{-1})$&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;alpha&quot;</span><span class="p">:</span> <span class="sa">r</span><span class="s2">&quot;$\alpha$&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;beta&quot;</span><span class="p">:</span> <span class="sa">r</span><span class="s2">&quot;$\beta$&quot;</span><span class="p">,</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+<p>Produce the confidence contours figures.</p>
+<div class="highlight-Python notranslate"><div class="highlight"><pre><span></span><span class="n">fig</span><span class="p">,</span> <span class="n">axes</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">subplots</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">3</span><span class="p">,</span> <span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">10</span><span class="p">,</span> <span class="mi">3</span><span class="p">))</span>
+<span class="n">colors</span> <span class="o">=</span> <span class="p">[</span><span class="s2">&quot;m&quot;</span><span class="p">,</span> <span class="s2">&quot;b&quot;</span><span class="p">,</span> <span class="s2">&quot;c&quot;</span><span class="p">]</span>
+
+<span class="k">for</span> <span class="p">(</span><span class="n">par_1</span><span class="p">,</span> <span class="n">par_2</span><span class="p">),</span> <span class="n">ax</span> <span class="ow">in</span> <span class="nb">zip</span><span class="p">(</span><span class="n">param_pairs</span><span class="p">,</span> <span class="n">axes</span><span class="p">):</span>
+    <span class="k">for</span> <span class="n">ks</span><span class="p">,</span> <span class="n">sigma</span> <span class="ow">in</span> <span class="nb">enumerate</span><span class="p">(</span><span class="n">sigmas</span><span class="p">):</span>
+        <span class="n">contour</span> <span class="o">=</span> <span class="n">cts_sigma</span><span class="p">[</span><span class="n">ks</span><span class="p">][</span><span class="sa">f</span><span class="s2">&quot;contour_</span><span class="si">{</span><span class="n">par_1</span><span class="si">}</span><span class="s2">_</span><span class="si">{</span><span class="n">par_2</span><span class="si">}</span><span class="s2">&quot;</span><span class="p">]</span>
+        <span class="n">plot_contour_line</span><span class="p">(</span>
+            <span class="n">ax</span><span class="p">,</span>
+            <span class="n">contour</span><span class="p">[</span><span class="n">par_1</span><span class="p">],</span>
+            <span class="n">contour</span><span class="p">[</span><span class="n">par_2</span><span class="p">],</span>
+            <span class="n">lw</span><span class="o">=</span><span class="mf">2.5</span><span class="p">,</span>
+            <span class="n">color</span><span class="o">=</span><span class="n">colors</span><span class="p">[</span><span class="n">ks</span><span class="p">],</span>
+            <span class="n">label</span><span class="o">=</span><span class="sa">f</span><span class="s2">&quot;</span><span class="si">{</span><span class="n">sigmas</span><span class="p">[</span><span class="n">ks</span><span class="p">]</span><span class="si">}</span><span class="s2">&quot;</span> <span class="o">+</span> <span class="sa">r</span><span class="s2">&quot;$\sigma$&quot;</span><span class="p">,</span>
+        <span class="p">)</span>
+    <span class="n">ax</span><span class="o">.</span><span class="n">set_xlabel</span><span class="p">(</span><span class="n">labels</span><span class="p">[</span><span class="n">par_1</span><span class="p">])</span>
+    <span class="n">ax</span><span class="o">.</span><span class="n">set_ylabel</span><span class="p">(</span><span class="n">labels</span><span class="p">[</span><span class="n">par_2</span><span class="p">])</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">legend</span><span class="p">()</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">tight_layout</span><span class="p">()</span>
+</pre></div>
+</div>
+</section>
+<section id="computing-contours-using-stat-surface">
+<h3>Computing contours using <a class="reference internal" href="../../api/gammapy.modeling.Fit.html#gammapy.modeling.Fit.stat_surface" title="gammapy.modeling.Fit.stat_surface"><code class="xref py py-obj docutils literal notranslate"><span class="pre">stat_surface</span></code></a><a class="headerlink" href="#computing-contours-using-stat-surface" title="Link to this heading">#</a></h3>
+<p>This alternative method for the computation of confidence contours,
+although more time consuming than <a class="reference internal" href="../../api/gammapy.modeling.Fit.html#gammapy.modeling.Fit.stat_contour" title="gammapy.modeling.Fit.stat_contour"><code class="xref py py-obj docutils literal notranslate"><span class="pre">stat_contour()</span></code></a>, is expected
+to be more stable. It consists of a generalization of
+<a class="reference internal" href="../../api/gammapy.modeling.Fit.html#gammapy.modeling.Fit.stat_profile" title="gammapy.modeling.Fit.stat_profile"><code class="xref py py-obj docutils literal notranslate"><span class="pre">stat_profile()</span></code></a> to a 2-dimensional parameter space. The algorithm
+is very simple: - First, passing two arrays of parameters values, a
+2-dimensional discrete parameter space is defined; - For each node of
+the parameter space, the two parameters of interest are frozen. This
+way, a likelihood value (<span class="math notranslate nohighlight">\(-2\mathrm{ln}\,\mathcal{L}\)</span>, actually)
+is computed, by either freezing (default) or fitting all nuisance
+parameters; - Finally, a 2-dimensional surface of
+<span class="math notranslate nohighlight">\(-2\mathrm{ln}(\mathcal{L})\)</span> values is returned. Using that
+surface, one can easily compute a surface of
+<span class="math notranslate nohighlight">\(TS = -2\Delta\mathrm{ln}(\mathcal{L})\)</span> and compute confidence
+contours.</p>
+<p>Let’s see it step by step.</p>
+<p>First of all, we can notice that this method is “backend-agnostic”,
+meaning that it can be run with MINUIT, sherpa or scipy as fitting
+tools. Here we will stick with MINUIT, which is the default choice:</p>
+<p>As an example, we can compute the confidence contour for the <code class="xref py py-obj docutils literal notranslate"><span class="pre">alpha</span></code>
+and <code class="xref py py-obj docutils literal notranslate"><span class="pre">beta</span></code> parameters of the <code class="xref py py-obj docutils literal notranslate"><span class="pre">dataset_hess</span></code>. Here we define the
+parameter space:</p>
+<div class="highlight-Python notranslate"><div class="highlight"><pre><span></span><span class="n">result</span> <span class="o">=</span> <span class="n">result_minuit</span>
+<span class="n">par_alpha</span> <span class="o">=</span> <span class="n">crab_model</span><span class="o">.</span><span class="n">parameters</span><span class="p">[</span><span class="s2">&quot;alpha&quot;</span><span class="p">]</span>
+<span class="n">par_beta</span> <span class="o">=</span> <span class="n">crab_model</span><span class="o">.</span><span class="n">parameters</span><span class="p">[</span><span class="s2">&quot;beta&quot;</span><span class="p">]</span>
+
+<span class="n">par_alpha</span><span class="o">.</span><span class="n">scan_values</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">linspace</span><span class="p">(</span><span class="mf">1.55</span><span class="p">,</span> <span class="mf">2.7</span><span class="p">,</span> <span class="mi">20</span><span class="p">)</span>
+<span class="n">par_beta</span><span class="o">.</span><span class="n">scan_values</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">linspace</span><span class="p">(</span><span class="o">-</span><span class="mf">0.05</span><span class="p">,</span> <span class="mf">0.55</span><span class="p">,</span> <span class="mi">20</span><span class="p">)</span>
+</pre></div>
+</div>
+<p>Then we run the algorithm, by choosing <code class="xref py py-obj docutils literal notranslate"><span class="pre">reoptimize=False</span></code> for the sake
+of time saving. In real life applications, we strongly recommend to use
+<code class="xref py py-obj docutils literal notranslate"><span class="pre">reoptimize=True</span></code>, so that all free nuisance parameters will be fit at
+each grid node. This is the correct way, statistically speaking, of
+computing confidence contours, but is expected to be time consuming.</p>
+<div class="highlight-Python notranslate"><div class="highlight"><pre><span></span><span class="n">fit</span> <span class="o">=</span> <span class="n">Fit</span><span class="p">(</span><span class="n">backend</span><span class="o">=</span><span class="s2">&quot;minuit&quot;</span><span class="p">,</span> <span class="n">optimize_opts</span><span class="o">=</span><span class="p">{</span><span class="s2">&quot;print_level&quot;</span><span class="p">:</span> <span class="mi">0</span><span class="p">})</span>
+<span class="n">stat_surface</span> <span class="o">=</span> <span class="n">fit</span><span class="o">.</span><span class="n">stat_surface</span><span class="p">(</span>
+    <span class="n">datasets</span><span class="o">=</span><span class="n">datasets</span><span class="p">,</span>
+    <span class="n">x</span><span class="o">=</span><span class="n">par_alpha</span><span class="p">,</span>
+    <span class="n">y</span><span class="o">=</span><span class="n">par_beta</span><span class="p">,</span>
+    <span class="n">reoptimize</span><span class="o">=</span><span class="kc">False</span><span class="p">,</span>
+<span class="p">)</span>
+</pre></div>
+</div>
+<p>In order to easily inspect the results, we can convert the
+<span class="math notranslate nohighlight">\(-2\mathrm{ln}(\mathcal{L})\)</span> surface to a surface of statistical
+significance (in units of Gaussian standard deviations from the surface
+minimum):</p>
+<div class="highlight-Python notranslate"><div class="highlight"><pre><span></span><span class="c1"># Compute TS</span>
+<span class="n">TS</span> <span class="o">=</span> <span class="n">stat_surface</span><span class="p">[</span><span class="s2">&quot;stat_scan&quot;</span><span class="p">]</span> <span class="o">-</span> <span class="n">result</span><span class="o">.</span><span class="n">total_stat</span>
+
+<span class="c1"># Compute the corresponding statistical significance surface</span>
+<span class="n">stat_surface</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">sqrt</span><span class="p">(</span><span class="n">TS</span><span class="o">.</span><span class="n">T</span><span class="p">)</span>
+</pre></div>
+</div>
+<p>Notice that, as explained before, <span class="math notranslate nohighlight">\(1\sigma\)</span> contour obtained this
+way will not contain 68% of the probability, but rather</p>
+<div class="highlight-Python notranslate"><div class="highlight"><pre><span></span><span class="c1"># Compute the corresponding statistical significance surface</span>
+<span class="c1"># p_value = 1 - st.chi2(df=1).cdf(TS)</span>
+<span class="c1"># gaussian_sigmas = st.norm.isf(p_value / 2).T</span>
+</pre></div>
+</div>
+<p>Finally, we can plot the surface values together with contours:</p>
+<div class="highlight-Python notranslate"><div class="highlight"><pre><span></span><span class="n">fig</span><span class="p">,</span> <span class="n">ax</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">subplots</span><span class="p">(</span><span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">8</span><span class="p">,</span> <span class="mi">6</span><span class="p">))</span>
+<span class="n">x_values</span> <span class="o">=</span> <span class="n">par_alpha</span><span class="o">.</span><span class="n">scan_values</span>
+<span class="n">y_values</span> <span class="o">=</span> <span class="n">par_beta</span><span class="o">.</span><span class="n">scan_values</span>
+
+<span class="c1"># plot surface</span>
+<span class="n">im</span> <span class="o">=</span> <span class="n">ax</span><span class="o">.</span><span class="n">pcolormesh</span><span class="p">(</span><span class="n">x_values</span><span class="p">,</span> <span class="n">y_values</span><span class="p">,</span> <span class="n">stat_surface</span><span class="p">,</span> <span class="n">shading</span><span class="o">=</span><span class="s2">&quot;auto&quot;</span><span class="p">)</span>
+<span class="n">fig</span><span class="o">.</span><span class="n">colorbar</span><span class="p">(</span><span class="n">im</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s2">&quot;sqrt(TS)&quot;</span><span class="p">)</span>
+<span class="n">ax</span><span class="o">.</span><span class="n">set_xlabel</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;</span><span class="si">{</span><span class="n">par_alpha</span><span class="o">.</span><span class="n">name</span><span class="si">}</span><span class="s2">&quot;</span><span class="p">)</span>
+<span class="n">ax</span><span class="o">.</span><span class="n">set_ylabel</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;</span><span class="si">{</span><span class="n">par_beta</span><span class="o">.</span><span class="n">name</span><span class="si">}</span><span class="s2">&quot;</span><span class="p">)</span>
+
+<span class="c1"># We choose to plot 1 and 2 sigma confidence contours</span>
+<span class="n">levels</span> <span class="o">=</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">]</span>
+<span class="n">contours</span> <span class="o">=</span> <span class="n">ax</span><span class="o">.</span><span class="n">contour</span><span class="p">(</span><span class="n">x_values</span><span class="p">,</span> <span class="n">y_values</span><span class="p">,</span> <span class="n">stat_surface</span><span class="p">,</span> <span class="n">levels</span><span class="o">=</span><span class="n">levels</span><span class="p">,</span> <span class="n">colors</span><span class="o">=</span><span class="s2">&quot;white&quot;</span><span class="p">)</span>
+<span class="n">ax</span><span class="o">.</span><span class="n">clabel</span><span class="p">(</span><span class="n">contours</span><span class="p">,</span> <span class="n">fmt</span><span class="o">=</span><span class="s2">&quot;</span><span class="si">%.0f</span><span class="s2"> $</span><span class="se">\\</span><span class="s2">sigma$&quot;</span><span class="p">,</span> <span class="n">inline</span><span class="o">=</span><span class="mi">3</span><span class="p">,</span> <span class="n">fontsize</span><span class="o">=</span><span class="mi">15</span><span class="p">)</span>
+
+<span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+</pre></div>
+</div>
+<p>Note that, if computed with <code class="xref py py-obj docutils literal notranslate"><span class="pre">reoptimize=True</span></code>, this plot would be
+completely consistent with the third panel of the plot produced with
+<a class="reference internal" href="../../api/gammapy.modeling.Fit.html#gammapy.modeling.Fit.stat_contour" title="gammapy.modeling.Fit.stat_contour"><code class="xref py py-obj docutils literal notranslate"><span class="pre">stat_contour</span></code></a> (try!).</p>
+<p>Finally, it is always remember that confidence contours are
+approximations. In particular, when the parameter range boundaries are
+close to the contours lines, it is expected that the statistical meaning
+of the contours is not well defined. That’s why we advise to always
+choose a parameter space that contains the contours you’re interested
+in.</p>
+<div class="sphx-glr-footer sphx-glr-footer-example docutils container" id="sphx-glr-download-tutorials-api-fitting-py">
+<div class="binder-badge docutils container">
+<a class="reference external image-reference" href="https://mybinder.org/v2/gh/gammapy/gammapy-webpage/main?urlpath=lab/tree/notebooks/dev/tutorials/api/fitting.ipynb"><img alt="Launch binder" src="../../_images/binder_badge_logo4.svg" style="width: 150px;" />
+</a>
+</div>
+<div class="sphx-glr-download sphx-glr-download-jupyter docutils container">
+<p><a class="reference download internal" download="" href="../../_downloads/ccdc06d762dc1d0b38c832e8f42c4b5b/fitting.ipynb"><code class="xref download docutils literal notranslate"><span class="pre">Download</span> <span class="pre">Jupyter</span> <span class="pre">notebook:</span> <span class="pre">fitting.ipynb</span></code></a></p>
+</div>
+<div class="sphx-glr-download sphx-glr-download-python docutils container">
+<p><a class="reference download internal" download="" href="../../_downloads/e79f6063c5268cb913998ce1d768464f/fitting.py"><code class="xref download docutils literal notranslate"><span class="pre">Download</span> <span class="pre">Python</span> <span class="pre">source</span> <span class="pre">code:</span> <span class="pre">fitting.py</span></code></a></p>
+</div>
+<div class="sphx-glr-download sphx-glr-download-zip docutils container">
+<p><a class="reference download internal" download="" href="../../_downloads/920df746e67257657f5d44e868b95ff9/fitting.zip"><code class="xref download docutils literal notranslate"><span class="pre">Download</span> <span class="pre">zipped:</span> <span class="pre">fitting.zip</span></code></a></p>
+</div>
+</div>
+<p class="sphx-glr-signature"><a class="reference external" href="https://sphinx-gallery.github.io">Gallery generated by Sphinx-Gallery</a></p>
+</section>
+</section>
+</section>
+
+
+                </article>
+              
+              
+              
+              
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+<div
+    id="pst-page-navigation-heading-2"
+    class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> On this page
+  </div>
+  <nav class="bd-toc-nav page-toc" aria-labelledby="pst-page-navigation-heading-2">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#prerequisites">Prerequisites</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#proposed-approach">Proposed approach</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-setup">The setup</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#check-setup">Check setup</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#model-and-dataset">Model and dataset</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#fitting-options">Fitting options</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#fit-quality-assessment">Fit quality assessment</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#covariance-and-parameters-errors">Covariance and parameters errors</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#confidence-contours">Confidence contours</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#computing-contours-using-stat-contour">Computing contours using <code class="xref py py-obj docutils literal notranslate"><span class="pre">stat_contour</span></code></a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#computing-contours-using-stat-surface">Computing contours using <code class="xref py py-obj docutils literal notranslate"><span class="pre">stat_surface</span></code></a></li>
+</ul>
+</li>
+</ul>
+  </nav></div>
+
+  <div class="sidebar-secondary-item">
+
+  <div class="tocsection sourcelink">
+    <a href="../../_sources/tutorials/api/fitting.rst.txt">
+      <i class="fa-solid fa-file-lines"></i> Show Source
+    </a>
+  </div>
+</div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+          </footer>
+        
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="../../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+  <footer class="bd-footer">
+<div class="bd-footer__inner bd-page-width">
+  
+    <div class="footer-items__start">
+      
+        <div class="footer-item">
+
+  <p class="copyright">
+    
+      © Copyright 2024, The Gammapy developers.
+      <br/>
+    
+  </p>
+</div>
+      
+        <div class="footer-item">
+
+  <p class="sphinx-version">
+    Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 8.0.2.
+    <br/>
+  </p>
+</div>
+      
+    </div>
+  
+  
+  
+    <div class="footer-items__end">
+      
+        <div class="footer-item">
+<p class="theme-version">
+  Built with the <a href="https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html">PyData Sphinx Theme</a> 0.15.4.
+</p></div>
+      
+    </div>
+  
+</div>
+
+  </footer>
+  </body>
+</html>

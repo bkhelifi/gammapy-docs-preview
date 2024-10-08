@@ -1,0 +1,42 @@
+
+
+Examples using ``gammapy.datasets.FluxPointsDataset.models``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. start-sphx-glr-thumbnails
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbnails">
+
+.. thumbnail-parent-div-open
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Simulate and fit a time decaying light curve of a source using the CTA 1DC response.">
+
+.. only:: html
+
+  .. image:: /tutorials/analysis-time/images/thumb/sphx_glr_light_curve_simulation_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_analysis-time_light_curve_simulation.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Simulating and fitting a time varying source</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_analysis-time_light_curve_simulation.py`
+
+.. thumbnail-parent-div-close
+
+.. raw:: html
+
+    </div>
+

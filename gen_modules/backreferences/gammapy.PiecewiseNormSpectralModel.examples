@@ -1,0 +1,42 @@
+
+
+Examples using ``gammapy.PiecewiseNormSpectralModel``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. start-sphx-glr-thumbnails
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbnails">
+
+.. thumbnail-parent-div-open
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="This model parametrises a piecewise spectral correction with a free norm parameter at each fixed energy node.">
+
+.. only:: html
+
+  .. image:: /user-guide/model-gallery/spectral/images/thumb/sphx_glr_plot_piecewise_norm_spectral_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_user-guide_model-gallery_spectral_plot_piecewise_norm_spectral.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Piecewise  norm spectral model</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_user-guide_model-gallery_spectral_plot_piecewise_norm_spectral.py`
+
+.. thumbnail-parent-div-close
+
+.. raw:: html
+
+    </div>
+

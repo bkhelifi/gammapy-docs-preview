@@ -1,0 +1,42 @@
+
+
+Examples using ``gammapy.Models.freeze``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. start-sphx-glr-thumbnails
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbnails">
+
+.. thumbnail-parent-div-open
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Multiple datasets and models interaction in Gammapy.">
+
+.. only:: html
+
+  .. image:: /tutorials/api/images/thumb/sphx_glr_model_management_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_api_model_management.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Modelling</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_api_model_management.py`
+
+.. thumbnail-parent-div-close
+
+.. raw:: html
+
+    </div>
+

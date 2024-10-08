@@ -1,0 +1,42 @@
+
+
+Examples using ``gammapy.WcsNDMap.meta``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. start-sphx-glr-thumbnails
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbnails">
+
+.. thumbnail-parent-div-open
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="HAWC is an array of water Cherenkov detectors located in Mexico that detects gamma-rays in the range between hundreds of GeV and hundreds of TeV. Gammapy recently added support of HAWC high level data analysis, after export to the current open data level 3 format.">
+
+.. only:: html
+
+  .. image:: /tutorials/data/images/thumb/sphx_glr_hawc_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_data_hawc.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">HAWC with Gammapy</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_data_hawc.py`
+
+.. thumbnail-parent-div-close
+
+.. raw:: html
+
+    </div>
+

@@ -1,0 +1,105 @@
+
+
+Examples using ``gammapy.Map.data``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. start-sphx-glr-thumbnails
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbnails">
+
+.. thumbnail-parent-div-open
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Introduction to basic data structures handling.">
+
+.. only:: html
+
+  .. image:: /tutorials/starting/images/thumb/sphx_glr_overview_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_starting_overview.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Data structures</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_starting_overview.py`
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="HAWC is an array of water Cherenkov detectors located in Mexico that detects gamma-rays in the range between hundreds of GeV and hundreds of TeV. Gammapy recently added support of HAWC high level data analysis, after export to the current open data level 3 format.">
+
+.. only:: html
+
+  .. image:: /tutorials/data/images/thumb/sphx_glr_hawc_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_data_hawc.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">HAWC with Gammapy</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_data_hawc.py`
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="A thorough tutorial to work with WCS maps.">
+
+.. only:: html
+
+  .. image:: /tutorials/api/images/thumb/sphx_glr_maps_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_api_maps.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Maps</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_api_maps.py`
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Create and apply masks maps.">
+
+.. only:: html
+
+  .. image:: /tutorials/api/images/thumb/sphx_glr_mask_maps_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_api_mask_maps.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Mask maps</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_api_mask_maps.py`
+
+.. thumbnail-parent-div-close
+
+.. raw:: html
+
+    </div>
+

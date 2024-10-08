@@ -1,0 +1,42 @@
+
+
+Examples using ``gammapy.GaussianSpectralModel``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. start-sphx-glr-thumbnails
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbnails">
+
+.. thumbnail-parent-div-open
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="This model parametrises a gaussian spectrum.">
+
+.. only:: html
+
+  .. image:: /user-guide/model-gallery/spectral/images/thumb/sphx_glr_plot_gauss_spectral_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_user-guide_model-gallery_spectral_plot_gauss_spectral.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Gaussian spectral model</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_user-guide_model-gallery_spectral_plot_gauss_spectral.py`
+
+.. thumbnail-parent-div-close
+
+.. raw:: html
+
+    </div>
+

@@ -1,0 +1,147 @@
+
+
+Examples using ``gammapy.estimators.ExcessMapEstimator.run``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. start-sphx-glr-thumbnails
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbnails">
+
+.. thumbnail-parent-div-open
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="HAWC is an array of water Cherenkov detectors located in Mexico that detects gamma-rays in the range between hundreds of GeV and hundreds of TeV. Gammapy recently added support of HAWC high level data analysis, after export to the current open data level 3 format.">
+
+.. only:: html
+
+  .. image:: /tutorials/data/images/thumb/sphx_glr_hawc_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_data_hawc.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">HAWC with Gammapy</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_data_hawc.py`
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Create an excess (gamma-ray events) and a significance map extracting a ring background.">
+
+.. only:: html
+
+  .. image:: /tutorials/analysis-2d/images/thumb/sphx_glr_ring_background_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_analysis-2d_ring_background.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Ring background map</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_analysis-2d_ring_background.py`
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Perform detailed 3D stacked and joint analysis.">
+
+.. only:: html
+
+  .. image:: /tutorials/analysis-3d/images/thumb/sphx_glr_analysis_3d_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_analysis-3d_analysis_3d.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">3D detailed analysis</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_analysis-3d_analysis_3d.py`
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Produce a phasogram, phased-resolved maps and spectra for pulsar analysis.   Introduction ------------">
+
+.. only:: html
+
+  .. image:: /tutorials/analysis-time/images/thumb/sphx_glr_pulsar_analysis_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_analysis-time_pulsar_analysis.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Pulsar analysis</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_analysis-time_pulsar_analysis.py`
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="This tutorial provides an overview of the Estimator API. All estimators live in the gammapy.estimators sub-module, offering a range of algorithms and classes for high-level flux and significance estimation. This is accomplished through a common functionality allowing the estimation of flux points, light curves, flux maps and profiles via a common API.">
+
+.. only:: html
+
+  .. image:: /tutorials/api/images/thumb/sphx_glr_estimators_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_api_estimators.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Estimators</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_api_estimators.py`
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Create and apply masks maps.">
+
+.. only:: html
+
+  .. image:: /tutorials/api/images/thumb/sphx_glr_mask_maps_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_api_mask_maps.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Mask maps</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_api_mask_maps.py`
+
+.. thumbnail-parent-div-close
+
+.. raw:: html
+
+    </div>
+

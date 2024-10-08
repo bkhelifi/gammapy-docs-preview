@@ -1,0 +1,42 @@
+
+
+Examples using ``gammapy.utils.cluster.standard_scaler``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. start-sphx-glr-thumbnails
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbnails">
+
+.. thumbnail-parent-div-open
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Clustering observations into specific groups.">
+
+.. only:: html
+
+  .. image:: /tutorials/api/images/thumb/sphx_glr_observation_clustering_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_api_observation_clustering.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Observational clustering</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_api_observation_clustering.py`
+
+.. thumbnail-parent-div-close
+
+.. raw:: html
+
+    </div>
+

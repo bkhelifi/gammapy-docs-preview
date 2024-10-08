@@ -1,0 +1,42 @@
+
+
+Examples using ``gammapy.modeling.models.TemplatePhaseCurveTemporalModel``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. start-sphx-glr-thumbnails
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbnails">
+
+.. thumbnail-parent-div-open
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="This model parametrises a PhaseCurve time model, i.e. with a template phasogram and timing parameters">
+
+.. only:: html
+
+  .. image:: /user-guide/model-gallery/temporal/images/thumb/sphx_glr_plot_template_phase_temporal_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_user-guide_model-gallery_temporal_plot_template_phase_temporal.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Phase curve temporal model</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_user-guide_model-gallery_temporal_plot_template_phase_temporal.py`
+
+.. thumbnail-parent-div-close
+
+.. raw:: html
+
+    </div>
+

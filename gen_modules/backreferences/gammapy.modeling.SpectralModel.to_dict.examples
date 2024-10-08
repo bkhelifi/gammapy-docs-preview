@@ -1,0 +1,42 @@
+
+
+Examples using ``gammapy.modeling.SpectralModel.to_dict``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. start-sphx-glr-thumbnails
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbnails">
+
+.. thumbnail-parent-div-open
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Learn how you can include prior knowledge into the fitting by setting priors on single parameters.">
+
+.. only:: html
+
+  .. image:: /tutorials/api/images/thumb/sphx_glr_priors_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_tutorials_api_priors.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Priors</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_tutorials_api_priors.py`
+
+.. thumbnail-parent-div-close
+
+.. raw:: html
+
+    </div>
+
